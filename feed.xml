@@ -91,9 +91,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)</title>
+   <title>⁧איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)⁩</title>
    <description>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם.</description>
-   <itunes:title>איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)</itunes:title>
+   <itunes:title>⁧איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)⁩</itunes:title>
    <itunes:summary>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep014-observability.mp3" length="4263228" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep014</guid>
@@ -106,9 +106,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)</title>
+   <title>⁧לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)⁩</title>
    <description>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל.</description>
-   <itunes:title>לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)</itunes:title>
+   <itunes:title>⁧לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)⁩</itunes:title>
    <itunes:summary>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep013-pull-request.mp3" length="4387676" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep013</guid>
@@ -121,9 +121,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)</title>
+   <title>⁧איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)⁩</title>
    <description>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל.</description>
-   <itunes:title>איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)</itunes:title>
+   <itunes:title>⁧איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)⁩</itunes:title>
    <itunes:summary>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep012-mcp.mp3" length="4073579" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep012</guid>
@@ -136,9 +136,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>הזיכרון המהיר שגם יודע לשקר (Cache)</title>
+   <title>⁧הזיכרון המהיר שגם יודע לשקר (Cache)⁩</title>
    <description>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff.</description>
-   <itunes:title>הזיכרון המהיר שגם יודע לשקר (Cache)</itunes:title>
+   <itunes:title>⁧הזיכרון המהיר שגם יודע לשקר (Cache)⁩</itunes:title>
    <itunes:summary>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep011-cache.mp3" length="4149125" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep011</guid>
@@ -151,9 +151,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>הכול קורה, או ששום דבר לא קורה (Database Transaction)</title>
+   <title>⁧הכול קורה, או ששום דבר לא קורה (Database Transaction)⁩</title>
    <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך.</description>
-   <itunes:title>הכול קורה, או ששום דבר לא קורה (Database Transaction)</itunes:title>
+   <itunes:title>⁧הכול קורה, או ששום דבר לא קורה (Database Transaction)⁩</itunes:title>
    <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep010</guid>
@@ -166,9 +166,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>החוזה שמאפשר לתוכנות לעבוד יחד (API)</title>
+   <title>⁧החוזה שמאפשר לתוכנות לעבוד יחד (API)⁩</title>
    <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה.</description>
-   <itunes:title>החוזה שמאפשר לתוכנות לעבוד יחד (API)</itunes:title>
+   <itunes:title>⁧החוזה שמאפשר לתוכנות לעבוד יחד (API)⁩</itunes:title>
    <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep009</guid>
@@ -181,9 +181,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>ניסוי בצד בלי לשכפל את כל הבית (Git Branches)</title>
+   <title>⁧ניסוי בצד בלי לשכפל את כל הבית (Git Branches)⁩</title>
    <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge.</description>
-   <itunes:title>ניסוי בצד בלי לשכפל את כל הבית (Git Branches)</itunes:title>
+   <itunes:title>⁧ניסוי בצד בלי לשכפל את כל הבית (Git Branches)⁩</itunes:title>
    <itunes:summary>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep008</guid>
@@ -196,9 +196,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)</title>
+   <title>⁧איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)⁩</title>
    <description>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה.</description>
-   <itunes:title>איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)</itunes:title>
+   <itunes:title>⁧איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)⁩</itunes:title>
    <itunes:summary>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep007-idempotency.mp3" length="4004616" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep007</guid>
@@ -211,9 +211,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>לא Chat עם קוד, אלא עובד עם כלים (Cursor Agent)</title>
+   <title>⁧לא Chat עם קוד, אלא עובד עם כלים (Cursor Agent)⁩</title>
    <description>Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor. פרומפט להטמעה: הפוך את המשימה שלי ל-brief בטוח ל-Cursor Agent: תוצאה רצויה, scope, files רלוונטיים, constraints ובדיקות קבלה. המלץ אם להתחיל ב-Ask, Plan או Agent, ובנה checklist ל-review של ה-diff לפני Git.</description>
-   <itunes:title>לא Chat עם קוד, אלא עובד עם כלים (Cursor Agent)</itunes:title>
+   <itunes:title>⁧לא Chat עם קוד, אלא עובד עם כלים (Cursor Agent)⁩</itunes:title>
    <itunes:summary>Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor. פרומפט להטמעה: הפוך את המשימה שלי ל-brief בטוח ל-Cursor Agent: תוצאה רצויה, scope, files רלוונטיים, constraints ובדיקות קבלה. המלץ אם להתחיל ב-Ask, Plan או Agent, ובנה checklist ל-review של ה-diff לפני Git.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep006-cursor-agent.mp3" length="4024991" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep006</guid>
@@ -226,9 +226,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>ההבדל בין Prompt טוב לזיכרון של פרויקט (CLAUDE.md)</title>
+   <title>⁧ההבדל בין Prompt טוב לזיכרון של פרויקט (CLAUDE.md)⁩</title>
    <description>Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני. פרומפט להטמעה: ראיין אותי על פקודות, conventions, מבנה הפרויקט ומלכודות שחוזרות, ואז הצע CLAUDE.md קצר ומדויק. הפרד בין context קבוע, הוראה למשימה הנוכחית, וכלל שדורש enforcement טכני ולא רק טקסט.</description>
-   <itunes:title>ההבדל בין Prompt טוב לזיכרון של פרויקט (CLAUDE.md)</itunes:title>
+   <itunes:title>⁧ההבדל בין Prompt טוב לזיכרון של פרויקט (CLAUDE.md)⁩</itunes:title>
    <itunes:summary>Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני. פרומפט להטמעה: ראיין אותי על פקודות, conventions, מבנה הפרויקט ומלכודות שחוזרות, ואז הצע CLAUDE.md קצר ומדויק. הפרד בין context קבוע, הוראה למשימה הנוכחית, וכלל שדורש enforcement טכני ולא רק טקסט.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep005-claude-md.mp3" length="4086118" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep005</guid>
@@ -241,9 +241,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>השיחה שמפעילה כמעט כל מוצר דיגיטלי (Client ו-Server)</title>
+   <title>⁧השיחה שמפעילה כמעט כל מוצר דיגיטלי (Client ו-Server)⁩</title>
    <description>אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת. פרומפט להטמעה: מפה את ה-flow הבא כשיחה בין client ל-server: מי שולח request, לאיזה endpoint, איזה data עובר, ומה חוזר ב-response. הוסף את מצבי הכשל העיקריים ואיך נאבחן כל אחד בלי לנחש.</description>
-   <itunes:title>השיחה שמפעילה כמעט כל מוצר דיגיטלי (Client ו-Server)</itunes:title>
+   <itunes:title>⁧השיחה שמפעילה כמעט כל מוצר דיגיטלי (Client ו-Server)⁩</itunes:title>
    <itunes:summary>אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת. פרומפט להטמעה: מפה את ה-flow הבא כשיחה בין client ל-server: מי שולח request, לאיזה endpoint, איזה data עובר, ומה חוזר ב-response. הוסף את מצבי הכשל העיקריים ואיך נאבחן כל אחד בלי לנחש.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep004-client-server.mp3" length="3882676" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep004</guid>
@@ -256,9 +256,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>למה שומרים שינוי בשני צעדים (Git Staging)</title>
+   <title>⁧למה שומרים שינוי בשני צעדים (Git Staging)⁩</title>
    <description>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs. פרומפט להטמעה: בדוק איתי את git status וה-diff, וחלק את השינויים לקבוצות קטנות עם כוונה אחת בכל commit. הצע בדיוק אילו files לעשות להם stage וניסוח commit message שמתאר מה השתנה ולמה.</description>
-   <itunes:title>למה שומרים שינוי בשני צעדים (Git Staging)</itunes:title>
+   <itunes:title>⁧למה שומרים שינוי בשני צעדים (Git Staging)⁩</itunes:title>
    <itunes:summary>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs. פרומפט להטמעה: בדוק איתי את git status וה-diff, וחלק את השינויים לקבוצות קטנות עם כוונה אחת בכל commit. הצע בדיוק אילו files לעשות להם stage וניסוח commit message שמתאר מה השתנה ולמה.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep003-git-staging.mp3" length="3656978" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep003</guid>
@@ -271,9 +271,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>למה Path הוא כתובת, לא קוד מסתורי</title>
+   <title>⁧למה Path הוא כתובת, לא קוד מסתורי⁩</title>
    <description>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd. פרומפט להטמעה: עזור לי למפות את מבנה התיקיות של הפרויקט ולהסביר אילו paths הם absolute ואילו relative מנקודת העבודה הנוכחית. לפני כל פעולה בקבצים, בקש ממני לאמת pwd ו-ls והזהר אם ה-scope רחב מהנדרש.</description>
-   <itunes:title>למה Path הוא כתובת, לא קוד מסתורי</itunes:title>
+   <itunes:title>⁧למה Path הוא כתובת, לא קוד מסתורי⁩</itunes:title>
    <itunes:summary>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd. פרומפט להטמעה: עזור לי למפות את מבנה התיקיות של הפרויקט ולהסביר אילו paths הם absolute ואילו relative מנקודת העבודה הנוכחית. לפני כל פעולה בקבצים, בקש ממני לאמת pwd ו-ls והזהר אם ה-scope רחב מהנדרש.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep002-paths.mp3" length="3629080" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep002</guid>
@@ -286,9 +286,9 @@
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
-   <title>תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד</title>
+   <title>⁧תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד⁩</title>
    <description>השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1. פרומפט להטמעה: מפה את הפעולות שהסוכן שלי יכול לבצע וסווג כל אחת לפי מחיר הטעות, קושי הביטול והיקף ההשפעה. הצע לכל פעולה רמת אוטונומיה, נקודת אישור ומנגנון rollback שמקטינים את הנזק האפשרי.</description>
-   <itunes:title>תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד</itunes:title>
+   <itunes:title>⁧תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד⁩</itunes:title>
    <itunes:summary>השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1. פרומפט להטמעה: מפה את הפעולות שהסוכן שלי יכול לבצע וסווג כל אחת לפי מחיר הטעות, קושי הביטול והיקף ההשפעה. הצע לכל פעולה רמת אוטונומיה, נקודת אישור ומנגנון rollback שמקטינים את הנזק האפשרי.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep001-reversibility-budget.mp3" length="3711836" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep001</guid>
