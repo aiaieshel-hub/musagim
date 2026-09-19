@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Database Transaction: הכול קורה, או ששום דבר לא קורה</title>
+   <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs, zero2claude.dev.</description>
+   <itunes:title>Database Transaction: הכול קורה, או ששום דבר לא קורה</itunes:title>
+   <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs, zero2claude.dev.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep010</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep010</link>
+   <pubDate>Sat, 19 Sep 2026 14:38:10 +0300</pubDate>
+   <itunes:duration>00:05:56</itunes:duration>
+   <itunes:episode>10</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>API: החוזה שמאפשר לתוכנות לעבוד יחד</title>
    <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev.</description>
    <itunes:title>API: החוזה שמאפשר לתוכנות לעבוד יחד</itunes:title>

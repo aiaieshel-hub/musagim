@@ -89,6 +89,15 @@
    "duration": 346,
    "size": 4156335,
    "summary": "מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev."
+  },
+  {
+   "num": 10,
+   "file": "ep010-database-transaction.mp3",
+   "title": "Database Transaction: הכול קורה, או ששום דבר לא קורה",
+   "date": "Sat, 19 Sep 2026 14:38:10 +0300",
+   "duration": 356,
+   "size": 4274827,
+   "summary": "מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs, zero2claude.dev."
   }
  ]
 }
