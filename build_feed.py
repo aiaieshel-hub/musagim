@@ -12,7 +12,7 @@ def fmt_dur(s):
 
 def main():
     data = json.load(open(os.path.join(HERE, "episodes.json"), encoding="utf-8"))
-    show = data["show"]; eps = data["episodes"]
+    show = data["show"]; eps = [e for e in data["episodes"] if e.get("status", "published") == "published"]
     items = []
     for ep in reversed(eps):  # newest first
         t = html.escape(ep["title"]); d = html.escape(ep["summary"])

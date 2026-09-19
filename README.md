@@ -17,3 +17,9 @@ Git access: fine-grained PAT `musagim-feed-publisher` (vault: "GitHub PAT - musa
 Web uploads via github.com rename staged files with numeric prefixes - use git, or fix names after.
 
 Note: each episode entry must include a `prompt` field (the episode's apply-prompt, Hebrew). It renders as a copyable 'פרומפט להטמעה' box in the episode card on the site and is also appended to the summary.
+
+## Draft / re-publish workflow (approved 2026-09-19)
+Episodes carry a `status` field in episodes.json: `published` or `draft`.
+Only `published` episodes are written to feed.xml and index.html (draft mp3s/covers stay in episodes/, unlisted).
+Re-publish rule: an episode returns to `published` only after the user writes his application notes for it in the learning system.
+The apply-prompt rewrite (new 8-part brief + 6/6 check standard) is NOT synced to the site until the user approves the 5 review batches.
