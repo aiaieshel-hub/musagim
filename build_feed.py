@@ -127,6 +127,13 @@ ol.episodes li{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12p
 .suggest{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12px;padding:1.1rem 1.3rem;margin:1.4rem 0 1.8rem}}
 .suggest h2{{font-size:1.35rem;font-weight:800;color:var(--teal-dark);margin:0 0 0.3rem}}
 .suggest p.hint{{margin:0 0 0.8rem;font-size:0.95rem;color:#45413a}}
+.suggest summary{{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:0.7rem;flex-wrap:wrap}}
+.suggest summary::-webkit-details-marker{{display:none}}
+.suggest summary::before{{content:"▸";color:var(--teal-dark);font-weight:800;transition:transform .15s}}
+.suggest[open] summary::before{{content:"▾"}}
+.suggest summary h2{{display:inline-block;margin:0}}
+.suggest .s-hint{{font-size:0.92rem;color:#5a5548;font-weight:600}}
+.suggest[open] .s-hint{{display:none}}
 .suggest textarea{{width:100%;min-height:90px;border:2px solid var(--ink);border-radius:10px;padding:0.6rem 0.8rem;font-family:inherit;font-size:1rem;background:#fff;resize:vertical;box-sizing:border-box}}
 .suggest input.nick{{width:100%;max-width:280px;border:2px solid var(--ink);border-radius:10px;padding:0.45rem 0.8rem;font-family:inherit;font-size:0.95rem;background:#fff;margin-top:0.6rem;box-sizing:border-box}}
 .suggest .hp{{position:absolute;right:-9999px;opacity:0;height:0;overflow:hidden}}
@@ -188,15 +195,15 @@ footer a{{color:var(--teal-dark)}}
 </ol>
 <span class="feed-url">{BASE}/feed.xml</span>
 </details>
-<section class="suggest" id="suggest">
-<h2>תיבת הצעות</h2>
-<p class="hint">יש מושג שבא לכם שנסביר בפרק? כתבו כאן - כל הצעה נקראת.</p>
+<details class="suggest" id="suggest">
+<summary><h2>תיבת הצעות</h2><span class="s-hint">יש מושג שבא לכם שנסביר בפרק? לחצו לפתיחה</span></summary>
+<p class="hint">כתבו כאן - כל הצעה נקראת.</p>
 <textarea id="s-text" maxlength="1000" placeholder="למשל: מה זה בעצם סוכן AI?"></textarea>
 <input class="nick" id="s-nick" maxlength="60" placeholder="שם או כינוי (לא חובה)">
 <input class="hp" id="s-hp" type="text" tabindex="-1" autocomplete="off" aria-hidden="true">
 <button class="btn" id="s-send" type="button">שליחת הצעה</button>
 <p class="s-msg" id="s-msg"></p>
-</section>
+</details>
 <section class="eps" id="eps">
 <h2>פרקים</h2>
 <ol class="episodes">{rows}</ol>
