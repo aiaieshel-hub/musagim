@@ -23,6 +23,7 @@ def main():
    <itunes:summary>{d}</itunes:summary>
    <enclosure url="{BASE}/episodes/{ep['file']}" length="{ep['size']}" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep{ep['num']:03d}</guid>
+   <link>{BASE}/#ep{ep['num']:03d}</link>
    <pubDate>{ep['date']}</pubDate>
    <itunes:duration>{fmt_dur(ep['duration'])}</itunes:duration>
    <itunes:episode>{ep['num']}</itunes:episode>
@@ -52,7 +53,7 @@ def main():
 """
     open(os.path.join(HERE, "feed.xml"), "w", encoding="utf-8").write(feed)
     rows = "\n".join(
-        f'<li dir="rtl"><div class="ep-head"><b>פרק {e["num"]:03d}</b><span class="ep-title">{html.escape(e["title"])}</span></div>'
+        f'<li dir="rtl" id="ep{e["num"]:03d}"><div class="ep-head"><b>פרק {e["num"]:03d}</b><span class="ep-title">{html.escape(e["title"])}</span></div>'
         f'<p class="ep-sum">{html.escape(e["summary"])}</p>'
         f'<audio controls preload="none" src="episodes/{e["file"]}"></audio></li>'
         for e in reversed(eps))

@@ -22,6 +22,7 @@
    <itunes:summary>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep008</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep008</link>
    <pubDate>Sat, 19 Sep 2026 12:30:20 +0300</pubDate>
    <itunes:duration>00:05:16</itunes:duration>
    <itunes:episode>8</itunes:episode>
@@ -35,6 +36,7 @@
    <itunes:summary>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep007-idempotency.mp3" length="4004616" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep007</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep007</link>
    <pubDate>Sat, 19 Sep 2026 11:23:17 +0300</pubDate>
    <itunes:duration>00:05:34</itunes:duration>
    <itunes:episode>7</itunes:episode>
@@ -48,6 +50,7 @@
    <itunes:summary>Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep006-cursor-agent.mp3" length="4024991" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep006</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep006</link>
    <pubDate>Sat, 19 Sep 2026 10:23:02 +0300</pubDate>
    <itunes:duration>00:05:35</itunes:duration>
    <itunes:episode>6</itunes:episode>
@@ -61,6 +64,7 @@
    <itunes:summary>Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep005-claude-md.mp3" length="4086118" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep005</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep005</link>
    <pubDate>Sat, 19 Sep 2026 09:24:24 +0300</pubDate>
    <itunes:duration>00:05:40</itunes:duration>
    <itunes:episode>5</itunes:episode>
@@ -74,6 +78,7 @@
    <itunes:summary>אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep004-client-server.mp3" length="3882676" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep004</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep004</link>
    <pubDate>Sat, 19 Sep 2026 08:23:34 +0300</pubDate>
    <itunes:duration>00:05:24</itunes:duration>
    <itunes:episode>4</itunes:episode>
@@ -87,6 +92,7 @@
    <itunes:summary>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs, zero2claude.dev.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep003-git-staging.mp3" length="3656978" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep003</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep003</link>
    <pubDate>Sat, 19 Sep 2026 00:08:24 +0300</pubDate>
    <itunes:duration>00:05:05</itunes:duration>
    <itunes:episode>3</itunes:episode>
@@ -100,6 +106,7 @@
    <itunes:summary>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: zero2claude.dev ותיעוד POSIX של pwd/cd.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep002-paths.mp3" length="3629080" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep002</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep002</link>
    <pubDate>Fri, 18 Sep 2026 22:23:59 +0300</pubDate>
    <itunes:duration>00:05:02</itunes:duration>
    <itunes:episode>2</itunes:episode>
@@ -113,6 +120,7 @@
    <itunes:summary>השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep001-reversibility-budget.mp3" length="3711836" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep001</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep001</link>
    <pubDate>Fri, 18 Sep 2026 21:25:02 +0300</pubDate>
    <itunes:duration>00:05:09</itunes:duration>
    <itunes:episode>1</itunes:episode>
