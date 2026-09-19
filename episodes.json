@@ -228,6 +228,16 @@
       "size": 4119346,
       "summary": "Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders' Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure.",
       "image": "episodes/ep022-cover.jpg"
+    },
+    {
+      "num": 23,
+      "file": "ep023-message-queues.mp3",
+      "title": "לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)",
+      "date": "Sat, 19 Sep 2026 21:14:00 +0300",
+      "duration": 359,
+      "size": 4312756,
+      "summary": "Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability.",
+      "image": "episodes/ep023-cover.jpg"
     }
   ]
 }
