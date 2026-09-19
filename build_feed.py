@@ -16,8 +16,6 @@ def main():
     items = []
     for ep in reversed(eps):  # newest first
         t = html.escape(ep["title"]); d = html.escape(ep["summary"])
-        if ep["num"] <= 14:  # bidi isolate so LTR apps (Patreon sync) keep Hebrew-first order
-            t = "\u2067" + t + "\u2069"
         items.append(f"""  <item>
    <title>{t}</title>
    <description>{d}</description>
