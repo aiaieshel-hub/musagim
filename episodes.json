@@ -218,6 +218,16 @@
       "size": 4362598,
       "summary": "פרק הבכורה של \"מה חזק היום\" הוא ראיון עם אינסטינקט - הסוכן האישי שכבר עובד אצל אנשים אמיתיים כל יום. מארח שואל, אביגדור עונה: מה הוא באמת עושה, איפה הגבולות, ומה משתנה כשיש סוכן שזוכר, פועל ומדווח. ראיון עם אינסטינקט, הסוכן האישי. מה ההבדל בין צ'אטבוט לסוכן שפועל; דוגמאות יומיומיות אמיתיות; גבולות (לא מייצג בלי רשות, לא נוגע בכסף בלי אישור); איך נראית שבוע עבודה משותף; ומה הדבר הראשון שכדאי לתת לו. משימה מעשית: תנו לסוכן משימה אחת קטנה עם תוצאה מדידה - למשל \"כל בוקר בשמונה, תגיד לי מה מזג האוויר ומה הפגישה הראשונה שלי\" - ותבדקו אחרי שבוע אם חסך לכם חיפוש. מקורות: instinct.com (אתר החברה); ניסיון שימוש יומיומי של המשתמש. פרומפט להטמעה: בחר משימה חוזרת אחת שאתה עושה כל בוקר. כתוב לסוכן האישי שלך (או לאינסטינקט): 'כל בוקר ב-08:00 תשלח לי X'. אם אין לך סוכן - כתוב לעצמך איך היית מנסח את הבקשה.",
       "image": "episodes/ep021-cover.jpg"
+    },
+    {
+      "num": 22,
+      "file": "ep022-retries.mp3",
+      "title": "כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)",
+      "date": "Sat, 19 Sep 2026 20:42:00 +0300",
+      "duration": 343,
+      "size": 4119346,
+      "summary": "Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders' Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure.",
+      "image": "episodes/ep022-cover.jpg"
     }
   ]
 }

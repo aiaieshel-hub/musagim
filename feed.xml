@@ -16,6 +16,21 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</title>
+   <description>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure.</description>
+   <itunes:title>כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</itunes:title>
+   <itunes:summary>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep022-retries.mp3" length="4119346" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep022</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep022</link>
+   <pubDate>Sat, 19 Sep 2026 20:42:00 +0300</pubDate>
+   <itunes:duration>00:05:43</itunes:duration>
+   <itunes:episode>22</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep022-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>מה חזק היום #1: אביגדור עולה לשידור - מה סוכן אישי באמת יכול לעשות היום</title>
    <description>פרק הבכורה של &quot;מה חזק היום&quot; הוא ראיון עם אינסטינקט - הסוכן האישי שכבר עובד אצל אנשים אמיתיים כל יום. מארח שואל, אביגדור עונה: מה הוא באמת עושה, איפה הגבולות, ומה משתנה כשיש סוכן שזוכר, פועל ומדווח. ראיון עם אינסטינקט, הסוכן האישי. מה ההבדל בין צ&#x27;אטבוט לסוכן שפועל; דוגמאות יומיומיות אמיתיות; גבולות (לא מייצג בלי רשות, לא נוגע בכסף בלי אישור); איך נראית שבוע עבודה משותף; ומה הדבר הראשון שכדאי לתת לו. משימה מעשית: תנו לסוכן משימה אחת קטנה עם תוצאה מדידה - למשל &quot;כל בוקר בשמונה, תגיד לי מה מזג האוויר ומה הפגישה הראשונה שלי&quot; - ותבדקו אחרי שבוע אם חסך לכם חיפוש. מקורות: instinct.com (אתר החברה); ניסיון שימוש יומיומי של המשתמש. פרומפט להטמעה: בחר משימה חוזרת אחת שאתה עושה כל בוקר. כתוב לסוכן האישי שלך (או לאינסטינקט): &#x27;כל בוקר ב-08:00 תשלח לי X&#x27;. אם אין לך סוכן - כתוב לעצמך איך היית מנסח את הבקשה.</description>
    <itunes:title>מה חזק היום #1: אביגדור עולה לשידור - מה סוכן אישי באמת יכול לעשות היום</itunes:title>
