@@ -111,6 +111,8 @@ footer a{{color:var(--teal-dark)}}
 <h2>איך מנויים?</h2>
 <a class="btn" href="feed.xml">הזנת RSS</a>
 <a class="btn rss" href="https://podcasts.apple.com" target="_blank" rel="noopener">Apple Podcasts</a>
+<a class="btn" href="https://patreon.com/in_agent_lingo_heb" target="_blank" rel="noopener">Patreon</a>
+<a class="btn rss" href="https://www.linkedin.com/in/eshel-karp" target="_blank" rel="noopener">LinkedIn</a>
 <p style="margin:0.9rem 0 0.2rem"><b>הוספה ל-Apple Podcasts לפי כתובת:</b></p>
 <ol>
 <li>ב-Mac: ביישום Podcasts בחרו <b>File ← Add Show by URL</b> (עקבו אחרי תוכנית לפי כתובת URL)</li>
@@ -125,7 +127,7 @@ footer a{{color:var(--teal-dark)}}
 </section>
 </div>
 <footer>
-<p>{html.escape(show['title'])} · {html.escape(show['description'])} · <a href="feed.xml">RSS</a></p>
+<p>{html.escape(show['title'])} · <a href="feed.xml">RSS</a> · <a href="https://patreon.com/in_agent_lingo_heb">Patreon</a> · <a href="https://www.linkedin.com/in/eshel-karp">LinkedIn</a></p>
 </footer>
 </body></html>"""
     open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(page)
