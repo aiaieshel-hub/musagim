@@ -161,6 +161,15 @@
    "duration": 334,
    "size": 4008378,
    "summary": "DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: עזור לי לתכנן שינוי DNS בטוח: record נוכחי, record יעד, TTL, domain ו-environment מושפעים. בנה checklist שכולל snapshot, הורדת TTL מראש, אימות authoritative, בדיקת caches ותוכנית rollback."
+  },
+  {
+   "num": 18,
+   "file": "ep018-websocket.mp3",
+   "title": "WebSocket: כשהשרת לא מחכה שתשאל אותו מה חדש",
+   "date": "Sat, 19 Sep 2026 18:48:19 +0300",
+   "duration": 339,
+   "size": 4072325,
+   "summary": "WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ."
   }
  ]
 }
