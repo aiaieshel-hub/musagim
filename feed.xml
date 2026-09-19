@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>DNS: ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים</title>
+   <description>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning.</description>
+   <itunes:title>DNS: ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים</itunes:title>
+   <itunes:summary>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep017-dns.mp3" length="4008378" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep017</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep017</link>
+   <pubDate>Sat, 19 Sep 2026 18:18:05 +0300</pubDate>
+   <itunes:duration>00:05:34</itunes:duration>
+   <itunes:episode>17</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Node.js Event Loop: איך שרת אחד מחכה בלי לעמוד במקום</title>
    <description>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org.</description>
    <itunes:title>Node.js Event Loop: איך שרת אחד מחכה בלי לעמוד במקום</itunes:title>

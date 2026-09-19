@@ -152,6 +152,15 @@
    "duration": 338,
    "size": 4055398,
    "summary": "ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org."
+  },
+  {
+   "num": 17,
+   "file": "ep017-dns.mp3",
+   "title": "DNS: ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים",
+   "date": "Sat, 19 Sep 2026 18:18:05 +0300",
+   "duration": 334,
+   "size": 4008378,
+   "summary": "DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning."
   }
  ]
 }
