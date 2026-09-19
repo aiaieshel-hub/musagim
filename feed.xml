@@ -15,6 +15,19 @@
   <itunes:explicit>false</itunes:explicit>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>מושגים עם אביגדור</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</title>
+   <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge.</description>
+   <itunes:title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</itunes:title>
+   <itunes:summary>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep008</guid>
+   <pubDate>Sat, 19 Sep 2026 12:30:20 +0300</pubDate>
+   <itunes:duration>00:05:16</itunes:duration>
+   <itunes:episode>8</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Idempotency: איך לוחצים פעמיים ומשלמים פעם אחת</title>
    <description>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library.</description>
    <itunes:title>Idempotency: איך לוחצים פעמיים ומשלמים פעם אחת</itunes:title>
