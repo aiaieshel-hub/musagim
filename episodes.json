@@ -198,6 +198,16 @@
       "size": 3847568,
       "summary": "CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy.",
       "image": "episodes/ep019-cover.jpg"
+    },
+    {
+      "num": 20,
+      "file": "ep020-containers.mp3",
+      "title": "לארוז את האפליקציה יחד עם הסביבה שהיא צריכה (Containers)",
+      "date": "Sat, 19 Sep 2026 20:11:00 +0300",
+      "duration": 330,
+      "size": 3960730,
+      "summary": "Container מצמצם את פער ה\"עובד אצלי\" באמצעות סביבת ריצה ארוזה ועקבית, אבל עדיין דורש תכנון נפרד ל-secrets, security ו-data מתמשך. הבדלים בגרסת Node, ב-dependencies או ב-configuration יכולים להפוך קוד שעבד על laptop לתקלה ב-production. בפרק הזה נבדיל בין image ל-container, נבין Dockerfile ו-layers, ונראה למה container הוא process מבודד ולא virtual machine קטנה. נגיע גם לחלקים שקל לפספס: tags שאינם זהות קבועה, data שנעלם בלי volume, secrets שאסור לאפות ב-image, והסיבה ש-rollback של container לא מבטל database migration. משימה מעשית: בחר אפליקציה וחלק את סביבת הריצה לארבע רשימות: מה נכנס ל-image, מה מגיע כ-configuration, מה הוא secret, ומה חייב להישמר גם אם ה-container נמחק. מקורות: Docker documentation - Docker overview, What is a container, What is an image. פרומפט להטמעה: נתח את האפליקציה שלי וחלק את רכיביה ל-image, configuration, secrets ו-persistent data. הצע Dockerfile מינימלי ובטוח, כולל base image, non-root user, ports, health check, volume strategy וגרסת image שמאפשרת rollback.",
+      "image": "episodes/ep020-cover.jpg"
     }
   ]
 }
