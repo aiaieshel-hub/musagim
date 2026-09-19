@@ -79,7 +79,11 @@ h1{{font-size:2.9rem;font-weight:800;margin:1.6rem 0 0.2rem;letter-spacing:-0.5p
 .pitch{{max-width:34rem;margin:0 auto 0.6rem;font-size:1.08rem}}
 .disclosure{{font-size:0.9rem;color:#5a5548;margin:0.6rem auto 0;max-width:34rem}}
 .subscribe{{background:var(--paper);border:2px solid var(--ink);border-radius:14px;box-shadow:5px 5px 0 var(--ink);padding:1.4rem 1.5rem;margin:2.2rem 0;text-align:right}}
-.subscribe h2{{margin:0 0 0.7rem;font-size:1.35rem;font-weight:800}}
+.subscribe summary{{margin:0;font-size:1.35rem;font-weight:800;cursor:pointer;list-style:none}}
+.subscribe summary::-webkit-details-marker{{display:none}}
+.subscribe summary::before{{content:"▸ ";color:var(--teal-dark)}}
+.subscribe[open] summary::before{{content:"▾ "}}
+.subscribe[open] summary{{margin-bottom:0.7rem}}
 .btn{{display:inline-block;background:var(--teal);color:#fff;border:2px solid var(--ink);border-radius:10px;box-shadow:3px 3px 0 var(--ink);padding:0.55rem 1.1rem;font-weight:600;text-decoration:none;font-size:1rem;margin:0.3rem 0 0.3rem 0.6rem;transition:transform .05s}}
 .btn:active{{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}}
 .btn.rss{{background:var(--ink)}}
@@ -107,8 +111,8 @@ footer a{{color:var(--teal-dark)}}
 <p class="disclosure">התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</p>
 </header>
 <div class="wrap">
-<div class="subscribe" id="subscribe">
-<h2>איך מנויים?</h2>
+<details class="subscribe" id="subscribe">
+<summary>איך מנויים?</summary>
 <a class="btn" href="feed.xml">הזנת RSS</a>
 <a class="btn rss" href="https://podcasts.apple.com" target="_blank" rel="noopener">Apple Podcasts</a>
 <a class="btn" href="https://patreon.com/in_agent_lingo_heb" target="_blank" rel="noopener">Patreon</a>
@@ -120,7 +124,7 @@ footer a{{color:var(--teal-dark)}}
 <li>מדביקים את כתובת ההזנה:</li>
 </ol>
 <span class="feed-url">{BASE}/feed.xml</span>
-</div>
+</details>
 <section class="eps">
 <h2>פרקים</h2>
 <ol class="episodes">{rows}</ol>
