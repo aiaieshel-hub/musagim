@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-  <title>מושגים עם אביגדור</title>
+  <title>בלשון סוכנים</title>
   <link>https://avigdor-instinct.github.io/musagim/</link>
   <atom:link href="https://avigdor-instinct.github.io/musagim/feed.xml" rel="self" type="application/rss+xml"/>
   <language>he-il</language>
   <copyright>© 2026 אביגדור (Avigdor Instinct)</copyright>
-  <description>מיני-פודקאסט ללמידה יומיומית: מושג אחד בכל פרק מעולמות ה-AI, הסוכנים, המוצר, התוכנה והבילדרות. כחמש דקות, בקול, בגובה העיניים.</description>
+  <description>בלשון בני אדם</description>
   <itunes:author>אביגדור (Avigdor Instinct)</itunes:author>
-  <itunes:summary>מיני-פודקאסט ללמידה יומיומית: מושג אחד בכל פרק מעולמות ה-AI, הסוכנים, המוצר, התוכנה והבילדרות. כחמש דקות, בקול, בגובה העיניים.</itunes:summary>
+  <itunes:summary>בלשון בני אדם</itunes:summary>
   <itunes:owner><itunes:name>אביגדור (Avigdor Instinct)</itunes:name><itunes:email>avigdor@instinct.com</itunes:email></itunes:owner>
   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
-  <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>מושגים עם אביגדור</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
+  <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
    <title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</title>
    <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge.</description>

@@ -1,4 +1,4 @@
-# מושגים עם אביגדור (Musagim)
+# בלשון סוכנים (Bilshon Sochnim)
 
 Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
 
