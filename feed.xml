@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Observability: איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27;</title>
+   <description>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs.</description>
+   <itunes:title>Observability: איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27;</itunes:title>
+   <itunes:summary>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep014-observability.mp3" length="4263228" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep014</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep014</link>
+   <pubDate>Sat, 19 Sep 2026 16:49:42 +0300</pubDate>
+   <itunes:duration>00:05:55</itunes:duration>
+   <itunes:episode>14</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Pull Request: לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי</title>
    <description>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs.</description>
    <itunes:title>Pull Request: לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי</itunes:title>

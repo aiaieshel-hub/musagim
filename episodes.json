@@ -125,6 +125,15 @@
    "duration": 366,
    "size": 4387676,
    "summary": "Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs."
+  },
+  {
+   "num": 14,
+   "file": "ep014-observability.mp3",
+   "title": "Observability: איך יודעים מה קרה אחרי שהמערכת אמרה 'משהו השתבש'",
+   "date": "Sat, 19 Sep 2026 16:49:42 +0300",
+   "duration": 355,
+   "size": 4263228,
+   "summary": "Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs."
   }
  ]
 }
