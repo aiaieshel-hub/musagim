@@ -134,6 +134,15 @@
    "duration": 355,
    "size": 4263228,
    "summary": "Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs."
+  },
+  {
+   "num": 15,
+   "file": "ep015-cursor-rules.mp3",
+   "title": "Cursor Rules: איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה",
+   "date": "Sat, 19 Sep 2026 17:17:45 +0300",
+   "duration": 332,
+   "size": 3978911,
+   "summary": "Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor."
   }
  ]
 }

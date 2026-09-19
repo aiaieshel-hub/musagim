@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Cursor Rules: איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה</title>
+   <description>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor.</description>
+   <itunes:title>Cursor Rules: איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה</itunes:title>
+   <itunes:summary>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep015-cursor-rules.mp3" length="3978911" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep015</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep015</link>
+   <pubDate>Sat, 19 Sep 2026 17:17:45 +0300</pubDate>
+   <itunes:duration>00:05:32</itunes:duration>
+   <itunes:episode>15</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Observability: איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27;</title>
    <description>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs.</description>
    <itunes:title>Observability: איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27;</itunes:title>
