@@ -17,9 +17,9 @@
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
    <title>Database Transaction: הכול קורה, או ששום דבר לא קורה</title>
-   <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs, zero2claude.dev.</description>
+   <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs.</description>
    <itunes:title>Database Transaction: הכול קורה, או ששום דבר לא קורה</itunes:title>
-   <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs, zero2claude.dev.</itunes:summary>
+   <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep010</guid>
    <link>https://avigdor-instinct.github.io/musagim/#ep010</link>
@@ -31,9 +31,9 @@
   </item>
   <item>
    <title>API: החוזה שמאפשר לתוכנות לעבוד יחד</title>
-   <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev.</description>
+   <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN.</description>
    <itunes:title>API: החוזה שמאפשר לתוכנות לעבוד יחד</itunes:title>
-   <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev.</itunes:summary>
+   <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep009</guid>
    <link>https://avigdor-instinct.github.io/musagim/#ep009</link>
@@ -115,9 +115,9 @@
   </item>
   <item>
    <title>Git Staging: למה שומרים שינוי בשני צעדים</title>
-   <description>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs, zero2claude.dev.</description>
+   <description>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs.</description>
    <itunes:title>Git Staging: למה שומרים שינוי בשני צעדים</itunes:title>
-   <itunes:summary>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs, zero2claude.dev.</itunes:summary>
+   <itunes:summary>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep003-git-staging.mp3" length="3656978" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep003</guid>
    <link>https://avigdor-instinct.github.io/musagim/#ep003</link>
@@ -129,9 +129,9 @@
   </item>
   <item>
    <title>למה Path הוא כתובת, לא קוד מסתורי</title>
-   <description>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: zero2claude.dev ותיעוד POSIX של pwd/cd.</description>
+   <description>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd.</description>
    <itunes:title>למה Path הוא כתובת, לא קוד מסתורי</itunes:title>
-   <itunes:summary>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: zero2claude.dev ותיעוד POSIX של pwd/cd.</itunes:summary>
+   <itunes:summary>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd.</itunes:summary>
    <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep002-paths.mp3" length="3629080" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep002</guid>
    <link>https://avigdor-instinct.github.io/musagim/#ep002</link>
