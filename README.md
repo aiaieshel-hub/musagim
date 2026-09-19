@@ -1,2 +1,17 @@
-# musagim
-מושגים עם אביגדור - מיני-פודקאסט יומי (RSS feed + audio)
+# מושגים עם אביגדור (Musagim)
+
+Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
+
+- Feed: https://avigdor-instinct.github.io/musagim/feed.xml
+- Home: https://avigdor-instinct.github.io/musagim/
+
+## Publishing a new episode (daily)
+
+1. Convert the voice note: `ffmpeg -i epXXX.ogg -codec:a libmp3lame -b:a 96k -ac 1 -ar 44100 episodes/epXXX-slug.mp3`
+2. Get duration (`ffprobe -show_entries format=duration -of csv=p=0`) and byte size (`stat -c%s`).
+3. Append the episode to `episodes.json` (num, file, title, RFC-822 date with +0300, duration seconds, size bytes, summary).
+4. Run `python3 build_feed.py` - it regenerates `feed.xml` + `index.html` and verifies sizes.
+5. Commit + push. Pages redeploys in ~1 minute.
+
+Git access: fine-grained PAT `musagim-feed-publisher` (vault: "GitHub PAT - musagim repo publisher", expires 2026-12-18, Contents RW on this repo only).
+Web uploads via github.com rename staged files with numeric prefixes - use git, or fix names after.
