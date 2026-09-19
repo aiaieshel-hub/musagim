@@ -53,9 +53,19 @@ def main():
 </rss>
 """
     open(os.path.join(HERE, "feed.xml"), "w", encoding="utf-8").write(feed)
+    def prompt_html(e):
+        if not e.get("prompt"):
+            return ""
+        num = f'{e["num"]:03d}'
+        return (
+            f'<div class="ep-prompt" id="prompt-ep{num}"><div class="prompt-head"><b>פרומפט להטמעה</b>'
+            f'<button class="copy-btn" type="button" data-target="pc{num}">העתקה</button></div>'
+            f'<code id="pc{num}">{html.escape(e["prompt"])}</code></div>'
+        )
     rows = "\n".join(
         f'<li dir="rtl" id="ep{e["num"]:03d}"><div class="ep-head"><img class="ep-cover" src="episodes/ep{e["num"]:03d}-cover.jpg" alt="עטיפת פרק {e["num"]:03d}" loading="lazy"><b>פרק {e["num"]:03d}</b><span class="ep-title">{html.escape(e["title"])}</span></div>'
         f'<p class="ep-sum">{html.escape(e["summary"])}</p>'
+        + prompt_html(e) +
         f'<audio controls preload="none" src="episodes/{e["file"]}"></audio></li>'
         for e in reversed(eps))
     page = f"""<!doctype html><html lang="he" dir="rtl"><head><meta charset="utf-8">
@@ -96,6 +106,12 @@ ol.episodes li{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12p
 .ep-head b{{color:var(--teal-dark)}}
 .ep-title{{font-weight:600;font-size:1.05rem}}
 .ep-sum{{margin:0.3rem 0 0.6rem;font-size:0.95rem;color:#45413a}}
+.ep-prompt{{background:var(--paper);border:2px dashed var(--teal);border-radius:10px;padding:0.7rem 0.9rem;margin:0.5rem 0 0.8rem}}
+.prompt-head{{display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem}}
+.prompt-head b{{color:var(--teal-dark)}}
+.ep-prompt code{{display:block;font-family:inherit;font-size:0.92rem;white-space:pre-wrap;line-height:1.6}}
+.copy-btn{{background:var(--teal);color:#fff;border:2px solid var(--ink);border-radius:8px;padding:0.15rem 0.7rem;font-family:inherit;font-size:0.85rem;font-weight:600;cursor:pointer}}
+.copy-btn:active{{transform:translate(1px,1px)}}
 audio{{width:100%}}
 footer{{text-align:center;font-size:0.85rem;color:#5a5548;padding:1.5rem 0 2.5rem;border-top:2px solid var(--paper)}}
 footer a{{color:var(--teal-dark)}}
@@ -131,7 +147,14 @@ footer a{{color:var(--teal-dark)}}
 <footer>
 <p>{html.escape(show['title'])} · <a href="feed.xml">RSS</a> · <a href="https://patreon.com/in_agent_lingo_heb">Patreon</a> · <a href="https://www.linkedin.com/in/eshel-karp">LinkedIn</a></p>
 </footer>
-</body></html>"""
+<script>
+document.addEventListener('click',function(ev){{
+  var b=ev.target.closest('.copy-btn'); if(!b) return;
+  var c=document.getElementById(b.dataset.target); if(!c) return;
+  if(navigator.clipboard) navigator.clipboard.writeText(c.innerText);
+  b.textContent='הועתק!'; setTimeout(function(){{b.textContent='העתקה'}},2000);
+}});
+</script></body></html>"""
     open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(page)
     # sanity: verify every referenced mp3 exists with the declared size
     ok = True

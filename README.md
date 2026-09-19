@@ -15,3 +15,5 @@ Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
 
 Git access: fine-grained PAT `musagim-feed-publisher` (vault: "GitHub PAT - musagim repo publisher", expires 2026-12-18, Contents RW on this repo only).
 Web uploads via github.com rename staged files with numeric prefixes - use git, or fix names after.
+
+Note: each episode entry must include a `prompt` field (the episode's apply-prompt, Hebrew). It renders as a copyable 'פרומפט להטמעה' box in the episode card on the site and is also appended to the summary.
