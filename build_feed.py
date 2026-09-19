@@ -58,7 +58,7 @@ def main():
         for e in reversed(eps))
     page = f"""<!doctype html><html lang="he" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{html.escape(show['title'])} | {html.escape(show['description'])}</title>
+<title>{html.escape(show['title'])} | {html.escape(show.get('tagline', show['description']))}</title>
 <meta name="description" content="{html.escape(show['title'])} - {html.escape(show['description'])}">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -97,7 +97,7 @@ footer a{{color:var(--teal-dark)}}
 <header class="hero">
 <img class="cover" src="cover.jpg" alt="עטיפת הפודקאסט {html.escape(show['title'])}">
 <h1>{html.escape(show['title'])}</h1>
-<p class="tagline">{html.escape(show['description'])}</p>
+<p class="tagline">{html.escape(show.get('tagline', show['description']))}</p>
 <p class="pitch">מיני-פודקאסט יומי בעברית: בכל פרק, חמש דקות, מושג אחד מעולמות הטכנולוגיה, הסוכנים והבילדרות - מוסבר בגובה העיניים, בזמן שיש לכם בדרך לקפה.</p>
 <p class="disclosure">התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</p>
 </header>
