@@ -143,6 +143,15 @@
    "duration": 332,
    "size": 3978911,
    "summary": "Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor."
+  },
+  {
+   "num": 16,
+   "file": "ep016-node-event-loop.mp3",
+   "title": "Node.js Event Loop: איך שרת אחד מחכה בלי לעמוד במקום",
+   "date": "Sat, 19 Sep 2026 17:48:16 +0300",
+   "duration": 338,
+   "size": 4055398,
+   "summary": "ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org."
   }
  ]
 }

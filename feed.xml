@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Node.js Event Loop: איך שרת אחד מחכה בלי לעמוד במקום</title>
+   <description>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org.</description>
+   <itunes:title>Node.js Event Loop: איך שרת אחד מחכה בלי לעמוד במקום</itunes:title>
+   <itunes:summary>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep016-node-event-loop.mp3" length="4055398" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep016</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep016</link>
+   <pubDate>Sat, 19 Sep 2026 17:48:16 +0300</pubDate>
+   <itunes:duration>00:05:38</itunes:duration>
+   <itunes:episode>16</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Cursor Rules: איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה</title>
    <description>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor.</description>
    <itunes:title>Cursor Rules: איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה</itunes:title>
