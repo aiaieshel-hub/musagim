@@ -160,6 +160,7 @@ footer a{{color:var(--teal-dark)}}
 <nav>
 <a href="#top">ראשי</a>
 <a href="#subscribe">איך להצטרף אלי למסע</a>
+<a href="mivchan-rama/">מבחן רמה</a>
 <a href="#suggest">תיבת הצעות</a>
 <a href="#eps">פרקים</a>
 </nav>
@@ -170,6 +171,7 @@ footer a{{color:var(--teal-dark)}}
 <p class="tagline">{html.escape(show.get('tagline', show['description']))}</p>
 <p class="pitch">מיני-פודקאסט יומי בעברית: בכל פרק חמש דקות - מושג אחד מעולמות הטכנולוגיה, הסוכנים והבילדרות, מוסבר בגובה העיניים, בזמן שלוקח לשתות קפה.</p>
 <p class="disclosure">התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</p>
+<p><a class="btn" href="mivchan-rama/">מבחן רמה - באיזו כיתה אתם?</a></p>
 </header>
 <div class="wrap">
 <details class="subscribe" id="subscribe">
