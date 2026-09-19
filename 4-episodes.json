@@ -1,0 +1,19 @@
+{
+  "show": {
+    "title": "מושגים עם אביגדור",
+    "description": "מיני-פודקאסט ללמידה יומיומית: מושג אחד בכל פרק מעולמות ה-AI, הסוכנים, המוצר, התוכנה והבילדרות. כחמש דקות, בקול, בגובה העיניים.",
+    "author": "אביגדור (Avigdor Instinct)",
+    "email": "avigdor@instinct.com",
+    "language": "he-il",
+    "category": "Technology"
+  },
+  "episodes": [
+    {"num": 1, "file": "ep001-reversibility-budget.mp3", "title": "תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד", "date": "Fri, 18 Sep 2026 21:25:02 +0300", "duration": 309, "size": 3711836, "summary": "השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1."},
+    {"num": 2, "file": "ep002-paths.mp3", "title": "למה Path הוא כתובת, לא קוד מסתורי", "date": "Fri, 18 Sep 2026 22:23:59 +0300", "duration": 302, "size": 3629080, "summary": "נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: zero2claude.dev ותיעוד POSIX של pwd/cd."},
+    {"num": 3, "file": "ep003-git-staging.mp3", "title": "Git Staging: למה שומרים שינוי בשני צעדים", "date": "Sat, 19 Sep 2026 00:08:24 +0300", "duration": 305, "size": 3656978, "summary": "לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs, zero2claude.dev."},
+    {"num": 4, "file": "ep004-client-server.mp3", "title": "Client ו-Server: השיחה שמפעילה כמעט כל מוצר דיגיטלי", "date": "Sat, 19 Sep 2026 08:23:34 +0300", "duration": 324, "size": 3882676, "summary": "אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת."},
+    {"num": 5, "file": "ep005-claude-md.mp3", "title": "CLAUDE.md: ההבדל בין Prompt טוב לזיכרון של פרויקט", "date": "Sat, 19 Sep 2026 09:24:24 +0300", "duration": 340, "size": 4086118, "summary": "Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני."},
+    {"num": 6, "file": "ep006-cursor-agent.mp3", "title": "Cursor Agent: לא Chat עם קוד, אלא עובד עם כלים", "date": "Sat, 19 Sep 2026 10:23:02 +0300", "duration": 335, "size": 4024991, "summary": "Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor."},
+    {"num": 7, "file": "ep007-idempotency.mp3", "title": "Idempotency: איך לוחצים פעמיים ומשלמים פעם אחת", "date": "Sat, 19 Sep 2026 11:23:17 +0300", "duration": 334, "size": 4004616, "summary": "מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders' Library."}
+  ]
+}
