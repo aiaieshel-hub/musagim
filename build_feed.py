@@ -112,6 +112,16 @@ ol.episodes li{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12p
 .ep-prompt code{{display:block;font-family:inherit;font-size:0.92rem;white-space:pre-wrap;line-height:1.6}}
 .copy-btn{{background:var(--teal);color:#fff;border:2px solid var(--ink);border-radius:8px;padding:0.15rem 0.7rem;font-family:inherit;font-size:0.85rem;font-weight:600;cursor:pointer}}
 .copy-btn:active{{transform:translate(1px,1px)}}
+.suggest{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12px;padding:1.1rem 1.3rem;margin:1.4rem 0 1.8rem}}
+.suggest h2{{font-size:1.35rem;font-weight:800;color:var(--teal-dark);margin:0 0 0.3rem}}
+.suggest p.hint{{margin:0 0 0.8rem;font-size:0.95rem;color:#45413a}}
+.suggest textarea{{width:100%;min-height:90px;border:2px solid var(--ink);border-radius:10px;padding:0.6rem 0.8rem;font-family:inherit;font-size:1rem;background:#fff;resize:vertical;box-sizing:border-box}}
+.suggest input.nick{{width:100%;max-width:280px;border:2px solid var(--ink);border-radius:10px;padding:0.45rem 0.8rem;font-family:inherit;font-size:0.95rem;background:#fff;margin-top:0.6rem;box-sizing:border-box}}
+.suggest .hp{{position:absolute;right:-9999px;opacity:0;height:0;overflow:hidden}}
+.suggest button{{margin-top:0.7rem;cursor:pointer;font-family:inherit}}
+.suggest .s-msg{{margin:0.5rem 0 0;font-weight:600;font-size:0.95rem}}
+.suggest .s-msg.ok{{color:var(--teal-dark)}}
+.suggest .s-msg.err{{color:#b3402e}}
 audio{{width:100%}}
 footer{{text-align:center;font-size:0.85rem;color:#5a5548;padding:1.5rem 0 2.5rem;border-top:2px solid var(--paper)}}
 footer a{{color:var(--teal-dark)}}
@@ -139,6 +149,15 @@ footer a{{color:var(--teal-dark)}}
 </ol>
 <span class="feed-url">{BASE}/feed.xml</span>
 </details>
+<section class="suggest" id="suggest">
+<h2>תיבת הצעות</h2>
+<p class="hint">יש מושג שבא לכם שנסביר בפרק? כתבו כאן - כל הצעה נקראת.</p>
+<textarea id="s-text" maxlength="1000" placeholder="למשל: מה זה בעצם סוכן AI?"></textarea>
+<input class="nick" id="s-nick" maxlength="60" placeholder="שם או כינוי (לא חובה)">
+<input class="hp" id="s-hp" type="text" tabindex="-1" autocomplete="off" aria-hidden="true">
+<button class="btn" id="s-send" type="button">שליחת הצעה</button>
+<p class="s-msg" id="s-msg"></p>
+</section>
 <section class="eps">
 <h2>פרקים</h2>
 <ol class="episodes">{rows}</ol>
@@ -153,6 +172,19 @@ document.addEventListener('click',function(ev){{
   var c=document.getElementById(b.dataset.target); if(!c) return;
   if(navigator.clipboard) navigator.clipboard.writeText(c.innerText);
   b.textContent='הועתק!'; setTimeout(function(){{b.textContent='העתקה'}},2000);
+}});
+document.getElementById('s-send').addEventListener('click',function(){{
+  var msg=document.getElementById('s-msg'), btn=document.getElementById('s-send');
+  var text=document.getElementById('s-text').value.trim();
+  if(text.length<3){{msg.className='s-msg err';msg.textContent='כותבים קודם הצעה קטנה';return}}
+  btn.disabled=true; msg.className='s-msg'; msg.textContent='שולח...';
+  fetch('https://bilshon-suggest.vercel.app/api/suggest',{{method:'POST',headers:{{'Content-Type':'application/json'}},
+    body:JSON.stringify({{text:text,nick:document.getElementById('s-nick').value.trim(),hp:document.getElementById('s-hp').value}})}})
+  .then(function(r){{return r.json()}}).then(function(d){{
+    if(d.ok){{msg.className='s-msg ok';msg.textContent='תודה! ההצעה נקלטה';document.getElementById('s-text').value='';document.getElementById('s-nick').value=''}}
+    else{{msg.className='s-msg err';msg.textContent='משהו לא עבד - נסו שוב'}}
+    btn.disabled=false;
+  }}).catch(function(){{msg.className='s-msg err';msg.textContent='אין חיבור - נסו שוב בעוד רגע';btn.disabled=false}});
 }});
 </script></body></html>"""
     open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(page)
