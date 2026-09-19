@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>API: החוזה שמאפשר לתוכנות לעבוד יחד</title>
+   <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev.</description>
+   <itunes:title>API: החוזה שמאפשר לתוכנות לעבוד יחד</itunes:title>
+   <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN, zero2claude.dev.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep009</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep009</link>
+   <pubDate>Sat, 19 Sep 2026 14:36:04 +0300</pubDate>
+   <itunes:duration>00:05:46</itunes:duration>
+   <itunes:episode>9</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</title>
    <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge.</description>
    <itunes:title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</itunes:title>
