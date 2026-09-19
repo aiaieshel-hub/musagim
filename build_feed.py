@@ -28,7 +28,7 @@ def main():
    <itunes:duration>{fmt_dur(ep['duration'])}</itunes:duration>
    <itunes:episode>{ep['num']}</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="{BASE}/episodes/{ep['image']}"/>
+   <itunes:image href="{BASE}/{ep["image"]}"/>
    <itunes:explicit>no</itunes:explicit>
   </item>""")
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
