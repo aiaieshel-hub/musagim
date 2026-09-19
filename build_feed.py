@@ -43,7 +43,7 @@ def main():
   <itunes:author>{html.escape(show['author'])}</itunes:author>
   <itunes:summary>{html.escape(show['description'])}</itunes:summary>
   <itunes:owner><itunes:name>{html.escape(show['author'])}</itunes:name><itunes:email>{show['email']}</itunes:email></itunes:owner>
-  <itunes:image href="{BASE}/cover.jpg"/>
+  <itunes:image href="{BASE}/cover-og.jpg"/>
   <itunes:category text="{show['category']}"/>
   <itunes:explicit>no</itunes:explicit>
   <itunes:type>episodic</itunes:type>
@@ -74,16 +74,16 @@ def main():
 <meta name="description" content="{html.escape(show['title'])} - {html.escape(show['description'])}">
 <meta property="og:title" content="{html.escape(show['title'])} | {html.escape(show.get('tagline', show['description']))}">
 <meta property="og:description" content="{html.escape(show['description'])}">
-<meta property="og:image" content="{BASE}/cover.jpg">
-<meta property="og:image:width" content="1400">
-<meta property="og:image:height" content="1400">
+<meta property="og:image" content="{BASE}/cover-og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:url" content="{BASE}/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="he_IL">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{html.escape(show['title'])}">
 <meta name="twitter:description" content="{html.escape(show['description'])}">
-<meta name="twitter:image" content="{BASE}/cover.jpg">
+<meta name="twitter:image" content="{BASE}/cover-og.jpg">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;800&display=swap" rel="stylesheet">

@@ -10,7 +10,7 @@
   <itunes:author>אשל קרפ</itunes:author>
   <itunes:summary>בלשון סוכנים - מסע הלמידה שלי, אשל קרפ, בילדר ישראלי שבונה עם סוכני AI. כל יום פרק קצר: מושג אחד מעולם הסוכנים, מוסבר בגובה העיניים, ובסוף פרומפט מוכן להטמעה אצלך. בהמשך גם פרקי &quot;מה חזק היום&quot; - מה קורה עכשיו בחזית ה-AI. התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
   <itunes:owner><itunes:name>אשל קרפ</itunes:name><itunes:email>aiaieshel@gmail.com</itunes:email></itunes:owner>
-  <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+  <itunes:image href="https://avigdor-instinct.github.io/musagim/cover-og.jpg"/>
   <itunes:category text="Technology"/>
   <itunes:explicit>no</itunes:explicit>
   <itunes:type>episodic</itunes:type>
