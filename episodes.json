@@ -116,6 +116,15 @@
    "duration": 339,
    "size": 4073579,
    "summary": "כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io."
+  },
+  {
+   "num": 13,
+   "file": "ep013-pull-request.mp3",
+   "title": "Pull Request: לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי",
+   "date": "Sat, 19 Sep 2026 16:19:32 +0300",
+   "duration": 366,
+   "size": 4387676,
+   "summary": "Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs."
   }
  ]
 }

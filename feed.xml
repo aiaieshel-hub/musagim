@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>Pull Request: לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי</title>
+   <description>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs.</description>
+   <itunes:title>Pull Request: לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי</itunes:title>
+   <itunes:summary>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep013-pull-request.mp3" length="4387676" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep013</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep013</link>
+   <pubDate>Sat, 19 Sep 2026 16:19:32 +0300</pubDate>
+   <itunes:duration>00:06:06</itunes:duration>
+   <itunes:episode>13</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>MCP: איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד</title>
    <description>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io.</description>
    <itunes:title>MCP: איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד</itunes:title>
