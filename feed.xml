@@ -4,15 +4,16 @@
   <title>בלשון סוכנים</title>
   <link>https://avigdor-instinct.github.io/musagim/</link>
   <atom:link href="https://avigdor-instinct.github.io/musagim/feed.xml" rel="self" type="application/rss+xml"/>
-  <language>he-il</language>
-  <copyright>© 2026 אביגדור (Avigdor Instinct)</copyright>
+  <language>he</language>
+  <copyright>© 2026 אשל קרפ</copyright>
   <description>בלשון בני אדם</description>
-  <itunes:author>אביגדור (Avigdor Instinct)</itunes:author>
+  <itunes:author>אשל קרפ</itunes:author>
   <itunes:summary>בלשון בני אדם</itunes:summary>
-  <itunes:owner><itunes:name>אביגדור (Avigdor Instinct)</itunes:name><itunes:email>avigdor@instinct.com</itunes:email></itunes:owner>
+  <itunes:owner><itunes:name>אשל קרפ</itunes:name><itunes:email>eshel.karp@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
   <itunes:category text="Technology"/>
-  <itunes:explicit>false</itunes:explicit>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
    <title>Git Branches: ניסוי בצד בלי לשכפל את כל הבית</title>
@@ -25,7 +26,7 @@
    <itunes:duration>00:05:16</itunes:duration>
    <itunes:episode>8</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>Idempotency: איך לוחצים פעמיים ומשלמים פעם אחת</title>
@@ -38,7 +39,7 @@
    <itunes:duration>00:05:34</itunes:duration>
    <itunes:episode>7</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>Cursor Agent: לא Chat עם קוד, אלא עובד עם כלים</title>
@@ -51,7 +52,7 @@
    <itunes:duration>00:05:35</itunes:duration>
    <itunes:episode>6</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>CLAUDE.md: ההבדל בין Prompt טוב לזיכרון של פרויקט</title>
@@ -64,7 +65,7 @@
    <itunes:duration>00:05:40</itunes:duration>
    <itunes:episode>5</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>Client ו-Server: השיחה שמפעילה כמעט כל מוצר דיגיטלי</title>
@@ -77,7 +78,7 @@
    <itunes:duration>00:05:24</itunes:duration>
    <itunes:episode>4</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>Git Staging: למה שומרים שינוי בשני צעדים</title>
@@ -90,7 +91,7 @@
    <itunes:duration>00:05:05</itunes:duration>
    <itunes:episode>3</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>למה Path הוא כתובת, לא קוד מסתורי</title>
@@ -103,7 +104,7 @@
    <itunes:duration>00:05:02</itunes:duration>
    <itunes:episode>2</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
    <title>תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד</title>
@@ -116,7 +117,7 @@
    <itunes:duration>00:05:09</itunes:duration>
    <itunes:episode>1</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>
  </channel>
 </rss>

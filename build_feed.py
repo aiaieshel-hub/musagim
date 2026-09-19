@@ -27,7 +27,7 @@ def main():
    <itunes:duration>{fmt_dur(ep['duration'])}</itunes:duration>
    <itunes:episode>{ep['num']}</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:explicit>false</itunes:explicit>
+   <itunes:explicit>no</itunes:explicit>
   </item>""")
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -43,7 +43,8 @@ def main():
   <itunes:owner><itunes:name>{html.escape(show['author'])}</itunes:name><itunes:email>{show['email']}</itunes:email></itunes:owner>
   <itunes:image href="{BASE}/cover.jpg"/>
   <itunes:category text="{show['category']}"/>
-  <itunes:explicit>false</itunes:explicit>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
   <image><url>{BASE}/cover.jpg</url><title>{html.escape(show['title'])}</title><link>{BASE}/</link></image>
 {chr(10).join(items)}
  </channel>
