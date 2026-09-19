@@ -122,12 +122,37 @@ ol.episodes li{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12p
 .suggest .s-msg{{margin:0.5rem 0 0;font-weight:600;font-size:0.95rem}}
 .suggest .s-msg.ok{{color:var(--teal-dark)}}
 .suggest .s-msg.err{{color:#b3402e}}
+.menu-btn{{position:fixed;top:1rem;right:1rem;z-index:60;width:52px;height:52px;background:var(--teal);border:2px solid var(--ink);border-radius:12px;box-shadow:3px 3px 0 var(--ink);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px}}
+.menu-btn span{{display:block;width:24px;height:3px;background:#fff;border-radius:2px;transition:transform .15s,opacity .15s}}
+.menu-btn.open span:nth-child(1){{transform:translateY(8px) rotate(45deg)}}
+.menu-btn.open span:nth-child(2){{opacity:0}}
+.menu-btn.open span:nth-child(3){{transform:translateY(-8px) rotate(-45deg)}}
+.menu-btn:active{{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}}
+.menu-overlay{{position:fixed;inset:0;background:rgba(30,40,35,0.45);z-index:50;opacity:0;pointer-events:none;transition:opacity .15s}}
+.menu-overlay.open{{opacity:1;pointer-events:auto}}
+.side-menu{{position:fixed;top:0;right:0;bottom:0;width:min(300px,84vw);background:#fbf7ec;border-left:3px solid var(--ink);z-index:55;transform:translateX(105%);transition:transform .18s ease-out;padding:5rem 1.4rem 1.4rem;box-sizing:border-box}}
+.side-menu.open{{transform:translateX(0)}}
+.side-menu h2{{font-size:1.15rem;font-weight:800;color:var(--teal-dark);margin:0 0 0.9rem;border-bottom:3px solid var(--teal);display:inline-block;padding-bottom:0.15rem}}
+.side-menu nav{{display:flex;flex-direction:column;gap:0.55rem}}
+.side-menu a{{display:block;background:#fff;border:2px solid var(--ink);border-radius:10px;box-shadow:2px 2px 0 var(--ink);padding:0.6rem 0.9rem;font-weight:600;color:var(--ink);text-decoration:none;font-size:1rem}}
+.side-menu a:active{{transform:translate(1px,1px);box-shadow:1px 1px 0 var(--ink)}}
 audio{{width:100%}}
 footer{{text-align:center;font-size:0.85rem;color:#5a5548;padding:1.5rem 0 2.5rem;border-top:2px solid var(--paper)}}
 footer a{{color:var(--teal-dark)}}
 </style></head>
 <body>
-<header class="hero">
+<button class="menu-btn" id="menu-btn" aria-label="תפריט" aria-expanded="false"><span></span><span></span><span></span></button>
+<div class="menu-overlay" id="menu-overlay"></div>
+<aside class="side-menu" id="side-menu" aria-hidden="true">
+<h2>ניווט</h2>
+<nav>
+<a href="#top">ראשי</a>
+<a href="#subscribe">איך להצטרף אלי למסע</a>
+<a href="#suggest">תיבת הצעות</a>
+<a href="#eps">פרקים</a>
+</nav>
+</aside>
+<header class="hero" id="top">
 <img class="cover" src="cover.jpg" alt="עטיפת הפודקאסט {html.escape(show['title'])}">
 <h1>{html.escape(show['title'])}</h1>
 <p class="tagline">{html.escape(show.get('tagline', show['description']))}</p>
@@ -158,7 +183,7 @@ footer a{{color:var(--teal-dark)}}
 <button class="btn" id="s-send" type="button">שליחת הצעה</button>
 <p class="s-msg" id="s-msg"></p>
 </section>
-<section class="eps">
+<section class="eps" id="eps">
 <h2>פרקים</h2>
 <ol class="episodes">{rows}</ol>
 </section>
@@ -186,6 +211,17 @@ document.getElementById('s-send').addEventListener('click',function(){{
     btn.disabled=false;
   }}).catch(function(){{msg.className='s-msg err';msg.textContent='אין חיבור - נסו שוב בעוד רגע';btn.disabled=false}});
 }});
+(function(){{
+  var btn=document.getElementById('menu-btn'),menu=document.getElementById('side-menu'),ov=document.getElementById('menu-overlay');
+  function setMenu(open){{
+    btn.classList.toggle('open',open);menu.classList.toggle('open',open);ov.classList.toggle('open',open);
+    btn.setAttribute('aria-expanded',open?'true':'false');menu.setAttribute('aria-hidden',open?'false':'true');
+  }}
+  btn.addEventListener('click',function(){{setMenu(!menu.classList.contains('open'))}});
+  ov.addEventListener('click',function(){{setMenu(false)}});
+  menu.querySelectorAll('a').forEach(function(a){{a.addEventListener('click',function(){{setMenu(false)}})}});
+  document.addEventListener('keydown',function(e){{if(e.key==='Escape')setMenu(false)}});
+}})();
 </script></body></html>"""
     open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(page)
     # sanity: verify every referenced mp3 exists with the declared size

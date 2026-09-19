@@ -52,12 +52,37 @@ ol.episodes li{background:#fbf7ec;border:2px solid var(--ink);border-radius:12px
 .suggest .s-msg{margin:0.5rem 0 0;font-weight:600;font-size:0.95rem}
 .suggest .s-msg.ok{color:var(--teal-dark)}
 .suggest .s-msg.err{color:#b3402e}
+.menu-btn{position:fixed;top:1rem;right:1rem;z-index:60;width:52px;height:52px;background:var(--teal);border:2px solid var(--ink);border-radius:12px;box-shadow:3px 3px 0 var(--ink);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px}
+.menu-btn span{display:block;width:24px;height:3px;background:#fff;border-radius:2px;transition:transform .15s,opacity .15s}
+.menu-btn.open span:nth-child(1){transform:translateY(8px) rotate(45deg)}
+.menu-btn.open span:nth-child(2){opacity:0}
+.menu-btn.open span:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
+.menu-btn:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+.menu-overlay{position:fixed;inset:0;background:rgba(30,40,35,0.45);z-index:50;opacity:0;pointer-events:none;transition:opacity .15s}
+.menu-overlay.open{opacity:1;pointer-events:auto}
+.side-menu{position:fixed;top:0;right:0;bottom:0;width:min(300px,84vw);background:#fbf7ec;border-left:3px solid var(--ink);z-index:55;transform:translateX(105%);transition:transform .18s ease-out;padding:5rem 1.4rem 1.4rem;box-sizing:border-box}
+.side-menu.open{transform:translateX(0)}
+.side-menu h2{font-size:1.15rem;font-weight:800;color:var(--teal-dark);margin:0 0 0.9rem;border-bottom:3px solid var(--teal);display:inline-block;padding-bottom:0.15rem}
+.side-menu nav{display:flex;flex-direction:column;gap:0.55rem}
+.side-menu a{display:block;background:#fff;border:2px solid var(--ink);border-radius:10px;box-shadow:2px 2px 0 var(--ink);padding:0.6rem 0.9rem;font-weight:600;color:var(--ink);text-decoration:none;font-size:1rem}
+.side-menu a:active{transform:translate(1px,1px);box-shadow:1px 1px 0 var(--ink)}
 audio{width:100%}
 footer{text-align:center;font-size:0.85rem;color:#5a5548;padding:1.5rem 0 2.5rem;border-top:2px solid var(--paper)}
 footer a{color:var(--teal-dark)}
 </style></head>
 <body>
-<header class="hero">
+<button class="menu-btn" id="menu-btn" aria-label="תפריט" aria-expanded="false"><span></span><span></span><span></span></button>
+<div class="menu-overlay" id="menu-overlay"></div>
+<aside class="side-menu" id="side-menu" aria-hidden="true">
+<h2>ניווט</h2>
+<nav>
+<a href="#top">ראשי</a>
+<a href="#subscribe">איך להצטרף אלי למסע</a>
+<a href="#suggest">תיבת הצעות</a>
+<a href="#eps">פרקים</a>
+</nav>
+</aside>
+<header class="hero" id="top">
 <img class="cover" src="cover.jpg" alt="עטיפת הפודקאסט בלשון סוכנים">
 <h1>בלשון סוכנים</h1>
 <p class="tagline">בלשון בני אדם</p>
@@ -88,7 +113,7 @@ footer a{color:var(--teal-dark)}
 <button class="btn" id="s-send" type="button">שליחת הצעה</button>
 <p class="s-msg" id="s-msg"></p>
 </section>
-<section class="eps">
+<section class="eps" id="eps">
 <h2>פרקים</h2>
 <ol class="episodes"><li dir="rtl" id="ep023"><div class="ep-head"><img class="ep-cover" src="episodes/ep023-cover.jpg" alt="עטיפת פרק 023" loading="lazy"><b>פרק 023</b><span class="ep-title">לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</span></div><p class="ep-sum">Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</p><div class="ep-prompt" id="prompt-ep023"><div class="prompt-head"><b>פרומפט להטמעה</b><button class="copy-btn" type="button" data-target="pc023">העתקה</button></div><code id="pc023">נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability.</code></div><audio controls preload="none" src="episodes/ep023-message-queues.mp3"></audio></li>
 <li dir="rtl" id="ep022"><div class="ep-head"><img class="ep-cover" src="episodes/ep022-cover.jpg" alt="עטיפת פרק 022" loading="lazy"><b>פרק 022</b><span class="ep-title">כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</span></div><p class="ep-sum">Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</p><div class="ep-prompt" id="prompt-ep022"><div class="prompt-head"><b>פרומפט להטמעה</b><button class="copy-btn" type="button" data-target="pc022">העתקה</button></div><code id="pc022">נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure.</code></div><audio controls preload="none" src="episodes/ep022-retries.mp3"></audio></li>
@@ -138,4 +163,15 @@ document.getElementById('s-send').addEventListener('click',function(){
     btn.disabled=false;
   }).catch(function(){msg.className='s-msg err';msg.textContent='אין חיבור - נסו שוב בעוד רגע';btn.disabled=false});
 });
+(function(){
+  var btn=document.getElementById('menu-btn'),menu=document.getElementById('side-menu'),ov=document.getElementById('menu-overlay');
+  function setMenu(open){
+    btn.classList.toggle('open',open);menu.classList.toggle('open',open);ov.classList.toggle('open',open);
+    btn.setAttribute('aria-expanded',open?'true':'false');menu.setAttribute('aria-hidden',open?'false':'true');
+  }
+  btn.addEventListener('click',function(){setMenu(!menu.classList.contains('open'))});
+  ov.addEventListener('click',function(){setMenu(false)});
+  menu.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){setMenu(false)})});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')setMenu(false)});
+})();
 </script></body></html>
