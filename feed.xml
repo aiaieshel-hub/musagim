@@ -16,6 +16,21 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>להפוך &#x27;עובד אצלי&#x27; לבדיקה שחוזרת על עצמה (Continuous Integration)</title>
+   <description>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy.</description>
+   <itunes:title>להפוך &#x27;עובד אצלי&#x27; לבדיקה שחוזרת על עצמה (Continuous Integration)</itunes:title>
+   <itunes:summary>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep019-ci.mp3" length="3847568" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep019</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep019</link>
+   <pubDate>Sat, 19 Sep 2026 19:44:00 +0300</pubDate>
+   <itunes:duration>00:05:21</itunes:duration>
+   <itunes:episode>19</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep019-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>כשהשרת לא מחכה שתשאל אותו מה חדש (WebSocket)</title>
    <description>WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ.</description>
    <itunes:title>כשהשרת לא מחכה שתשאל אותו מה חדש (WebSocket)</itunes:title>
