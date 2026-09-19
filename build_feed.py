@@ -28,6 +28,7 @@ def main():
    <itunes:duration>{fmt_dur(ep['duration'])}</itunes:duration>
    <itunes:episode>{ep['num']}</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="{BASE}/episodes/{ep['image']}"/>
    <itunes:explicit>no</itunes:explicit>
   </item>""")
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -53,7 +54,7 @@ def main():
 """
     open(os.path.join(HERE, "feed.xml"), "w", encoding="utf-8").write(feed)
     rows = "\n".join(
-        f'<li dir="rtl" id="ep{e["num"]:03d}"><div class="ep-head"><b>פרק {e["num"]:03d}</b><span class="ep-title">{html.escape(e["title"])}</span></div>'
+        f'<li dir="rtl" id="ep{e["num"]:03d}"><div class="ep-head"><img class="ep-cover" src="episodes/ep{e["num"]:03d}-cover.jpg" alt="עטיפת פרק {e["num"]:03d}" loading="lazy"><b>פרק {e["num"]:03d}</b><span class="ep-title">{html.escape(e["title"])}</span></div>'
         f'<p class="ep-sum">{html.escape(e["summary"])}</p>'
         f'<audio controls preload="none" src="episodes/{e["file"]}"></audio></li>'
         for e in reversed(eps))
@@ -86,7 +87,8 @@ section.eps{{padding:0.5rem 0 3.5rem}}
 section.eps h2{{font-size:1.5rem;font-weight:800;border-bottom:3px solid var(--teal);display:inline-block;padding-bottom:0.15rem}}
 ol.episodes{{list-style:none;padding:0;margin:1.2rem 0 0}}
 ol.episodes li{{background:#fbf7ec;border:2px solid var(--ink);border-radius:12px;padding:1rem 1.2rem;margin-bottom:1.1rem}}
-.ep-head{{display:flex;gap:0.6rem;align-items:baseline;flex-wrap:wrap}}
+.ep-head{{display:flex;gap:0.6rem;align-items:center;flex-wrap:wrap}}
+.ep-cover{{width:64px;height:64px;border-radius:10px;border:2px solid var(--ink)}}
 .ep-head b{{color:var(--teal-dark)}}
 .ep-title{{font-weight:600;font-size:1.05rem}}
 .ep-sum{{margin:0.3rem 0 0.6rem;font-size:0.95rem;color:#45413a}}
