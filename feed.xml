@@ -16,6 +16,20 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>MCP: איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד</title>
+   <description>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io.</description>
+   <itunes:title>MCP: איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד</itunes:title>
+   <itunes:summary>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep012-mcp.mp3" length="4073579" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep012</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep012</link>
+   <pubDate>Sat, 19 Sep 2026 15:48:39 +0300</pubDate>
+   <itunes:duration>00:05:39</itunes:duration>
+   <itunes:episode>12</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>Cache: הזיכרון המהיר שגם יודע לשקר</title>
    <description>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning.</description>
    <itunes:title>Cache: הזיכרון המהיר שגם יודע לשקר</itunes:title>
