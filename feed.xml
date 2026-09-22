@@ -16,6 +16,36 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</title>
+   <description>Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</itunes:title>
+   <itunes:summary>Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep023-message-queues.mp3" length="4312756" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep023</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep023</link>
+   <pubDate>Sat, 19 Sep 2026 21:14:00 +0300</pubDate>
+   <itunes:duration>00:05:59</itunes:duration>
+   <itunes:episode>23</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep023-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</title>
+   <description>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</itunes:title>
+   <itunes:summary>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep022-retries.mp3" length="4119346" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep022</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep022</link>
+   <pubDate>Sat, 19 Sep 2026 20:42:00 +0300</pubDate>
+   <itunes:duration>00:05:43</itunes:duration>
+   <itunes:episode>22</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep022-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>מה חזק היום #1: אביגדור עולה לשידור - מה סוכן אישי באמת יכול לעשות היום</title>
    <description>פרק הבכורה של &quot;מה חזק היום&quot; הוא ראיון עם אינסטינקט - הסוכן האישי שכבר עובד אצל אנשים אמיתיים כל יום. מארח שואל, אביגדור עונה: מה הוא באמת עושה, איפה הגבולות, ומה משתנה כשיש סוכן שזוכר, פועל ומדווח. ראיון עם אינסטינקט, הסוכן האישי. מה ההבדל בין צ&#x27;אטבוט לסוכן שפועל; דוגמאות יומיומיות אמיתיות; גבולות (לא מייצג בלי רשות, לא נוגע בכסף בלי אישור); איך נראית שבוע עבודה משותף; ומה הדבר הראשון שכדאי לתת לו. משימה מעשית: תנו לסוכן משימה אחת קטנה עם תוצאה מדידה - למשל &quot;כל בוקר בשמונה, תגיד לי מה מזג האוויר ומה הפגישה הראשונה שלי&quot; - ותבדקו אחרי שבוע אם חסך לכם חיפוש. מקורות: instinct.com (אתר החברה); ניסיון שימוש יומיומי של המשתמש. פרומפט להטמעה: בחר משימה חוזרת אחת שאתה עושה כל בוקר. כתוב לסוכן האישי שלך (או לאינסטינקט): &#x27;כל בוקר ב-08:00 תשלח לי X&#x27;. אם אין לך סוכן - כתוב לעצמך איך היית מנסח את הבקשה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>מה חזק היום #1: אביגדור עולה לשידור - מה סוכן אישי באמת יכול לעשות היום</itunes:title>
@@ -28,6 +58,216 @@
    <itunes:episode>21</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep021-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>לארוז את האפליקציה יחד עם הסביבה שהיא צריכה (Containers)</title>
+   <description>Container מצמצם את פער ה&quot;עובד אצלי&quot; באמצעות סביבת ריצה ארוזה ועקבית, אבל עדיין דורש תכנון נפרד ל-secrets, security ו-data מתמשך. הבדלים בגרסת Node, ב-dependencies או ב-configuration יכולים להפוך קוד שעבד על laptop לתקלה ב-production. בפרק הזה נבדיל בין image ל-container, נבין Dockerfile ו-layers, ונראה למה container הוא process מבודד ולא virtual machine קטנה. נגיע גם לחלקים שקל לפספס: tags שאינם זהות קבועה, data שנעלם בלי volume, secrets שאסור לאפות ב-image, והסיבה ש-rollback של container לא מבטל database migration. משימה מעשית: בחר אפליקציה וחלק את סביבת הריצה לארבע רשימות: מה נכנס ל-image, מה מגיע כ-configuration, מה הוא secret, ומה חייב להישמר גם אם ה-container נמחק. מקורות: Docker documentation - Docker overview, What is a container, What is an image. פרומפט להטמעה: נתח את האפליקציה שלי וחלק את רכיביה ל-image, configuration, secrets ו-persistent data. הצע Dockerfile מינימלי ובטוח, כולל base image, non-root user, ports, health check, volume strategy וגרסת image שמאפשרת rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לארוז את האפליקציה יחד עם הסביבה שהיא צריכה (Containers)</itunes:title>
+   <itunes:summary>Container מצמצם את פער ה&quot;עובד אצלי&quot; באמצעות סביבת ריצה ארוזה ועקבית, אבל עדיין דורש תכנון נפרד ל-secrets, security ו-data מתמשך. הבדלים בגרסת Node, ב-dependencies או ב-configuration יכולים להפוך קוד שעבד על laptop לתקלה ב-production. בפרק הזה נבדיל בין image ל-container, נבין Dockerfile ו-layers, ונראה למה container הוא process מבודד ולא virtual machine קטנה. נגיע גם לחלקים שקל לפספס: tags שאינם זהות קבועה, data שנעלם בלי volume, secrets שאסור לאפות ב-image, והסיבה ש-rollback של container לא מבטל database migration. משימה מעשית: בחר אפליקציה וחלק את סביבת הריצה לארבע רשימות: מה נכנס ל-image, מה מגיע כ-configuration, מה הוא secret, ומה חייב להישמר גם אם ה-container נמחק. מקורות: Docker documentation - Docker overview, What is a container, What is an image. פרומפט להטמעה: נתח את האפליקציה שלי וחלק את רכיביה ל-image, configuration, secrets ו-persistent data. הצע Dockerfile מינימלי ובטוח, כולל base image, non-root user, ports, health check, volume strategy וגרסת image שמאפשרת rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep020-containers.mp3" length="3960730" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep020</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep020</link>
+   <pubDate>Sat, 19 Sep 2026 20:11:00 +0300</pubDate>
+   <itunes:duration>00:05:30</itunes:duration>
+   <itunes:episode>20</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep020-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>להפוך &#x27;עובד אצלי&#x27; לבדיקה שחוזרת על עצמה (Continuous Integration)</title>
+   <description>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>להפוך &#x27;עובד אצלי&#x27; לבדיקה שחוזרת על עצמה (Continuous Integration)</itunes:title>
+   <itunes:summary>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep019-ci.mp3" length="3847568" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep019</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep019</link>
+   <pubDate>Sat, 19 Sep 2026 19:44:00 +0300</pubDate>
+   <itunes:duration>00:05:21</itunes:duration>
+   <itunes:episode>19</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep019-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהשרת לא מחכה שתשאל אותו מה חדש (WebSocket)</title>
+   <description>WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>כשהשרת לא מחכה שתשאל אותו מה חדש (WebSocket)</itunes:title>
+   <itunes:summary>WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep018-websocket.mp3" length="4072325" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep018</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep018</link>
+   <pubDate>Sat, 19 Sep 2026 18:48:19 +0300</pubDate>
+   <itunes:duration>00:05:39</itunes:duration>
+   <itunes:episode>18</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep018-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים (DNS)</title>
+   <description>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: עזור לי לתכנן שינוי DNS בטוח: record נוכחי, record יעד, TTL, domain ו-environment מושפעים. בנה checklist שכולל snapshot, הורדת TTL מראש, אימות authoritative, בדיקת caches ותוכנית rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים (DNS)</itunes:title>
+   <itunes:summary>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: עזור לי לתכנן שינוי DNS בטוח: record נוכחי, record יעד, TTL, domain ו-environment מושפעים. בנה checklist שכולל snapshot, הורדת TTL מראש, אימות authoritative, בדיקת caches ותוכנית rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep017-dns.mp3" length="4008378" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep017</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep017</link>
+   <pubDate>Sat, 19 Sep 2026 18:18:05 +0300</pubDate>
+   <itunes:duration>00:05:34</itunes:duration>
+   <itunes:episode>17</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep017-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>איך שרת אחד מחכה בלי לעמוד במקום (Node.js Event Loop)</title>
+   <description>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org. פרומפט להטמעה: נתח endpoint ב-Node.js וסמן כל פעולה כ-waiting או computing. זהה synchronous calls וחישובי CPU שעלולים לחסום את event loop, והצע non-blocking API, worker או פיצול עבודה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך שרת אחד מחכה בלי לעמוד במקום (Node.js Event Loop)</itunes:title>
+   <itunes:summary>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org. פרומפט להטמעה: נתח endpoint ב-Node.js וסמן כל פעולה כ-waiting או computing. זהה synchronous calls וחישובי CPU שעלולים לחסום את event loop, והצע non-blocking API, worker או פיצול עבודה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep016-node-event-loop.mp3" length="4055398" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep016</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep016</link>
+   <pubDate>Sat, 19 Sep 2026 17:48:16 +0300</pubDate>
+   <itunes:duration>00:05:38</itunes:duration>
+   <itunes:episode>16</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep016-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה (Cursor Rules)</title>
+   <description>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor. פרומפט להטמעה: זהה הוראה אחת שאני חוזר עליה בעבודה עם Cursor והפוך אותה ל-rule קצר, יציב וניתן לבדיקה. המלץ אם היא שייכת ל-AGENTS.md, ל-Project Rule לפי files, או ל-enforcement טכני מחוץ ל-context. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה (Cursor Rules)</itunes:title>
+   <itunes:summary>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor. פרומפט להטמעה: זהה הוראה אחת שאני חוזר עליה בעבודה עם Cursor והפוך אותה ל-rule קצר, יציב וניתן לבדיקה. המלץ אם היא שייכת ל-AGENTS.md, ל-Project Rule לפי files, או ל-enforcement טכני מחוץ ל-context. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep015-cursor-rules.mp3" length="3978911" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep015</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep015</link>
+   <pubDate>Sat, 19 Sep 2026 17:17:45 +0300</pubDate>
+   <itunes:duration>00:05:32</itunes:duration>
+   <itunes:episode>15</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep015-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)</title>
+   <description>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)</itunes:title>
+   <itunes:summary>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep014-observability.mp3" length="4263228" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep014</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep014</link>
+   <pubDate>Sat, 19 Sep 2026 16:49:42 +0300</pubDate>
+   <itunes:duration>00:05:55</itunes:duration>
+   <itunes:episode>14</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep014-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)</title>
+   <description>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)</itunes:title>
+   <itunes:summary>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep013-pull-request.mp3" length="4387676" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep013</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep013</link>
+   <pubDate>Sat, 19 Sep 2026 16:19:32 +0300</pubDate>
+   <itunes:duration>00:06:06</itunes:duration>
+   <itunes:episode>13</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep013-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)</title>
+   <description>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)</itunes:title>
+   <itunes:summary>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep012-mcp.mp3" length="4073579" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep012</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep012</link>
+   <pubDate>Sat, 19 Sep 2026 15:48:39 +0300</pubDate>
+   <itunes:duration>00:05:39</itunes:duration>
+   <itunes:episode>12</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep012-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>הזיכרון המהיר שגם יודע לשקר (Cache)</title>
+   <description>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הזיכרון המהיר שגם יודע לשקר (Cache)</itunes:title>
+   <itunes:summary>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep011-cache.mp3" length="4149125" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep011</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep011</link>
+   <pubDate>Sat, 19 Sep 2026 15:19:16 +0300</pubDate>
+   <itunes:duration>00:05:46</itunes:duration>
+   <itunes:episode>11</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep011-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>הכול קורה, או ששום דבר לא קורה (Database Transaction)</title>
+   <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הכול קורה, או ששום דבר לא קורה (Database Transaction)</itunes:title>
+   <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep010</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep010</link>
+   <pubDate>Sat, 19 Sep 2026 14:38:10 +0300</pubDate>
+   <itunes:duration>00:05:56</itunes:duration>
+   <itunes:episode>10</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep010-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>החוזה שמאפשר לתוכנות לעבוד יחד (API)</title>
+   <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>החוזה שמאפשר לתוכנות לעבוד יחד (API)</itunes:title>
+   <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep009</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep009</link>
+   <pubDate>Sat, 19 Sep 2026 14:36:04 +0300</pubDate>
+   <itunes:duration>00:05:46</itunes:duration>
+   <itunes:episode>9</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep009-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסוי בצד בלי לשכפל את כל הבית (Git Branches)</title>
+   <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>ניסוי בצד בלי לשכפל את כל הבית (Git Branches)</itunes:title>
+   <itunes:summary>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep008</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep008</link>
+   <pubDate>Sat, 19 Sep 2026 12:30:20 +0300</pubDate>
+   <itunes:duration>00:05:16</itunes:duration>
+   <itunes:episode>8</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep008-cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)</title>
+   <description>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)</itunes:title>
+   <itunes:summary>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep007-idempotency.mp3" length="4004616" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep007</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep007</link>
+   <pubDate>Sat, 19 Sep 2026 11:23:17 +0300</pubDate>
+   <itunes:duration>00:05:34</itunes:duration>
+   <itunes:episode>7</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep007-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
