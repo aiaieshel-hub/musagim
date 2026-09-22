@@ -23,3 +23,7 @@ Episodes carry a `status` field in episodes.json: `published` or `draft`.
 Only `published` episodes are written to feed.xml and index.html (draft mp3s/covers stay in episodes/, unlisted).
 Re-publish rule: an episode returns to `published` only after the user writes his application notes for it in the learning system.
 The apply-prompt rewrite (new 8-part brief + 6/6 check standard) is NOT synced to the site until the user approves the 5 review batches.
+
+## Sourcing rule (user instruction, 2026-09-22)
+"בלי אוטוטיוזדיי. משם רק נושאים והשראה. למידה אתה מביא ממקורות פתוחים."
+AutoTuesday may be used for topics and inspiration only. Learning content for episodes must come from open sources. Applies to all future episode production.
