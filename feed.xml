@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>השירות שקם אחרי הפסקת חשמל (systemd)</title>
+   <description>שירותים: איך האתר קם אחרי הפעלה מחדש. ארבע ההבטחות של systemd ויוניט בארבע שורות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הפוך את אחד הכלים שלי לשירות: יוניט, הפעלה, ועצירה בכוונה לצפייה בהרמה אוטומטית.
+גבולות: על שרת ניסוי בלבד; משתמש מוגבל לשירות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: היוניט + תיעוד ההרמה האוטומטית + הלוג.
+Definition of done: השירות קם לבד אחרי עצירה בכוונה.
+גבולות סמכות: שרת הניסוי בלבד; אסור לשנות שירותים קיימים. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>השירות שקם אחרי הפסקת חשמל (systemd)</itunes:title>
+   <itunes:summary>שירותים: איך האתר קם אחרי הפעלה מחדש. ארבע ההבטחות של systemd ויוניט בארבע שורות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הפוך את אחד הכלים שלי לשירות: יוניט, הפעלה, ועצירה בכוונה לצפייה בהרמה אוטומטית.
+גבולות: על שרת ניסוי בלבד; משתמש מוגבל לשירות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: היוניט + תיעוד ההרמה האוטומטית + הלוג.
+Definition of done: השירות קם לבד אחרי עצירה בכוונה.
+גבולות סמכות: שרת הניסוי בלבד; אסור לשנות שירותים קיימים. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep068-systemd.mp3" length="1902490" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep068</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep068</link>
+   <pubDate>Thu, 24 Sep 2026 15:29:50 +0300</pubDate>
+   <itunes:duration>00:02:38</itunes:duration>
+   <itunes:episode>68</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לדבר עם שרת בלי דפדפן (curl)</title>
    <description>קרל: הטלפון הישיר לשרת. שליפה, שליחה, כותרות, מצב מילולי - וחצי אבחון בפקודה אחת. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
