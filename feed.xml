@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הכפתורים על הכלי (CLI Arguments and Flags)</title>
+   <description>דגלים בשורת הפקודה: הכפתורים של הכלי, השילוש input-output-verbose, ולמה help טוב הוא סימן היכר. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הוסף לכלי הניקוי שלי דגלים: input, output, verbose, ו-help הגיוני.
+גבולות: ברירות מחדל הגיוניות בלי דגלים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הכלי המעודכן + הדגמת help + שלוש הרצות שונות.
+Definition of done: ה-help מסביר את כל הדגלים, הכלי עובד גם בלעדיהם.
+גבולות סמכות: מותר לשנות את קובץ הכלי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הכפתורים על הכלי (CLI Arguments and Flags)</itunes:title>
+   <itunes:summary>דגלים בשורת הפקודה: הכפתורים של הכלי, השילוש input-output-verbose, ולמה help טוב הוא סימן היכר. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הוסף לכלי הניקוי שלי דגלים: input, output, verbose, ו-help הגיוני.
+גבולות: ברירות מחדל הגיוניות בלי דגלים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הכלי המעודכן + הדגמת help + שלוש הרצות שונות.
+Definition of done: ה-help מסביר את כל הדגלים, הכלי עובד גם בלעדיהם.
+גבולות סמכות: מותר לשנות את קובץ הכלי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep054-cli-flags.mp3" length="1845125" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep054</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep054</link>
+   <pubDate>Thu, 24 Sep 2026 14:42:34 +0300</pubDate>
+   <itunes:duration>00:02:33</itunes:duration>
+   <itunes:episode>54</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הסניפר של הטקסט (String Manipulation)</title>
    <description>טיפול במחרוזות: שש הפעולות הבסיסיות והסלאג. ולמה לשאול את הסוכן מה קורה עם עברית. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
