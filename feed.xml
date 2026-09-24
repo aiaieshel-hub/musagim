@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הקופסאות עם המדבקות (Variables and Types)</title>
+   <description>משתנים וטיפוסים: קופסאות עם שם, למה 1 ו-&#x27;1&#x27; הם לא אותו דבר, ואיך קוראים שגיאת סוגים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הרץ את תרגיל המשתנים: שלוש קופסאות (טקסט, מספר, מספר במרכאות), חבר אותן, והסבר כל תוצאה.
+גבולות: בלי התקנות; סביבת הרצה פשוטה בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש התוצאות + הסבר לכל אחת בשפה פשוטה.
+Definition of done: ההבדל בין חיבור מספרים להדבקת טקסטים מוסבר נכון.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הקופסאות עם המדבקות (Variables and Types)</itunes:title>
+   <itunes:summary>משתנים וטיפוסים: קופסאות עם שם, למה 1 ו-&#x27;1&#x27; הם לא אותו דבר, ואיך קוראים שגיאת סוגים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הרץ את תרגיל המשתנים: שלוש קופסאות (טקסט, מספר, מספר במרכאות), חבר אותן, והסבר כל תוצאה.
+גבולות: בלי התקנות; סביבת הרצה פשוטה בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש התוצאות + הסבר לכל אחת בשפה פשוטה.
+Definition of done: ההבדל בין חיבור מספרים להדבקת טקסטים מוסבר נכון.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep047-variables.mp3" length="2146369" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep047</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep047</link>
+   <pubDate>Thu, 24 Sep 2026 14:29:19 +0300</pubDate>
+   <itunes:duration>00:02:58</itunes:duration>
+   <itunes:episode>47</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הטקסט האדום הוא חבר שלכם (Reading Errors)</title>
    <description>קריאת שגיאות: שלוש השכבות (מיקוד, סיבה, שרשרת), סדר הקריאה ההפוך, ושיטת ארבעת הצעדים. משימה מעשית: קח שגיאה אמיתית מהפרויקט ועבור על ארבעת הצעדים. מקורות: Wikipedia - Stack trace; MDN - Debugging. פרומפט להטמעה: תפקיד והקשר: אתה שותף לדיבוג.
 קלטים: הודעת שגיאה אמיתית מהפרויקט שלי.
