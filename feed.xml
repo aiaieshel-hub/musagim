@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>שפה אחת לכל התיעוד (Markdown)</title>
+   <description>מארקדאון בשש דקות: ששה סימנים שמכסים תשעים אחוז מהתיעוד בעולם, ולמה היא שפת התדריכים לסוכן. משימה מעשית: כתוב את יומן הלמידה שלך במארקדאון. מקורות: Markdown Guide - Getting Started; Wikipedia - Markdown. פרומפט להטמעה: תפקיד והקשר: אתה עורך תיעוד.
+קלטים: קובץ טקסט פשוט שאכתוב עם נקודות וכותרות.
+מטרה: הפוך את הטקסט שלי למארקדאון מסודר ולמד אותי כל סימן שהוספת.
+גבולות: בלי לשנות תוכן, רק סימון.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ המסומן + רשימת הסימנים עם הסבר קצר לכל אחד.
+Definition of done: כל סימן מוסבר ותקין במארקדאון תקני.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>שפה אחת לכל התיעוד (Markdown)</itunes:title>
+   <itunes:summary>מארקדאון בשש דקות: ששה סימנים שמכסים תשעים אחוז מהתיעוד בעולם, ולמה היא שפת התדריכים לסוכן. משימה מעשית: כתוב את יומן הלמידה שלך במארקדאון. מקורות: Markdown Guide - Getting Started; Wikipedia - Markdown. פרומפט להטמעה: תפקיד והקשר: אתה עורך תיעוד.
+קלטים: קובץ טקסט פשוט שאכתוב עם נקודות וכותרות.
+מטרה: הפוך את הטקסט שלי למארקדאון מסודר ולמד אותי כל סימן שהוספת.
+גבולות: בלי לשנות תוכן, רק סימון.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ המסומן + רשימת הסימנים עם הסבר קצר לכל אחד.
+Definition of done: כל סימן מוסבר ותקין במארקדאון תקני.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep033-markdown.mp3" length="2321599" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep033</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep033</link>
+   <pubDate>Thu, 24 Sep 2026 13:45:47 +0300</pubDate>
+   <itunes:duration>00:03:13</itunes:duration>
+   <itunes:episode>33</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>שלוש מאות מילישניות אחרי שאתה לוחץ Enter (What Happens on the Web)</title>
    <description>המסע של שלוש מאות מילישניות אחרי לחיצה על Enter: חמש תחנות מ-DNS לציור העמוד, ואיך המפה הזו אומרת איפה לחפש כשאתר איטי. משימה מעשית: מדוד עם הסוכן כמה זמן לוקח לאתר שלך להיטען ואיזו תחנה הכי איטית. מקורות: MDN - How the Web works; Wikipedia - Hypertext Transfer Protocol. פרומפט להטמעה: תפקיד והקשר: אתה מאבחן מהירות אתרים.
 קלטים: כתובת האתר שלי וכלי מדידת זמני טעינה.
