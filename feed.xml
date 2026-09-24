@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>תפסיקו לשאול אם הגיע (Webhooks)</title>
+   <description>ווב-הוקים: תפסיקו לשאול אם הגיע. היפוך הכיוון, חתימה, ולמה עונים מהר ועובדים ברקע. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הקם איתי מאזין webhook מקומי עם מנהרה, ושלח לו הודעת בדיקה.
+גבולות: שרת ניסוי ומנהרה זמנית בלבד; אימות חתימה מודגם.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: המאזין + המנהרה + הודעת הבדיקה שהתקבלה + הסבר החתימה.
+Definition of done: ההודעה התקבלה, החתימה אומתה, המנהרה נסגרה בסוף.
+גבולות סמכות: ניסוי בלבד; המנהרה נסגרת בסוף התרגיל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>תפסיקו לשאול אם הגיע (Webhooks)</itunes:title>
+   <itunes:summary>ווב-הוקים: תפסיקו לשאול אם הגיע. היפוך הכיוון, חתימה, ולמה עונים מהר ועובדים ברקע. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הקם איתי מאזין webhook מקומי עם מנהרה, ושלח לו הודעת בדיקה.
+גבולות: שרת ניסוי ומנהרה זמנית בלבד; אימות חתימה מודגם.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: המאזין + המנהרה + הודעת הבדיקה שהתקבלה + הסבר החתימה.
+Definition of done: ההודעה התקבלה, החתימה אומתה, המנהרה נסגרה בסוף.
+גבולות סמכות: ניסוי בלבד; המנהרה נסגרת בסוף התרגיל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep071-webhooks.mp3" length="1909387" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep071</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep071</link>
+   <pubDate>Thu, 24 Sep 2026 15:35:06 +0300</pubDate>
+   <itunes:duration>00:02:39</itunes:duration>
+   <itunes:episode>71</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>התפריט המוסכם של האינטרנט (REST)</title>
    <description>רסט: התפריט המוסכם. משאבים, ארבע פעולות, וקודי סטטוס - הספרה הראשונה אומרת מי אשם. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
