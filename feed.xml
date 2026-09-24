@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הענן של הקוד (Remote, Push, Pull, Clone)</title>
+   <description>רימוט: פוש, פול, קלון. הכספת המשותפת של הקוד, ולמה דוחפים כל יום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: עזור לי לדחוף פרויקט ניסוי לגיטהאב, לשכפל אותו, ולסנכרן שינוי בין שני העותקים.
+גבולות: פרויקט ניסוי בלבד, לא פרויקט אמיתי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שני עותקים מסונכרנים + הסבר כל פעולה שבוצעה.
+Definition of done: שינוי מעותק אחד מופיע בשני אחרי push ו-pull.
+גבולות סמכות: מותר push לריפו ניסוי חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הענן של הקוד (Remote, Push, Pull, Clone)</itunes:title>
+   <itunes:summary>רימוט: פוש, פול, קלון. הכספת המשותפת של הקוד, ולמה דוחפים כל יום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: עזור לי לדחוף פרויקט ניסוי לגיטהאב, לשכפל אותו, ולסנכרן שינוי בין שני העותקים.
+גבולות: פרויקט ניסוי בלבד, לא פרויקט אמיתי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שני עותקים מסונכרנים + הסבר כל פעולה שבוצעה.
+Definition of done: שינוי מעותק אחד מופיע בשני אחרי push ו-pull.
+גבולות סמכות: מותר push לריפו ניסוי חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep057-git-remote.mp3" length="2142608" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep057</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep057</link>
+   <pubDate>Thu, 24 Sep 2026 14:53:43 +0300</pubDate>
+   <itunes:duration>00:02:58</itunes:duration>
+   <itunes:episode>57</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>ספר ההוראות שאף אחד לא קורא (Reading Documentation)</title>
    <description>קריאת תיעוד: ארבע השכבות, כלל הזהב של הדוגמה מול העיון, ולמה דורשים מהסוכן ציטוט עם גרסה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
