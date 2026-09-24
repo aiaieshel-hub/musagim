@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>הפירמידה שמתחת לכל התקנה (Dependencies in Depth)</title>
+   <description>תלויות לעומק: הפירמידה מתחת להתקנה, נעילת גרסאות, ומה עושים כשקונפליקט מתפוצץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הצג את עץ התלויות של פרויקט הניסוי, מצא את קובץ הנעילה, והסבר את רשימת המצאי האמיתית.
+גבולות: בלי התקנות חדשות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: העץ + הסבר הקובץ + שלוש תובנות על הפירמידה שלי.
+Definition of done: העץ אמיתי, התובנות מבוססות עליו.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הפירמידה שמתחת לכל התקנה (Dependencies in Depth)</itunes:title>
+   <itunes:summary>תלויות לעומק: הפירמידה מתחת להתקנה, נעילת גרסאות, ומה עושים כשקונפליקט מתפוצץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הצג את עץ התלויות של פרויקט הניסוי, מצא את קובץ הנעילה, והסבר את רשימת המצאי האמיתית.
+גבולות: בלי התקנות חדשות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: העץ + הסבר הקובץ + שלוש תובנות על הפירמידה שלי.
+Definition of done: העץ אמיתי, התובנות מבוססות עליו.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep066-packages-deep.mp3" length="2092139" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep066</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep066</link>
+   <pubDate>Thu, 24 Sep 2026 15:20:45 +0300</pubDate>
+   <itunes:duration>00:02:54</itunes:duration>
+   <itunes:episode>66</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>למצוא את כולם ולטפל בכולם (find and xargs)</title>
    <description>פיינד ואקס-ארגס: למצוא את כולם ולטפל בכולם. ונהלי הבטיחות: רשימה לפני ביצוע, תמיד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
