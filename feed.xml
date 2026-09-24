@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>הפתקים שהתוכנה קוראת בפתיחה (Environment Variables)</title>
+   <description>משתני סביבה: לוח המודעות של התוכנה. PATH בידיים, ולמה הגדרות שם אבל סודות לא. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הגדר איתי משתנה סביבה, קרא אותו מתוכנית, והוסף תיקייה אישית ל-PATH.
+גבולות: הגדרות בלבד; אסור לשים סודות במשתנים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ההגדרות + הדגמה שהכלי זמין מכל מקום.
+Definition of done: התוכנית קראה את המשתנה, הכלי עובד מכל תיקייה.
+גבולות סמכות: מותר לשנות את קובץ ה-rc שלי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הפתקים שהתוכנה קוראת בפתיחה (Environment Variables)</itunes:title>
+   <itunes:summary>משתני סביבה: לוח המודעות של התוכנה. PATH בידיים, ולמה הגדרות שם אבל סודות לא. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הגדר איתי משתנה סביבה, קרא אותו מתוכנית, והוסף תיקייה אישית ל-PATH.
+גבולות: הגדרות בלבד; אסור לשים סודות במשתנים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ההגדרות + הדגמה שהכלי זמין מכל מקום.
+Definition of done: התוכנית קראה את המשתנה, הכלי עובד מכל תיקייה.
+גבולות סמכות: מותר לשנות את קובץ ה-rc שלי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep067-env-vars.mp3" length="1852649" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep067</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep067</link>
+   <pubDate>Thu, 24 Sep 2026 15:21:41 +0300</pubDate>
+   <itunes:duration>00:02:34</itunes:duration>
+   <itunes:episode>67</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הפירמידה שמתחת לכל התקנה (Dependencies in Depth)</title>
    <description>תלויות לעומק: הפירמידה מתחת להתקנה, נעילת גרסאות, ומה עושים כשקונפליקט מתפוצץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
