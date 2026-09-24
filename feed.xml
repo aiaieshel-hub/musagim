@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הסניפר של הטקסט (String Manipulation)</title>
+   <description>טיפול במחרוזות: שש הפעולות הבסיסיות והסלאג. ולמה לשאול את הסוכן מה קורה עם עברית. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פונקציית slug ובדוק אותה על שלוש כותרות מאתגרות כולל עברית.
+גבולות: אותיות לטיניות קטנות, מקפים, בלי תווים מיוחדים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הפונקציה + שלוש דוגמאות מורצות + ניתוח התוצאה העברית.
+Definition of done: שלוש הדוגמאות מוצגות, ההתנהגות בעברית מוסברת.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הסניפר של הטקסט (String Manipulation)</itunes:title>
+   <itunes:summary>טיפול במחרוזות: שש הפעולות הבסיסיות והסלאג. ולמה לשאול את הסוכן מה קורה עם עברית. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פונקציית slug ובדוק אותה על שלוש כותרות מאתגרות כולל עברית.
+גבולות: אותיות לטיניות קטנות, מקפים, בלי תווים מיוחדים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הפונקציה + שלוש דוגמאות מורצות + ניתוח התוצאה העברית.
+Definition of done: שלוש הדוגמאות מוצגות, ההתנהגות בעברית מוסברת.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep052-strings.mp3" length="1943241" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep052</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep052</link>
+   <pubDate>Thu, 24 Sep 2026 14:37:00 +0300</pubDate>
+   <itunes:duration>00:02:41</itunes:duration>
+   <itunes:episode>52</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לפתוח, לקרוא, לכתוב, לסגור (Reading and Writing Files)</title>
    <description>קריאה וכתיבה לקבצים: ארבע הפעולות וכלל הזהב - לא כותבים על המקור. ניקוי דאטה כדוגמת על. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
