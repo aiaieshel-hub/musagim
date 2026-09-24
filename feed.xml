@@ -16,6 +16,151 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>המנהלת השקטה (Operating System)</title>
+   <description>מערכת ההפעלה כמנהלת שקטה: מתווכת בין תוכנה לחומרה, מחלקת זמן וזיכרון, שומרת הרשאות. ולמה השרת שלך כמעט תמיד לינוקס גם אם המחשב שלך לא. משימה מעשית: גלה באילו מערכות הפעלה אתה עובד במקומות השונים. מקורות: Wikipedia - Operating system; Wikipedia - Linux. פרומפט להטמעה: תפקיד והקשר: אתה מדריך סביבות עבודה.
+קלטים: פרטי מערכת ההפעלה במחשב שלי ובשרת שלי אם יש.
+מטרה: הסבר את ההבדלים המעשיים בין שתי הסביבות שלי שיכולים לשבור דברים.
+גבולות: בלי שינויים במערכת.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: רשימת הבדלים מעשיים, כל אחד עם דוגמה לתקלה אפשרית.
+Definition of done: לפחות שלושה הבדלים אמיתיים ורלוונטיים.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>המנהלת השקטה (Operating System)</itunes:title>
+   <itunes:summary>מערכת ההפעלה כמנהלת שקטה: מתווכת בין תוכנה לחומרה, מחלקת זמן וזיכרון, שומרת הרשאות. ולמה השרת שלך כמעט תמיד לינוקס גם אם המחשב שלך לא. משימה מעשית: גלה באילו מערכות הפעלה אתה עובד במקומות השונים. מקורות: Wikipedia - Operating system; Wikipedia - Linux. פרומפט להטמעה: תפקיד והקשר: אתה מדריך סביבות עבודה.
+קלטים: פרטי מערכת ההפעלה במחשב שלי ובשרת שלי אם יש.
+מטרה: הסבר את ההבדלים המעשיים בין שתי הסביבות שלי שיכולים לשבור דברים.
+גבולות: בלי שינויים במערכת.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: רשימת הבדלים מעשיים, כל אחד עם דוגמה לתקלה אפשרית.
+Definition of done: לפחות שלושה הבדלים אמיתיים ורלוונטיים.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep028-operating-system.mp3" length="2736319" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep028</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep028</link>
+   <pubDate>Thu, 24 Sep 2026 13:31:46 +0300</pubDate>
+   <itunes:duration>00:03:47</itunes:duration>
+   <itunes:episode>28</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושה מיליארד פעמים בשנייה (CPU)</title>
+   <description>המעבד מבצע פקודות פשוטות מיליארדות פעמים בשנייה: מביא, מבין, מבצע. למה יותר ליבות לא תמיד עוזרות, ואיזו שאלה לשאול כשמשהו איטי. משימה מעשית: מצא עם הסוכן תהליך שאוכל מעבד במחשב שלך והבן למה. מקורות: Wikipedia - Central processing unit; Wikipedia - Instruction cycle. פרומפט להטמעה: תפקיד והקשר: אתה מאבחן ביצועי מערכת.
+קלטים: רשימת התהליכים התובעניים במחשב שלי כרגע.
+מטרה: הסבר איזה תהליך תובעני, למה, ומה הסיבה הסבירה.
+גבולות: בלי לעצור או להרוג תהליכים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש תובנות ממוספרות בשפה פשוטה.
+Definition of done: כל תובנה מתייחסת לתהליך אמיתי מהרשימה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>שלושה מיליארד פעמים בשנייה (CPU)</itunes:title>
+   <itunes:summary>המעבד מבצע פקודות פשוטות מיליארדות פעמים בשנייה: מביא, מבין, מבצע. למה יותר ליבות לא תמיד עוזרות, ואיזו שאלה לשאול כשמשהו איטי. משימה מעשית: מצא עם הסוכן תהליך שאוכל מעבד במחשב שלך והבן למה. מקורות: Wikipedia - Central processing unit; Wikipedia - Instruction cycle. פרומפט להטמעה: תפקיד והקשר: אתה מאבחן ביצועי מערכת.
+קלטים: רשימת התהליכים התובעניים במחשב שלי כרגע.
+מטרה: הסבר איזה תהליך תובעני, למה, ומה הסיבה הסבירה.
+גבולות: בלי לעצור או להרוג תהליכים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש תובנות ממוספרות בשפה פשוטה.
+Definition of done: כל תובנה מתייחסת לתהליך אמיתי מהרשימה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep027-cpu.mp3" length="2920639" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep027</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep027</link>
+   <pubDate>Thu, 24 Sep 2026 13:31:45 +0300</pubDate>
+   <itunes:duration>00:04:03</itunes:duration>
+   <itunes:episode>27</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>העץ שכל המחשב תלוי עליו (File System)</title>
+   <description>מערכת הקבצים כעץ: שורש אחד, נתיבים ככתובות, שמות והרשאות כמנעולים. איך לשפוט מבנה פרויקט שהסוכן בונה. משימה מעשית: בקש מהסוכן לצייר את עץ הפרויקט שלך ולבקר אותו. מקורות: Wikipedia - File system; Wikipedia - Directory (computing). פרומפט להטמעה: תפקיד והקשר: אתה ארכיטקט מבנה פרויקטים.
+קלטים: עץ התיקיות הנוכחי של הפרויקט שלי.
+מטרה: הצג את העץ, זהה בעיות סדר (שמות, עומק, ערבוב), והצע מבנה משופר.
+גבולות: בלי להזיז או לשנות קבצים בפועל.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ציור עץ נוכחי, שלוש הערות, עץ מוצע.
+Definition of done: כל הערה מצביעה על קובץ או תיקייה אמיתיים בעץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>העץ שכל המחשב תלוי עליו (File System)</itunes:title>
+   <itunes:summary>מערכת הקבצים כעץ: שורש אחד, נתיבים ככתובות, שמות והרשאות כמנעולים. איך לשפוט מבנה פרויקט שהסוכן בונה. משימה מעשית: בקש מהסוכן לצייר את עץ הפרויקט שלך ולבקר אותו. מקורות: Wikipedia - File system; Wikipedia - Directory (computing). פרומפט להטמעה: תפקיד והקשר: אתה ארכיטקט מבנה פרויקטים.
+קלטים: עץ התיקיות הנוכחי של הפרויקט שלי.
+מטרה: הצג את העץ, זהה בעיות סדר (שמות, עומק, ערבוב), והצע מבנה משופר.
+גבולות: בלי להזיז או לשנות קבצים בפועל.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ציור עץ נוכחי, שלוש הערות, עץ מוצע.
+Definition of done: כל הערה מצביעה על קובץ או תיקייה אמיתיים בעץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep026-filesystem.mp3" length="2823777" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep026</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep026</link>
+   <pubDate>Thu, 24 Sep 2026 13:31:43 +0300</pubDate>
+   <itunes:duration>00:03:55</itunes:duration>
+   <itunes:episode>26</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>זיכרון קצר, זיכרון ארוך (RAM vs Storage)</title>
+   <description>ההבדל בין זיכרון חי (RAM) לאחסון קבוע: למה &#x27;לשמור&#x27; זה להעביר מהשולחן לארון, ואיך אותו חוק חל על שיחה עם סוכן מול קובץ זיכרון פרויקט. משימה מעשית: בדוק כמה זיכרון פנוי יש לך ומה תופס את הרוב, בעזרת הסוכן. מקורות: Wikipedia - Random-access memory; Wikipedia - Computer data storage. פרומפט להטמעה: תפקיד והקשר: אתה עוזר לי להבין את משאבי המחשב שלי.
+קלטים: נתוני זיכרון ואחסון עדכניים מהמערכת שלי.
+מטרה: הסבר מה תופס זיכרון חי עכשיו ומה שוכן באחסון, והמלץ על פעולה אחת.
+גבולות: בלי לסגור תהליכים או למחוק דבר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה קצרה + הסבר בשפה פשוטה + המלצה אחת.
+Definition of done: הטבלה מבוססת על נתונים אמיתיים, לא הומצא דבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>זיכרון קצר, זיכרון ארוך (RAM vs Storage)</itunes:title>
+   <itunes:summary>ההבדל בין זיכרון חי (RAM) לאחסון קבוע: למה &#x27;לשמור&#x27; זה להעביר מהשולחן לארון, ואיך אותו חוק חל על שיחה עם סוכן מול קובץ זיכרון פרויקט. משימה מעשית: בדוק כמה זיכרון פנוי יש לך ומה תופס את הרוב, בעזרת הסוכן. מקורות: Wikipedia - Random-access memory; Wikipedia - Computer data storage. פרומפט להטמעה: תפקיד והקשר: אתה עוזר לי להבין את משאבי המחשב שלי.
+קלטים: נתוני זיכרון ואחסון עדכניים מהמערכת שלי.
+מטרה: הסבר מה תופס זיכרון חי עכשיו ומה שוכן באחסון, והמלץ על פעולה אחת.
+גבולות: בלי לסגור תהליכים או למחוק דבר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה קצרה + הסבר בשפה פשוטה + המלצה אחת.
+Definition of done: הטבלה מבוססת על נתונים אמיתיים, לא הומצא דבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep025-ram-storage.mp3" length="2932551" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep025</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep025</link>
+   <pubDate>Thu, 24 Sep 2026 13:31:41 +0300</pubDate>
+   <itunes:duration>00:04:04</itunes:duration>
+   <itunes:episode>25</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>הכל זה קובץ (File)</title>
+   <description>קובץ הוא סידרת בתים עם מטא-דאטה, לא &#x27;דבר&#x27;. למה תמונה היא מספרים, מה קורה כשקובץ &#x27;נהרס&#x27;, ואיך ההבנה הזו הופכת הודעות שגיאה למפה. משימה מעשית: מצא קובץ תמונה, בדוק גודל ומטא-דאטה, ושאל את הסוכן מה כל שדה אומר. מקורות: Wikipedia - Computer file; Wikipedia - Byte. פרומפט להטמעה: תפקיד והקשר: אתה מנתח קבצים בפרויקט שלי.
+קלטים: קובץ אחד שאציין, ופלט כלי זיהוי קובץ.
+מטרה: הסבר מה הקובץ מכיל ברמת בתים ומטא-דאטה, ומה לומדים ממנו.
+גבולות: קריאה בלבד, בלי לשנות או להעביר קבצים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: סיכום קצר: סוג, גודל, מטא-דאטה רלוונטית, ושני דברים שלמדתי.
+Definition of done: כל ארבעת הסעיפים קיימים, לא שונה אף קובץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הכל זה קובץ (File)</itunes:title>
+   <itunes:summary>קובץ הוא סידרת בתים עם מטא-דאטה, לא &#x27;דבר&#x27;. למה תמונה היא מספרים, מה קורה כשקובץ &#x27;נהרס&#x27;, ואיך ההבנה הזו הופכת הודעות שגיאה למפה. משימה מעשית: מצא קובץ תמונה, בדוק גודל ומטא-דאטה, ושאל את הסוכן מה כל שדה אומר. מקורות: Wikipedia - Computer file; Wikipedia - Byte. פרומפט להטמעה: תפקיד והקשר: אתה מנתח קבצים בפרויקט שלי.
+קלטים: קובץ אחד שאציין, ופלט כלי זיהוי קובץ.
+מטרה: הסבר מה הקובץ מכיל ברמת בתים ומטא-דאטה, ומה לומדים ממנו.
+גבולות: קריאה בלבד, בלי לשנות או להעביר קבצים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: סיכום קצר: סוג, גודל, מטא-דאטה רלוונטית, ושני דברים שלמדתי.
+Definition of done: כל ארבעת הסעיפים קיימים, לא שונה אף קובץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep024-file.mp3" length="2937880" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep024</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep024</link>
+   <pubDate>Thu, 24 Sep 2026 13:31:40 +0300</pubDate>
+   <itunes:duration>00:04:04</itunes:duration>
+   <itunes:episode>24</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</title>
    <description>Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</itunes:title>
