@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>חמשת התווים שפותחים כל לוג (RegEx)</title>
+   <description>רג&#x27;קס: חמשת התווים שפותחים כל לוג. צורה במקום מילה, ואיך מבקשים ביטוי מהסוכן עם דוגמאות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב לי ביטוי רגולרי שמוצא כתובות IP בלוג, בדוק על שלוש דוגמאות, והסבר כל תו.
+גבולות: שלוש הדוגמאות שלי מהפרק.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הביטוי + תוצאות הבדיקה + הסבר תו-תו.
+Definition of done: הביטוי תופס את שלוש הדוגמאות וכל תו מוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>חמשת התווים שפותחים כל לוג (RegEx)</itunes:title>
+   <itunes:summary>רג&#x27;קס: חמשת התווים שפותחים כל לוג. צורה במקום מילה, ואיך מבקשים ביטוי מהסוכן עם דוגמאות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב לי ביטוי רגולרי שמוצא כתובות IP בלוג, בדוק על שלוש דוגמאות, והסבר כל תו.
+גבולות: שלוש הדוגמאות שלי מהפרק.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הביטוי + תוצאות הבדיקה + הסבר תו-תו.
+Definition of done: הביטוי תופס את שלוש הדוגמאות וכל תו מוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep063-regex.mp3" length="2200600" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep063</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep063</link>
+   <pubDate>Thu, 24 Sep 2026 15:07:26 +0300</pubDate>
+   <itunes:duration>00:03:03</itunes:duration>
+   <itunes:episode>63</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>פס הייצור של הפקודות (Pipes)</title>
    <description>צינורות: פס הייצור של הפקודות. קו אנכי בין תחנות, והפניה לקובץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
