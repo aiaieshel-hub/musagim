@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>שורת הכסאות והתוויות (Lists and Dictionaries)</title>
+   <description>רשימות ומילונים: שורת כסאות ממוספרת מול קופסא עם תוויות. מתי כל אחד, ולמה הספירה מתחילה מאפס. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי רשימה של שלושה מוצרים ומילון למוצר הראשון, והדגים גישה לפי מספר ולפי שם.
+גבולות: הנתונים שלי מהתרגיל בפרק.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקוד + פלט ההדפסות + הסבר ההבדל.
+Definition of done: שתי הגישות מודגמות ומוסברות.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>שורת הכסאות והתוויות (Lists and Dictionaries)</itunes:title>
+   <itunes:summary>רשימות ומילונים: שורת כסאות ממוספרת מול קופסא עם תוויות. מתי כל אחד, ולמה הספירה מתחילה מאפס. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי רשימה של שלושה מוצרים ומילון למוצר הראשון, והדגים גישה לפי מספר ולפי שם.
+גבולות: הנתונים שלי מהתרגיל בפרק.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקוד + פלט ההדפסות + הסבר ההבדל.
+Definition of done: שתי הגישות מודגמות ומוסברות.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep050-lists-dicts.mp3" length="2180538" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep050</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep050</link>
+   <pubDate>Thu, 24 Sep 2026 14:32:38 +0300</pubDate>
+   <itunes:duration>00:03:01</itunes:duration>
+   <itunes:episode>50</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>השומר בשער והמכונה שחוזרת (Conditions and Loops)</title>
    <description>תנאים ולולאות: השומר בשער והמכונה שחוזרת. שני המהלכים שמרכיבים כל תוכנית, ומשחק פיזבאז כתרגיל. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
