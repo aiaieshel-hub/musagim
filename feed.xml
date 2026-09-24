@@ -16,6 +16,64 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>למה אנשים עדיין מקלידים במקום ללחוץ (Terminal)</title>
+   <description>למה הטרמינל שורד חמישים שנה: דיוק, חזרתיות, שרשור. ולמה הסוכן שלך חי בו. משימה מעשית: פתח את הטרמינל, הרץ שלוש פקודות בסיסיות, וכתוב מה למדת. מקורות: Wikipedia - Command-line interface; Wikipedia - Unix shell. פרומפט להטמעה: תפקיד והקשר: אתה מורה לטרמינל למתחילים מוחלטים.
+קלטים: המערכת שלי וטרמינל פתוח.
+מטרה: תן לי חמש פקודות ראשונות בטוחות להרצה, עם הסבר לכל אחת.
+גבולות: רק פקודות קריאה, בלי מחיקה או שינוי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: חמש פקודות, כל אחת עם מה היא עושה ומה לצפות לראות.
+Definition of done: כל הפקודות בטוחות וקריאות בלבד.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>למה אנשים עדיין מקלידים במקום ללחוץ (Terminal)</itunes:title>
+   <itunes:summary>למה הטרמינל שורד חמישים שנה: דיוק, חזרתיות, שרשור. ולמה הסוכן שלך חי בו. משימה מעשית: פתח את הטרמינל, הרץ שלוש פקודות בסיסיות, וכתוב מה למדת. מקורות: Wikipedia - Command-line interface; Wikipedia - Unix shell. פרומפט להטמעה: תפקיד והקשר: אתה מורה לטרמינל למתחילים מוחלטים.
+קלטים: המערכת שלי וטרמינל פתוח.
+מטרה: תן לי חמש פקודות ראשונות בטוחות להרצה, עם הסבר לכל אחת.
+גבולות: רק פקודות קריאה, בלי מחיקה או שינוי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: חמש פקודות, כל אחת עם מה היא עושה ומה לצפות לראות.
+Definition of done: כל הפקודות בטוחות וקריאות בלבד.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep030-terminal.mp3" length="2097468" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep030</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep030</link>
+   <pubDate>Thu, 24 Sep 2026 13:34:29 +0300</pubDate>
+   <itunes:duration>00:02:54</itunes:duration>
+   <itunes:episode>30</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+   <title>מה שכתבת זה לא מה שרץ (Compilation)</title>
+   <description>קוד מקור מול קוד רץ: קומפילציה מול פירוש, למה &#x27;אצלי זה עובד&#x27; קשור למתרגם מותקן, ולמה הקוד שהסוכן כותב נועד לקריאת בני אדם. משימה מעשית: גלה באיזו שפה כתוב הפרויקט שלך והיכן המתרגם שלה. מקורות: Wikipedia - Compiler; Wikipedia - Interpreter (computing). פרומפט להטמעה: תפקיד והקשר: אתה מנתח סביבות הרצה.
+קלטים: רשימת שפות התכנות בפרויקט שלי וגרסאות המתרגמים המותקנות.
+מטרה: הסבר איך הקוד בפרויקט שלי הופך לתהליך רץ, צעד אחר צעד.
+גבולות: בלי התקנות או שינויים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תרשים זרימה טקסטואלי + הסבר לכל שלב.
+Definition of done: כל שלב מתועד עם פקודה או קובץ אמיתי מהפרויקט.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>מה שכתבת זה לא מה שרץ (Compilation)</itunes:title>
+   <itunes:summary>קוד מקור מול קוד רץ: קומפילציה מול פירוש, למה &#x27;אצלי זה עובד&#x27; קשור למתרגם מותקן, ולמה הקוד שהסוכן כותב נועד לקריאת בני אדם. משימה מעשית: גלה באיזו שפה כתוב הפרויקט שלך והיכן המתרגם שלה. מקורות: Wikipedia - Compiler; Wikipedia - Interpreter (computing). פרומפט להטמעה: תפקיד והקשר: אתה מנתח סביבות הרצה.
+קלטים: רשימת שפות התכנות בפרויקט שלי וגרסאות המתרגמים המותקנות.
+מטרה: הסבר איך הקוד בפרויקט שלי הופך לתהליך רץ, צעד אחר צעד.
+גבולות: בלי התקנות או שינויים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תרשים זרימה טקסטואלי + הסבר לכל שלב.
+Definition of done: כל שלב מתועד עם פקודה או קובץ אמיתי מהפרויקט.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep029-compilation.mp3" length="2443538" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep029</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep029</link>
+   <pubDate>Thu, 24 Sep 2026 13:33:59 +0300</pubDate>
+   <itunes:duration>00:03:23</itunes:duration>
+   <itunes:episode>29</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>המנהלת השקטה (Operating System)</title>
    <description>מערכת ההפעלה כמנהלת שקטה: מתווכת בין תוכנה לחומרה, מחלקת זמן וזיכרון, שומרת הרשאות. ולמה השרת שלך כמעט תמיד לינוקס גם אם המחשב שלך לא. משימה מעשית: גלה באילו מערכות הפעלה אתה עובד במקומות השונים. מקורות: Wikipedia - Operating system; Wikipedia - Linux. פרומפט להטמעה: תפקיד והקשר: אתה מדריך סביבות עבודה.
 קלטים: פרטי מערכת ההפעלה במחשב שלי ובשרת שלי אם יש.
