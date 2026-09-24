@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>פס הייצור של הפקודות (Pipes)</title>
+   <description>צינורות: פס הייצור של הפקודות. קו אנכי בין תחנות, והפניה לקובץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי שרשרת על קובץ לוג: הדפס, סנן שגיאות, ספור, שמור לקובץ.
+גבולות: על לוג ניסוי, ארבע תחנות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: השרשרת + פלט כל תחנה בנפרד + הקובץ שנשמר.
+Definition of done: כל תחנה מוסברת, התוצאה נשמרה בקובץ.
+גבולות סמכות: מותר לכתוב את קובץ התוצאה בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>פס הייצור של הפקודות (Pipes)</itunes:title>
+   <itunes:summary>צינורות: פס הייצור של הפקודות. קו אנכי בין תחנות, והפניה לקובץ. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי שרשרת על קובץ לוג: הדפס, סנן שגיאות, ספור, שמור לקובץ.
+גבולות: על לוג ניסוי, ארבע תחנות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: השרשרת + פלט כל תחנה בנפרד + הקובץ שנשמר.
+Definition of done: כל תחנה מוסברת, התוצאה נשמרה בקובץ.
+גבולות סמכות: מותר לכתוב את קובץ התוצאה בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep062-pipes.mp3" length="1863307" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep062</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep062</link>
+   <pubDate>Thu, 24 Sep 2026 15:04:35 +0300</pubDate>
+   <itunes:duration>00:02:35</itunes:duration>
+   <itunes:episode>62</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>מי רשאי לגעת במה (Permissions)</title>
    <description>הרשאות: קריאה, כתיבה, הרצה, כפול בעלים, קבוצה, כולם. ולמה sudo מדליק נורה צהובה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
