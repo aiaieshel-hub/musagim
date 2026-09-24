@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <title>בלשון סוכנים</title>
-  <link>https://avigdor-instinct.github.io/musagim/</link>
-  <atom:link href="https://avigdor-instinct.github.io/musagim/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://aiaieshel-hub.github.io/musagim/</link>
+  <atom:link href="https://aiaieshel-hub.github.io/musagim/feed.xml" rel="self" type="application/rss+xml"/>
   <language>he</language>
   <copyright>© 2026 אשל קרפ</copyright>
   <description>בלשון סוכנים - מסע הלמידה שלי, אשל קרפ, בילדר ישראלי שבונה עם סוכני AI. כל יום פרק קצר: מושג אחד מעולם הסוכנים, מוסבר בגובה העיניים, ובסוף פרומפט מוכן להטמעה אצלך. בהמשך גם פרקי &quot;מה חזק היום&quot; - מה קורה עכשיו בחזית ה-AI. התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</description>
   <itunes:author>אשל קרפ</itunes:author>
   <itunes:summary>בלשון סוכנים - מסע הלמידה שלי, אשל קרפ, בילדר ישראלי שבונה עם סוכני AI. כל יום פרק קצר: מושג אחד מעולם הסוכנים, מוסבר בגובה העיניים, ובסוף פרומפט מוכן להטמעה אצלך. בהמשך גם פרקי &quot;מה חזק היום&quot; - מה קורה עכשיו בחזית ה-AI. התוכנית מופקת ומוגשת באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
   <itunes:owner><itunes:name>אשל קרפ</itunes:name><itunes:email>aiaieshel@gmail.com</itunes:email></itunes:owner>
-  <itunes:image href="https://avigdor-instinct.github.io/musagim/cover-og.jpg"/>
+  <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover-og.jpg"/>
   <itunes:category text="Technology"/>
   <itunes:explicit>no</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
+  <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
    <title>למצוא את כולם ולטפל בכולם (find and xargs)</title>
    <description>פיינד ואקס-ארגס: למצוא את כולם ולטפל בכולם. ונהלי הבטיחות: רשימה לפני ביצוע, תמיד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
@@ -34,14 +34,14 @@ Definition of done: הרשימה נכתבה ונבדקה לפני כל פעול�
 פורמט החזר: הרשימה + הפעולה הבטוחה + פקודת המחיקה הכתובה בלבד.
 Definition of done: הרשימה נכתבה ונבדקה לפני כל פעולה.
 גבולות סמכות: אסור למחוק דבר; רשימה לפני ביצוע. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep065-find-xargs.mp3" length="2101857" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep065-find-xargs.mp3" length="2101857" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep065</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep065</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep065</link>
    <pubDate>Thu, 24 Sep 2026 15:15:44 +0300</pubDate>
    <itunes:duration>00:02:55</itunes:duration>
    <itunes:episode>65</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -63,14 +63,14 @@ Definition of done: שלוש התשובות נכונות ומשוחזרות מה
 פורמט החזר: שלוש שרשראות + התשובות + הסבר כל תחנה.
 Definition of done: שלוש התשובות נכונות ומשוחזרות מהלוג.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep064-grep-sed-awk.mp3" length="1926627" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep064-grep-sed-awk.mp3" length="1926627" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep064</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep064</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep064</link>
    <pubDate>Thu, 24 Sep 2026 15:09:49 +0300</pubDate>
    <itunes:duration>00:02:40</itunes:duration>
    <itunes:episode>64</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -92,14 +92,14 @@ Definition of done: הביטוי תופס את שלוש הדוגמאות וכל 
 פורמט החזר: הביטוי + תוצאות הבדיקה + הסבר תו-תו.
 Definition of done: הביטוי תופס את שלוש הדוגמאות וכל תו מוסבר.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep063-regex.mp3" length="2200600" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep063-regex.mp3" length="2200600" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep063</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep063</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep063</link>
    <pubDate>Thu, 24 Sep 2026 15:07:26 +0300</pubDate>
    <itunes:duration>00:03:03</itunes:duration>
    <itunes:episode>63</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -121,14 +121,14 @@ Definition of done: כל תחנה מוסברת, התוצאה נשמרה בקוב
 פורמט החזר: השרשרת + פלט כל תחנה בנפרד + הקובץ שנשמר.
 Definition of done: כל תחנה מוסברת, התוצאה נשמרה בקובץ.
 גבולות סמכות: מותר לכתוב את קובץ התוצאה בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep062-pipes.mp3" length="1863307" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep062-pipes.mp3" length="1863307" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep062</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep062</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep062</link>
    <pubDate>Thu, 24 Sep 2026 15:04:35 +0300</pubDate>
    <itunes:duration>00:02:35</itunes:duration>
    <itunes:episode>62</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -150,14 +150,14 @@ Definition of done: שתי הדחיות נצפו והובנו, התיקון עב
 פורמט החזר: תיעוד הניסויים + הסבר rwx + כלל ה-sudo.
 Definition of done: שתי הדחיות נצפו והובנו, התיקון עבד.
 גבולות סמכות: תיקיית הניסוי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep061-permissions.mp3" length="2120978" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep061-permissions.mp3" length="2120978" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep061</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep061</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep061</link>
    <pubDate>Thu, 24 Sep 2026 15:03:32 +0300</pubDate>
    <itunes:duration>00:02:56</itunes:duration>
    <itunes:episode>61</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -179,14 +179,14 @@ Definition of done: מצאתי קובץ לפי שם בלי עזרה.
 פורמט החזר: תיעוד ההרצות שלי + הסבר כל פלט.
 Definition of done: מצאתי קובץ לפי שם בלי עזרה.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep060-linux-nav.mp3" length="1967378" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep060-linux-nav.mp3" length="1967378" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep060</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep060</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep060</link>
    <pubDate>Thu, 24 Sep 2026 14:59:37 +0300</pubDate>
    <itunes:duration>00:02:43</itunes:duration>
    <itunes:episode>60</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -208,14 +208,14 @@ Definition of done: git status מוכיח שהקבצים המיועדים מוש
 פורמט החזר: הקובץ + רשימת המלצות + הדגמה שגיט לא רואה את הקבצים.
 Definition of done: git status מוכיח שהקבצים המיועדים מושמטים.
 גבולות סמכות: מותר לכתוב את gitignore בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep059-gitignore.mp3" length="1982111" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep059-gitignore.mp3" length="1982111" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep059</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep059</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep059</link>
    <pubDate>Thu, 24 Sep 2026 14:58:34 +0300</pubDate>
    <itunes:duration>00:02:45</itunes:duration>
    <itunes:episode>59</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -237,14 +237,14 @@ Definition of done: הקבצים שוחזרו דרך reflog בהצלחה.
 פורמט החזר: תיעוד: מה נעלם, איך reflog החזיר, מה למדתי.
 Definition of done: הקבצים שוחזרו דרך reflog בהצלחה.
 גבולות סמכות: רק בפרויקט הניסוי; אסור reset בפרויקט אמיתי. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep058-stash-reset.mp3" length="2091826" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep058-stash-reset.mp3" length="2091826" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep058</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep058</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep058</link>
    <pubDate>Thu, 24 Sep 2026 14:56:29 +0300</pubDate>
    <itunes:duration>00:02:54</itunes:duration>
    <itunes:episode>58</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -266,14 +266,14 @@ Definition of done: שינוי מעותק אחד מופיע בשני אחרי pu
 פורמט החזר: שני עותקים מסונכרנים + הסבר כל פעולה שבוצעה.
 Definition of done: שינוי מעותק אחד מופיע בשני אחרי push ו-pull.
 גבולות סמכות: מותר push לריפו ניסוי חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep057-git-remote.mp3" length="2142608" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep057-git-remote.mp3" length="2142608" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep057</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep057</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep057</link>
    <pubDate>Thu, 24 Sep 2026 14:53:43 +0300</pubDate>
    <itunes:duration>00:02:58</itunes:duration>
    <itunes:episode>57</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -295,14 +295,14 @@ Definition of done: הציטוט תואם את התיעוד הרשמי בגרס�
 פורמט החזר: הציטוט + הקישור + הסבר ההבדל בין הדוגמה לעיון.
 Definition of done: הציטוט תואם את התיעוד הרשמי בגרסה הנוכחית.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep056-reading-docs.mp3" length="1878667" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep056-reading-docs.mp3" length="1878667" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep056</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep056</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep056</link>
    <pubDate>Thu, 24 Sep 2026 14:51:41 +0300</pubDate>
    <itunes:duration>00:02:36</itunes:duration>
    <itunes:episode>56</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -324,14 +324,14 @@ Definition of done: הבאג נמצא דרך הפנסים, לא דרך ניחו�
 פורמט החזר: תיעוד: איפה כל פנס הראה מה, איפה נמצא הבאג, ה-assert.
 Definition of done: הבאג נמצא דרך הפנסים, לא דרך ניחוש.
 גבולות סמכות: מותר לשנות את קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep055-debug-print.mp3" length="2131636" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep055-debug-print.mp3" length="2131636" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep055</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep055</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep055</link>
    <pubDate>Thu, 24 Sep 2026 14:49:36 +0300</pubDate>
    <itunes:duration>00:02:57</itunes:duration>
    <itunes:episode>55</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -353,14 +353,14 @@ Definition of done: הסכום נכון, השגיאה זוהתה והוסברה.
 פורמט החזר: הקובץ + החישוב + הדגמת שגיאת ג&#x27;ייסון + הסברה.
 Definition of done: הסכום נכון, השגיאה זוהתה והוסברה.
 גבולות סמכות: מותר לכתוב קבצי התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep053-json.mp3" length="2259218" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep053-json.mp3" length="2259218" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep053</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep053</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep053</link>
    <pubDate>Thu, 24 Sep 2026 14:43:56 +0300</pubDate>
    <itunes:duration>00:03:08</itunes:duration>
    <itunes:episode>53</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -382,14 +382,14 @@ Definition of done: ה-help מסביר את כל הדגלים, הכלי עובד
 פורמט החזר: הכלי המעודכן + הדגמת help + שלוש הרצות שונות.
 Definition of done: ה-help מסביר את כל הדגלים, הכלי עובד גם בלעדיהם.
 גבולות סמכות: מותר לשנות את קובץ הכלי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep054-cli-flags.mp3" length="1845125" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep054-cli-flags.mp3" length="1845125" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep054</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep054</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep054</link>
    <pubDate>Thu, 24 Sep 2026 14:42:34 +0300</pubDate>
    <itunes:duration>00:02:33</itunes:duration>
    <itunes:episode>54</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -411,14 +411,14 @@ Definition of done: שלוש הדוגמאות מוצגות, ההתנהגות ב�
 פורמט החזר: הפונקציה + שלוש דוגמאות מורצות + ניתוח התוצאה העברית.
 Definition of done: שלוש הדוגמאות מוצגות, ההתנהגות בעברית מוסברת.
 גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep052-strings.mp3" length="1943241" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep052-strings.mp3" length="1943241" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep052</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep052</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep052</link>
    <pubDate>Thu, 24 Sep 2026 14:37:00 +0300</pubDate>
    <itunes:duration>00:02:41</itunes:duration>
    <itunes:episode>52</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -440,14 +440,14 @@ Definition of done: המקור זהה ב-hash, הקובץ החדש נקי משו
 פורמט החזר: קובץ מנוקה + אימות שהמקור זהה + הסבר כלל הזהב.
 Definition of done: המקור זהה ב-hash, הקובץ החדש נקי משורות ריקות.
 גבולות סמכות: מותר לקרוא את המקור ולכתוב קובץ חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep051-files.mp3" length="1856097" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep051-files.mp3" length="1856097" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep051</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep051</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep051</link>
    <pubDate>Thu, 24 Sep 2026 14:35:48 +0300</pubDate>
    <itunes:duration>00:02:34</itunes:duration>
    <itunes:episode>51</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -469,14 +469,14 @@ Definition of done: שתי הגישות מודגמות ומוסברות.
 פורמט החזר: הקוד + פלט ההדפסות + הסבר ההבדל.
 Definition of done: שתי הגישות מודגמות ומוסברות.
 גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep050-lists-dicts.mp3" length="2180538" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep050-lists-dicts.mp3" length="2180538" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep050</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep050</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep050</link>
    <pubDate>Thu, 24 Sep 2026 14:32:38 +0300</pubDate>
    <itunes:duration>00:03:01</itunes:duration>
    <itunes:episode>50</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -498,14 +498,14 @@ Definition of done: התוכנית מדפיסה פיז על כפולות שלו�
 פורמט החזר: הקוד + הסבר לכל שורה + הרצה מוצלחת.
 Definition of done: התוכנית מדפיסה פיז על כפולות שלוש ובאז על כפולות חמש.
 גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep048-conditions-loops.mp3" length="2001547" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep048-conditions-loops.mp3" length="2001547" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep048</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep048</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep048</link>
    <pubDate>Thu, 24 Sep 2026 14:30:41 +0300</pubDate>
    <itunes:duration>00:02:46</itunes:duration>
    <itunes:episode>48</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -527,14 +527,14 @@ Definition of done: הפונקציה עובדת על הרשימה שלי ועו�
 פורמט החזר: הפונקציה + הרצה על הרשימה שלי + תשובה לשלוש שאלות: קלט, פלט, מה מוסתר.
 Definition of done: הפונקציה עובדת על הרשימה שלי ועונה על שלוש השאלות.
 גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep049-functions.mp3" length="1919731" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep049-functions.mp3" length="1919731" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep049</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep049</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep049</link>
    <pubDate>Thu, 24 Sep 2026 14:29:49 +0300</pubDate>
    <itunes:duration>00:02:39</itunes:duration>
    <itunes:episode>49</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -556,14 +556,14 @@ Definition of done: ההבדל בין חיבור מספרים להדבקת טק�
 פורמט החזר: שלוש התוצאות + הסבר לכל אחת בשפה פשוטה.
 Definition of done: ההבדל בין חיבור מספרים להדבקת טקסטים מוסבר נכון.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep047-variables.mp3" length="2146369" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep047-variables.mp3" length="2146369" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep047</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep047</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep047</link>
    <pubDate>Thu, 24 Sep 2026 14:29:19 +0300</pubDate>
    <itunes:duration>00:02:58</itunes:duration>
    <itunes:episode>47</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -585,14 +585,14 @@ Definition of done: כל ארבעת החלקים קיימים והתיקון מ�
 פורמט החזר: מיקוד, תרגום, סיבה משוערת, תיקון מוצע.
 Definition of done: כל ארבעת החלקים קיימים והתיקון מבוסס על ההודעה.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep046-reading-errors.mp3" length="2066748" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep046-reading-errors.mp3" length="2066748" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep046</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep046</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep046</link>
    <pubDate>Thu, 24 Sep 2026 14:23:52 +0300</pubDate>
    <itunes:duration>00:02:52</itunes:duration>
    <itunes:episode>46</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -614,14 +614,14 @@ Definition of done: כל נקודת כשל מקושרת למושג מהפרק.
 פורמט החזר: שלוש תשובות: חלון, כלים, הנחיות + שלוש נקודות כשל אפשריות.
 Definition of done: כל נקודת כשל מקושרת למושג מהפרק.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep045-how-llm-works.mp3" length="2401220" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep045-how-llm-works.mp3" length="2401220" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep045</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep045</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep045</link>
    <pubDate>Thu, 24 Sep 2026 14:19:12 +0300</pubDate>
    <itunes:duration>00:03:20</itunes:duration>
    <itunes:episode>45</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -643,14 +643,14 @@ Definition of done: כל מספר ניתן לשחזור מהקובץ.
 פורמט החזר: ארבע תשובות ממוספרות + פקודות החישוב.
 Definition of done: כל מספר ניתן לשחזור מהקובץ.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep044-data-literacy.mp3" length="2242918" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep044-data-literacy.mp3" length="2242918" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep044</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep044</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep044</link>
    <pubDate>Thu, 24 Sep 2026 14:14:35 +0300</pubDate>
    <itunes:duration>00:03:06</itunes:duration>
    <itunes:episode>44</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -672,14 +672,14 @@ Definition of done: כל כלל מוסבר, כל חריג מסומן.
 פורמט החזר: טבלה: כלל, מה הוא עושה, נחוץ?, המלצה.
 Definition of done: כל כלל מוסבר, כל חריג מסומן.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep043-firewall.mp3" length="2021295" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep043-firewall.mp3" length="2021295" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep043</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep043</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep043</link>
    <pubDate>Thu, 24 Sep 2026 14:13:25 +0300</pubDate>
    <itunes:duration>00:02:48</itunes:duration>
    <itunes:episode>43</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -701,14 +701,14 @@ Definition of done: כל פורט ברשימה מוסבר.
 פורמט החזר: טבלה: פורט, שירות, נחוץ?, חשוף?.
 Definition of done: כל פורט ברשימה מוסבר.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep042-ports.mp3" length="2052015" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep042-ports.mp3" length="2052015" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep042</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep042</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep042</link>
    <pubDate>Thu, 24 Sep 2026 14:12:12 +0300</pubDate>
    <itunes:duration>00:02:50</itunes:duration>
    <itunes:episode>42</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -730,14 +730,14 @@ Definition of done: כל נתון מבוסס על מקור ציבורי אמית
 פורמט החזר: טבלת דירוג + המלצה אחת לכל חבילה.
 Definition of done: כל נתון מבוסס על מקור ציבורי אמיתי.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep040-package-managers.mp3" length="1996218" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep040-package-managers.mp3" length="1996218" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep040</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep040</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep040</link>
    <pubDate>Thu, 24 Sep 2026 14:11:52 +0300</pubDate>
    <itunes:duration>00:02:46</itunes:duration>
    <itunes:episode>40</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -759,14 +759,14 @@ Definition of done: כל תהליך ברשימה מזוהה ומוסבר.
 פורמט החזר: טבלה: PID, תפקיד, זיכרון, סיכון אם מת.
 Definition of done: כל תהליך ברשימה מזוהה ומוסבר.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep041-process.mp3" length="2103111" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep041-process.mp3" length="2103111" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep041</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep041</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep041</link>
    <pubDate>Thu, 24 Sep 2026 14:08:33 +0300</pubDate>
    <itunes:duration>00:02:55</itunes:duration>
    <itunes:episode>41</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -788,14 +788,14 @@ Definition of done: המסמך מכיל את כל ארבע הקטגוריות ע
 פורמט החזר: קובץ ENVIRONMENT.md מסודר.
 Definition of done: המסמך מכיל את כל ארבע הקטגוריות עם נתונים אמיתיים.
 גבולות סמכות: מותר ליצור את קובץ המסמך בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep039-environment.mp3" length="2092766" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep039-environment.mp3" length="2092766" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep039</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep039</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep039</link>
    <pubDate>Thu, 24 Sep 2026 14:01:18 +0300</pubDate>
    <itunes:duration>00:02:54</itunes:duration>
    <itunes:episode>39</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -817,14 +817,14 @@ Definition of done: כל שינוי ב-diff מוסבר, בלי להמציא שי
 פורמט החזר: ה-diff עצמו + הסבר ממוספר לכל שינוי.
 Definition of done: כל שינוי ב-diff מוסבר, בלי להמציא שינויים.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep038-text-binary.mp3" length="2318151" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep038-text-binary.mp3" length="2318151" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep038</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep038</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep038</link>
    <pubDate>Thu, 24 Sep 2026 13:58:21 +0300</pubDate>
    <itunes:duration>00:03:13</itunes:duration>
    <itunes:episode>38</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -846,14 +846,14 @@ Definition of done: אימות hash מראה זהות מלאה.
 פורמט החזר: קובץ מכווץ + אימות זהות + הסבר.
 Definition of done: אימות hash מראה זהות מלאה.
 גבולות סמכות: עותקים בלבד, מקורות לא נוגעים. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep037-compression.mp3" length="2129756" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep037-compression.mp3" length="2129756" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep037</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep037</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep037</link>
    <pubDate>Thu, 24 Sep 2026 13:55:53 +0300</pubDate>
    <itunes:duration>00:02:57</itunes:duration>
    <itunes:episode>37</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -875,14 +875,14 @@ Definition of done: העברית בקובץ המתוקן קריאה, קיים ג
 פורמט החזר: קובץ מתוקן + הסבר בשלוש שורות + משפט לתדריך עתידי.
 Definition of done: העברית בקובץ המתוקן קריאה, קיים גיבוי.
 גבולות סמכות: מותר לתקן את הקובץ שצוין בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep036-encoding.mp3" length="2314389" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep036-encoding.mp3" length="2314389" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep036</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep036</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep036</link>
    <pubDate>Thu, 24 Sep 2026 13:54:34 +0300</pubDate>
    <itunes:duration>00:03:12</itunes:duration>
    <itunes:episode>36</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -904,14 +904,14 @@ Definition of done: כל קובץ ברשימה מסווג, בלי יוצא מן 
 פורמט החזר: טבלה: קובץ, סיומת, משפחה, שימוש.
 Definition of done: כל קובץ ברשימה מסווג, בלי יוצא מן הכלל.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep035-extensions.mp3" length="2159849" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep035-extensions.mp3" length="2159849" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep035</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep035</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep035</link>
    <pubDate>Thu, 24 Sep 2026 13:52:42 +0300</pubDate>
    <itunes:duration>00:02:59</itunes:duration>
    <itunes:episode>35</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -933,14 +933,14 @@ Definition of done: כל משימה קטנה, ברורה, ובעלת קריטר�
 פורמט החזר: רשימת משימות ממוספרת: כל אחת ניתנת לסיום בישיבה אחת עם קריטריון &#x27;איך יודעים שסיימתי&#x27;.
 Definition of done: כל משימה קטנה, ברורה, ובעלת קריטריון בדיקה.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep034-decomposition.mp3" length="2028818" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep034-decomposition.mp3" length="2028818" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep034</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep034</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep034</link>
    <pubDate>Thu, 24 Sep 2026 13:47:09 +0300</pubDate>
    <itunes:duration>00:02:49</itunes:duration>
    <itunes:episode>34</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -962,14 +962,14 @@ Definition of done: כל סימן מוסבר ותקין במארקדאון תק�
 פורמט החזר: הקובץ המסומן + רשימת הסימנים עם הסבר קצר לכל אחד.
 Definition of done: כל סימן מוסבר ותקין במארקדאון תקני.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep033-markdown.mp3" length="2321599" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep033-markdown.mp3" length="2321599" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep033</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep033</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep033</link>
    <pubDate>Thu, 24 Sep 2026 13:45:47 +0300</pubDate>
    <itunes:duration>00:03:13</itunes:duration>
    <itunes:episode>33</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -991,14 +991,14 @@ Definition of done: הזמנים ממדידה אמיתית, לא הערכה.
 פורמט החזר: טבלת תחנות עם זמנים + הסבר + המלצה אחת.
 Definition of done: הזמנים ממדידה אמיתית, לא הערכה.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep032-web-journey.mp3" length="2270817" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep032-web-journey.mp3" length="2270817" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep032</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep032</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep032</link>
    <pubDate>Thu, 24 Sep 2026 13:42:49 +0300</pubDate>
    <itunes:duration>00:03:09</itunes:duration>
    <itunes:episode>32</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1020,14 +1020,14 @@ Definition of done: כל שורה מבוססת על מקור ציבורי אמי
 פורמט החזר: טבלה: ספרייה, רישיון, עדכון אחרון, משתמשים, סיכון.
 Definition of done: כל שורה מבוססת על מקור ציבורי אמיתי.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep031-open-source.mp3" length="2208436" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep031-open-source.mp3" length="2208436" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep031</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep031</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep031</link>
    <pubDate>Thu, 24 Sep 2026 13:36:42 +0300</pubDate>
    <itunes:duration>00:03:04</itunes:duration>
    <itunes:episode>31</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1049,14 +1049,14 @@ Definition of done: כל הפקודות בטוחות וקריאות בלבד.
 פורמט החזר: חמש פקודות, כל אחת עם מה היא עושה ומה לצפות לראות.
 Definition of done: כל הפקודות בטוחות וקריאות בלבד.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep030-terminal.mp3" length="2097468" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep030-terminal.mp3" length="2097468" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep030</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep030</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep030</link>
    <pubDate>Thu, 24 Sep 2026 13:34:29 +0300</pubDate>
    <itunes:duration>00:02:54</itunes:duration>
    <itunes:episode>30</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1078,14 +1078,14 @@ Definition of done: כל שלב מתועד עם פקודה או קובץ אמי�
 פורמט החזר: תרשים זרימה טקסטואלי + הסבר לכל שלב.
 Definition of done: כל שלב מתועד עם פקודה או קובץ אמיתי מהפרויקט.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep029-compilation.mp3" length="2443538" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep029-compilation.mp3" length="2443538" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep029</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep029</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep029</link>
    <pubDate>Thu, 24 Sep 2026 13:33:59 +0300</pubDate>
    <itunes:duration>00:03:23</itunes:duration>
    <itunes:episode>29</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1107,14 +1107,14 @@ Definition of done: לפחות שלושה הבדלים אמיתיים ורלוו
 פורמט החזר: רשימת הבדלים מעשיים, כל אחד עם דוגמה לתקלה אפשרית.
 Definition of done: לפחות שלושה הבדלים אמיתיים ורלוונטיים.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep028-operating-system.mp3" length="2736319" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep028-operating-system.mp3" length="2736319" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep028</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep028</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep028</link>
    <pubDate>Thu, 24 Sep 2026 13:31:46 +0300</pubDate>
    <itunes:duration>00:03:47</itunes:duration>
    <itunes:episode>28</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1136,14 +1136,14 @@ Definition of done: כל תובנה מתייחסת לתהליך אמיתי מה�
 פורמט החזר: שלוש תובנות ממוספרות בשפה פשוטה.
 Definition of done: כל תובנה מתייחסת לתהליך אמיתי מהרשימה.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep027-cpu.mp3" length="2920639" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep027-cpu.mp3" length="2920639" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep027</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep027</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep027</link>
    <pubDate>Thu, 24 Sep 2026 13:31:45 +0300</pubDate>
    <itunes:duration>00:04:03</itunes:duration>
    <itunes:episode>27</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1165,14 +1165,14 @@ Definition of done: כל הערה מצביעה על קובץ או תיקייה �
 פורמט החזר: ציור עץ נוכחי, שלוש הערות, עץ מוצע.
 Definition of done: כל הערה מצביעה על קובץ או תיקייה אמיתיים בעץ.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep026-filesystem.mp3" length="2823777" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep026-filesystem.mp3" length="2823777" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep026</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep026</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep026</link>
    <pubDate>Thu, 24 Sep 2026 13:31:43 +0300</pubDate>
    <itunes:duration>00:03:55</itunes:duration>
    <itunes:episode>26</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1194,14 +1194,14 @@ Definition of done: הטבלה מבוססת על נתונים אמיתיים, ל
 פורמט החזר: טבלה קצרה + הסבר בשפה פשוטה + המלצה אחת.
 Definition of done: הטבלה מבוססת על נתונים אמיתיים, לא הומצא דבר.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep025-ram-storage.mp3" length="2932551" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep025-ram-storage.mp3" length="2932551" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep025</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep025</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep025</link>
    <pubDate>Thu, 24 Sep 2026 13:31:41 +0300</pubDate>
    <itunes:duration>00:04:04</itunes:duration>
    <itunes:episode>25</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1223,14 +1223,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
 פורמט החזר: סיכום קצר: סוג, גודל, מטא-דאטה רלוונטית, ושני דברים שלמדתי.
 Definition of done: כל ארבעת הסעיפים קיימים, לא שונה אף קובץ.
 גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep024-file.mp3" length="2937880" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep024-file.mp3" length="2937880" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep024</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep024</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep024</link>
    <pubDate>Thu, 24 Sep 2026 13:31:40 +0300</pubDate>
    <itunes:duration>00:04:04</itunes:duration>
    <itunes:episode>24</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1238,14 +1238,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>לשים עבודה בתור במקום להחזיק את המשתמש על הקו (Message Queues)</itunes:title>
    <itunes:summary>Message queue מפרידה בין קבלת משימה לביצועה, סופגת עומס ומאפשרת retries ו-scaling בלי להשאיר את המשתמש מחכה בתוך request ארוך. העלאת סרטון יכולה להפעיל סריקה, המרה, thumbnail, תמלול והודעה למשתמש. אם הכול קורה בתוך request אחד, כל התהליך נהיה איטי ושביר. בפרק הזה נבין producer, queue, consumer ו-acknowledgement, ונראה איך תור נותן buffering, retries ו-scaling. אחר כך נגיע למחיר: duplicates, ordering, poison messages, dead-letter queue ו-backlog שהופך ישירות ל-latency. נסיים בתכנון background job שמעדכן status בלי להשאיר את המשתמש על הקו. משימה מעשית: בחר פעולה איטית. הפרד בין מה שה-request חייב לעשות מיד לבין background job. הגדר message עם job ID ואת ה-statuses queued, processing, succeeded ו-failed, ותכנן איך המשתמש מקבל עדכון. מקורות: RabbitMQ Docs - Queues; RabbitMQ Tutorial - Work Queues. פרומפט להטמעה: נתח את הפעולה האיטית הבאה והפרד בין request מיידי ל-background job דרך message queue. הגדר producer, message schema, consumer, acknowledgement, idempotency, retry policy, dead-letter queue, ordering, statuses ו-observability. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep023-message-queues.mp3" length="4312756" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep023-message-queues.mp3" length="4312756" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep023</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep023</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep023</link>
    <pubDate>Sat, 19 Sep 2026 21:14:00 +0300</pubDate>
    <itunes:duration>00:05:59</itunes:duration>
    <itunes:episode>23</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep023-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep023-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1253,14 +1253,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>כשעוד ניסיון עוזר, וכשאלף ניסיונות מפילים את המערכת (Retries)</itunes:title>
    <itunes:summary>Retry יכול לרפא תקלה רגעית או להכפיל עומס; timeout, backoff, jitter ו-idempotency קובעים לאיזה צד הוא ייפול. בקשה נכשלה, אז מנסים שוב. זה נשמע הגיוני, עד שאלפי clients עושים אותו דבר ומעמיסים דווקא על השירות שכבר מתקשה. בפרק הזה נבנה retry policy עם deadline, מספר ניסיונות מוגבל, exponential backoff ו-jitter, ונבדיל בין error זמני לבקשה שלא תשתפר לעולם. נחבר retries ל-idempotency, circuit breaker ו-load shedding, ונראה למה Agent חייב לבדוק state לפני שהוא מנסה שוב send, purchase או delete. משימה מעשית: בחר call חיצוני אחד. סווג failures לזמניים וקבועים, הגדר deadline, max attempts ו-backoff עם jitter, ואז בדוק מה יקרה אם עשרת אלפים clients יפעילו את אותה מדיניות יחד. מקורות: Google SRE Book - Addressing Cascading Failures; Amazon Builders&#x27; Library - Timeouts, retries, and backoff with jitter. פרומפט להטמעה: נתח את ה-call החיצוני הבא ובנה retry policy לפי error classes: timeout, max attempts, backoff, jitter ו-Retry-After. בדוק idempotency ו-state לפני פעולה חוזרת, והצע circuit breaker, load shedding ו-observability כדי למנוע cascading failure. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep022-retries.mp3" length="4119346" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep022-retries.mp3" length="4119346" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep022</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep022</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep022</link>
    <pubDate>Sat, 19 Sep 2026 20:42:00 +0300</pubDate>
    <itunes:duration>00:05:43</itunes:duration>
    <itunes:episode>22</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep022-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep022-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1268,14 +1268,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>פרק הבכורה של &quot;מה חזק היום&quot; הוא ראיון עם אינסטינקט - הסוכן האישי שכבר עובד אצל אנשים אמיתיים כל יום. מארח שואל, אביגדור עונה: מה הוא באמת עושה, איפה הגבולות, ומה משתנה כשיש סוכן שזוכר, פועל ומדווח. ראיון עם אינסטינקט, הסוכן האישי. מה ההבדל בין צ&#x27;אטבוט לסוכן שפועל; דוגמאות יומיומיות אמיתיות; גבולות (לא מייצג בלי רשות, לא נוגע בכסף בלי אישור); איך נראית שבוע עבודה משותף; ומה הדבר הראשון שכדאי לתת לו. משימה מעשית: תנו לסוכן משימה אחת קטנה עם תוצאה מדידה - למשל &quot;כל בוקר בשמונה, תגיד לי מה מזג האוויר ומה הפגישה הראשונה שלי&quot; - ותבדקו אחרי שבוע אם חסך לכם חיפוש. מקורות: instinct.com (אתר החברה); ניסיון שימוש יומיומי של המשתמש. פרומפט להטמעה: בחר משימה חוזרת אחת שאתה עושה כל בוקר. כתוב לסוכן האישי שלך (או לאינסטינקט): &#x27;כל בוקר ב-08:00 תשלח לי X&#x27;. אם אין לך סוכן - כתוב לעצמך איך היית מנסח את הבקשה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>מה חזק היום #1: אביגדור עולה לשידור - מה סוכן אישי באמת יכול לעשות היום</itunes:title>
    <itunes:summary>פרק הבכורה של &quot;מה חזק היום&quot; הוא ראיון עם אינסטינקט - הסוכן האישי שכבר עובד אצל אנשים אמיתיים כל יום. מארח שואל, אביגדור עונה: מה הוא באמת עושה, איפה הגבולות, ומה משתנה כשיש סוכן שזוכר, פועל ומדווח. ראיון עם אינסטינקט, הסוכן האישי. מה ההבדל בין צ&#x27;אטבוט לסוכן שפועל; דוגמאות יומיומיות אמיתיות; גבולות (לא מייצג בלי רשות, לא נוגע בכסף בלי אישור); איך נראית שבוע עבודה משותף; ומה הדבר הראשון שכדאי לתת לו. משימה מעשית: תנו לסוכן משימה אחת קטנה עם תוצאה מדידה - למשל &quot;כל בוקר בשמונה, תגיד לי מה מזג האוויר ומה הפגישה הראשונה שלי&quot; - ותבדקו אחרי שבוע אם חסך לכם חיפוש. מקורות: instinct.com (אתר החברה); ניסיון שימוש יומיומי של המשתמש. פרומפט להטמעה: בחר משימה חוזרת אחת שאתה עושה כל בוקר. כתוב לסוכן האישי שלך (או לאינסטינקט): &#x27;כל בוקר ב-08:00 תשלח לי X&#x27;. אם אין לך סוכן - כתוב לעצמך איך היית מנסח את הבקשה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep021-mah-hazak-01.mp3" length="4362598" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep021-mah-hazak-01.mp3" length="4362598" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep021</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep021</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep021</link>
    <pubDate>Sat, 19 Sep 2026 20:18:00 +0300</pubDate>
    <itunes:duration>00:06:04</itunes:duration>
    <itunes:episode>21</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep021-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep021-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1283,14 +1283,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Container מצמצם את פער ה&quot;עובד אצלי&quot; באמצעות סביבת ריצה ארוזה ועקבית, אבל עדיין דורש תכנון נפרד ל-secrets, security ו-data מתמשך. הבדלים בגרסת Node, ב-dependencies או ב-configuration יכולים להפוך קוד שעבד על laptop לתקלה ב-production. בפרק הזה נבדיל בין image ל-container, נבין Dockerfile ו-layers, ונראה למה container הוא process מבודד ולא virtual machine קטנה. נגיע גם לחלקים שקל לפספס: tags שאינם זהות קבועה, data שנעלם בלי volume, secrets שאסור לאפות ב-image, והסיבה ש-rollback של container לא מבטל database migration. משימה מעשית: בחר אפליקציה וחלק את סביבת הריצה לארבע רשימות: מה נכנס ל-image, מה מגיע כ-configuration, מה הוא secret, ומה חייב להישמר גם אם ה-container נמחק. מקורות: Docker documentation - Docker overview, What is a container, What is an image. פרומפט להטמעה: נתח את האפליקציה שלי וחלק את רכיביה ל-image, configuration, secrets ו-persistent data. הצע Dockerfile מינימלי ובטוח, כולל base image, non-root user, ports, health check, volume strategy וגרסת image שמאפשרת rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>לארוז את האפליקציה יחד עם הסביבה שהיא צריכה (Containers)</itunes:title>
    <itunes:summary>Container מצמצם את פער ה&quot;עובד אצלי&quot; באמצעות סביבת ריצה ארוזה ועקבית, אבל עדיין דורש תכנון נפרד ל-secrets, security ו-data מתמשך. הבדלים בגרסת Node, ב-dependencies או ב-configuration יכולים להפוך קוד שעבד על laptop לתקלה ב-production. בפרק הזה נבדיל בין image ל-container, נבין Dockerfile ו-layers, ונראה למה container הוא process מבודד ולא virtual machine קטנה. נגיע גם לחלקים שקל לפספס: tags שאינם זהות קבועה, data שנעלם בלי volume, secrets שאסור לאפות ב-image, והסיבה ש-rollback של container לא מבטל database migration. משימה מעשית: בחר אפליקציה וחלק את סביבת הריצה לארבע רשימות: מה נכנס ל-image, מה מגיע כ-configuration, מה הוא secret, ומה חייב להישמר גם אם ה-container נמחק. מקורות: Docker documentation - Docker overview, What is a container, What is an image. פרומפט להטמעה: נתח את האפליקציה שלי וחלק את רכיביה ל-image, configuration, secrets ו-persistent data. הצע Dockerfile מינימלי ובטוח, כולל base image, non-root user, ports, health check, volume strategy וגרסת image שמאפשרת rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep020-containers.mp3" length="3960730" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep020-containers.mp3" length="3960730" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep020</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep020</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep020</link>
    <pubDate>Sat, 19 Sep 2026 20:11:00 +0300</pubDate>
    <itunes:duration>00:05:30</itunes:duration>
    <itunes:episode>20</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep020-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep020-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1298,14 +1298,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>להפוך &#x27;עובד אצלי&#x27; לבדיקה שחוזרת על עצמה (Continuous Integration)</itunes:title>
    <itunes:summary>CI הופך build, tests ו-lint מ-checklist שתלוי בזיכרון ל-gate אוטומטי ועקבי לפני merge. קוד שעבד על מחשב אחד עדיין יכול להישבר בסביבה נקייה או להיכנס ל-main בלי שמישהו הריץ את הבדיקה הנכונה. בפרק הזה נפרק workflow של GitHub Actions ל-trigger, jobs, runner ו-steps, ונבנה מסלול CI קטן שנותן feedback לפני merge. נדבר גם על flaky tests, על הסכנה ב-workflow עם secrets, ועל ההבדל בין rule שמבקש מה-Agent להריץ tests לבין branch protection שאוכף אותם בפועל. משימה מעשית: כתוב ארבע בדיקות שהיית רוצה לפני כל merge ב-repository אחד. בחר את הקצרה והחשובה ביותר, הוסף workflow שרץ ב-pull request, ותן לו להיכשל פעם אחת בכוונה כדי לוודא שה-gate עובד. מקורות: GitHub Actions - Continuous Integration, Understand GitHub Actions. פרומפט להטמעה: מפה את תהליך ה-merge שלי והצע workflow CI מינימלי עם trigger, jobs ו-steps לבדיקות החשובות ביותר. הפרד checks מהירים מכבדים, צמצם permissions ו-secrets, והגדר gate ברור עם הודעת כשל actionable ודרך rollback ל-deploy. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep019-ci.mp3" length="3847568" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep019-ci.mp3" length="3847568" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep019</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep019</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep019</link>
    <pubDate>Sat, 19 Sep 2026 19:44:00 +0300</pubDate>
    <itunes:duration>00:05:21</itunes:duration>
    <itunes:episode>19</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep019-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep019-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1313,14 +1313,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>כשהשרת לא מחכה שתשאל אותו מה חדש (WebSocket)</itunes:title>
    <itunes:summary>WebSocket משאיר connection דו-כיווני פתוח לעדכונים בזמן אמת, אבל דורש תכנון ל-reconnect, ordering, backpressure והרשאות. מקורות: MDN, RFC 6455. פרומפט להטמעה: נתח את ה-feature הבא והגדר דרישות latency, כיוון התקשורת וקצב האירועים. השווה polling, Server-Sent Events ו-WebSocket, ואז תכנן reconnect, duplicate handling, backpressure, authorization ו-fallback לפתרון המומלץ. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep018-websocket.mp3" length="4072325" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep018-websocket.mp3" length="4072325" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep018</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep018</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep018</link>
    <pubDate>Sat, 19 Sep 2026 18:48:19 +0300</pubDate>
    <itunes:duration>00:05:39</itunes:duration>
    <itunes:episode>18</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep018-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep018-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1328,14 +1328,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: עזור לי לתכנן שינוי DNS בטוח: record נוכחי, record יעד, TTL, domain ו-environment מושפעים. בנה checklist שכולל snapshot, הורדת TTL מראש, אימות authoritative, בדיקת caches ותוכנית rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>ספר הטלפונים של האינטרנט, עם זיכרון ועיכובים (DNS)</itunes:title>
    <itunes:summary>DNS מתרגם domain לכתובת IP, אבל caches ו-TTL קובעים כמה זמן העולם ימשיך להאמין גם לתשובה שכבר השתנתה. מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: עזור לי לתכנן שינוי DNS בטוח: record נוכחי, record יעד, TTL, domain ו-environment מושפעים. בנה checklist שכולל snapshot, הורדת TTL מראש, אימות authoritative, בדיקת caches ותוכנית rollback. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep017-dns.mp3" length="4008378" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep017-dns.mp3" length="4008378" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep017</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep017</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep017</link>
    <pubDate>Sat, 19 Sep 2026 18:18:05 +0300</pubDate>
    <itunes:duration>00:05:34</itunes:duration>
    <itunes:episode>17</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep017-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep017-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1343,14 +1343,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org. פרומפט להטמעה: נתח endpoint ב-Node.js וסמן כל פעולה כ-waiting או computing. זהה synchronous calls וחישובי CPU שעלולים לחסום את event loop, והצע non-blocking API, worker או פיצול עבודה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>איך שרת אחד מחכה בלי לעמוד במקום (Node.js Event Loop)</itunes:title>
    <itunes:summary>ה-event loop מאפשר ל-Node.js לטפל בהרבה פעולות I/O בלי לחסום את ה-thread הראשי, אבל חישוב כבד אחד עדיין יכול לעצור את כל הדלפק. מקורות: nodejs.org. פרומפט להטמעה: נתח endpoint ב-Node.js וסמן כל פעולה כ-waiting או computing. זהה synchronous calls וחישובי CPU שעלולים לחסום את event loop, והצע non-blocking API, worker או פיצול עבודה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep016-node-event-loop.mp3" length="4055398" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep016-node-event-loop.mp3" length="4055398" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep016</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep016</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep016</link>
    <pubDate>Sat, 19 Sep 2026 17:48:16 +0300</pubDate>
    <itunes:duration>00:05:38</itunes:duration>
    <itunes:episode>16</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep016-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep016-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1358,14 +1358,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor. פרומפט להטמעה: זהה הוראה אחת שאני חוזר עליה בעבודה עם Cursor והפוך אותה ל-rule קצר, יציב וניתן לבדיקה. המלץ אם היא שייכת ל-AGENTS.md, ל-Project Rule לפי files, או ל-enforcement טכני מחוץ ל-context. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>איך מפסיקים להסביר לסוכן את אותו הדבר בכל שיחה (Cursor Rules)</itunes:title>
    <itunes:summary>Cursor Rules הופכים הוראות חוזרות ל-context ממוקד שנכנס בזמן הנכון, בלי להעמיס את כל חוקי הפרויקט על כל משימה. מקורות: תיעוד Cursor. פרומפט להטמעה: זהה הוראה אחת שאני חוזר עליה בעבודה עם Cursor והפוך אותה ל-rule קצר, יציב וניתן לבדיקה. המלץ אם היא שייכת ל-AGENTS.md, ל-Project Rule לפי files, או ל-enforcement טכני מחוץ ל-context. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep015-cursor-rules.mp3" length="3978911" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep015-cursor-rules.mp3" length="3978911" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep015</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep015</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep015</link>
    <pubDate>Sat, 19 Sep 2026 17:17:45 +0300</pubDate>
    <itunes:duration>00:05:32</itunes:duration>
    <itunes:episode>15</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep015-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep015-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1373,14 +1373,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>איך יודעים מה קרה אחרי שהמערכת אמרה &#x27;משהו השתבש&#x27; (Observability)</itunes:title>
    <itunes:summary>Observability מחברת logs, metrics ו-traces לסיפור שאפשר לחקור, כדי לעבור מדיווח עמום על מערכת איטית למקום המדויק שבו הבקשה נתקעה. מקורות: Google SRE Book, OpenTelemetry Docs. פרומפט להטמעה: מפה flow אחד במערכת והצע לכל שלב log שימושי, metric למגמה ו-request ID שמחבר את הסיפור. הסר מידע רגיש והגדר alert רק לסימפטום שמצריך פעולה מצד אדם. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep014-observability.mp3" length="4263228" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep014-observability.mp3" length="4263228" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep014</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep014</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep014</link>
    <pubDate>Sat, 19 Sep 2026 16:49:42 +0300</pubDate>
    <itunes:duration>00:05:55</itunes:duration>
    <itunes:episode>14</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep014-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep014-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1388,14 +1388,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>לא בקשה לשמור קוד, אלא הזמנה לבדוק שינוי (Pull Request)</itunes:title>
    <itunes:summary>Pull request טוב לא רק מחבר branch ל-main: הוא מסביר למה השינוי נחוץ, מציג את ה-diff והבדיקות, ומאפשר להתאים את עומק ה-review לסיכון לפני שעושים merge. מקורות: GitHub Docs. פרומפט להטמעה: הפוך את השינוי שלי ל-PR description עם: למה, מה השתנה, איך בדקתי ומה הסיכון. אחר כך עבור על ה-diff file by file וחפש שינוי לא מכוון, secret, regression או פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep013-pull-request.mp3" length="4387676" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep013-pull-request.mp3" length="4387676" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep013</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep013</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep013</link>
    <pubDate>Sat, 19 Sep 2026 16:19:32 +0300</pubDate>
    <itunes:duration>00:06:06</itunes:duration>
    <itunes:episode>13</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep013-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep013-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1403,14 +1403,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>איך AI מגלה כלים במקום לקבל אינטגרציה תפורה ביד (MCP)</itunes:title>
    <itunes:summary>כדי שסוכן AI יקרא מ-GitHub, יחפש ב-database או יפעל ב-Notion, מישהו צריך ללמד אותו אילו כלים קיימים ואיך משתמשים בהם. MCP מציע שפה משותפת לגילוי הכלים האלה. בפרק הזה נבנה את המפה של host, client ו-server, נבדיל בין tools, resources ו-prompts, ונבין למה פרוטוקול אחיד פותר את בעיית החיבור אבל לא את בעיית האמון. מקורות: modelcontextprotocol.io. פרומפט להטמעה: עזור לי לתכנן MCP tool contract ל-integration הבא: שם צר, תיאור, input, output, permissions ושגיאות. הפרד בין read, draft ו-write, ודרוש אישור אנושי לכל פעולה שקשה לבטל. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep012-mcp.mp3" length="4073579" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep012-mcp.mp3" length="4073579" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep012</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep012</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep012</link>
    <pubDate>Sat, 19 Sep 2026 15:48:39 +0300</pubDate>
    <itunes:duration>00:05:39</itunes:duration>
    <itunes:episode>12</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep012-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep012-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1418,14 +1418,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>הזיכרון המהיר שגם יודע לשקר (Cache)</itunes:title>
    <itunes:summary>Cache גורם למסכים להיפתח מהר יותר, מוריד עומס משרתים וחוסך קריאות יקרות ל-API. אבל כל עותק מהיר הוא גם סיכון קטן להציג עבר כאילו הוא הווה. cache hit ו-cache miss, המתח בין TTL קצר לארוך, למה invalidation מסתבך כשיש browser, CDN ו-backend, ו-cache stampede. השאלה: כמה ישן מותר למידע להיות לפני שהמהירות מפסיקה להיות שווה את זה? מקורות: MDN, Cloudflare Learning. פרומפט להטמעה: מפה את הנתונים במסך או endpoint הבא לפי קצב שינוי ומחיר של stale data. הצע לכל נתון cache key, TTL, invalidation והתנהגות ב-cache miss או כשל, והסבר את tradeoff. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep011-cache.mp3" length="4149125" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep011-cache.mp3" length="4149125" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep011</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep011</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep011</link>
    <pubDate>Sat, 19 Sep 2026 15:19:16 +0300</pubDate>
    <itunes:duration>00:05:46</itunes:duration>
    <itunes:episode>11</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep011-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep011-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1433,14 +1433,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>הכול קורה, או ששום דבר לא קורה (Database Transaction)</itunes:title>
    <itunes:summary>מה קורה כשכמה פעולות צריכות לקרות ביחד או בכלל לא? על transactions, ההבטחה שאו שהכול נשמר או ששום דבר לא נשמר, ומה זה ACID בלי נוסחאות. מקורות: PostgreSQL Docs. פרומפט להטמעה: פרק את ה-flow הבא לשינויי database וסמן אילו מהם חייבים לקרות ביחד בתוך transaction. זהה פעולות חיצוניות שלא ניתן לעשות להן rollback והצע idempotency, outbox או compensating action לפי הצורך. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep010-database-transaction.mp3" length="4274827" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep010</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep010</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep010</link>
    <pubDate>Sat, 19 Sep 2026 14:38:10 +0300</pubDate>
    <itunes:duration>00:05:56</itunes:duration>
    <itunes:episode>10</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep010-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep010-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1448,14 +1448,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>החוזה שמאפשר לתוכנות לעבוד יחד (API)</itunes:title>
    <itunes:summary>מה זה API ולמה כולם מדברים עליו? החוזה שמאפשר לתוכנות לדבר אחת עם השנייה - מהבקשה הכי פשוטה ועד הכלים שאתם משתמשים בהם כל יום. מקורות: MDN. פרומפט להטמעה: קרא את תיעוד ה-API שאצרף והפק חוזה עבודה: endpoint, method, authentication, request, response ושגיאות. התחל בבדיקת curl הפיכה, שמור secrets מחוץ לקוד, ורק אחר כך הצע integration באפליקציה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep009-api-contract.mp3" length="4156335" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep009</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep009</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep009</link>
    <pubDate>Sat, 19 Sep 2026 14:36:04 +0300</pubDate>
    <itunes:duration>00:05:46</itunes:duration>
    <itunes:episode>9</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep009-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep009-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1463,14 +1463,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>ניסוי בצד בלי לשכפל את כל הבית (Git Branches)</itunes:title>
    <itunes:summary>Branch הוא מצביע נייד ל-commit, שנותן לניסוי היסטוריה משלו עד שמחליטים אם לעשות merge. פרומפט להטמעה: הצע branch קצר וממוקד למשימה הבאה, כולל שם, גבולות וקריטריונים לסיום. בדוק שהמשימה לא מערבבת כמה כוונות, והכן מסלול בטוח מ-branch ל-tests, pull request ו-merge. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep008-git-branches.mp3" length="3793651" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep008</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep008</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep008</link>
    <pubDate>Sat, 19 Sep 2026 12:30:20 +0300</pubDate>
    <itunes:duration>00:05:16</itunes:duration>
    <itunes:episode>8</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep008-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep008-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1478,14 +1478,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>איך לוחצים פעמיים ומשלמים פעם אחת (Idempotency)</itunes:title>
    <itunes:summary>מערכת אמינה לא מניחה שבקשה תגיע פעם אחת; היא מזהה retries ודואגת שהכוונה תתבצע פעם אחת. מקורות: MDN, AWS Builders&#x27; Library. פרומפט להטמעה: נתח את ה-workflow שלי וזיהה פעולות שעלולות להגיע פעמיים בגלל retry, timeout או webhook חוזר. הצע idempotency key, חלון שמירה והתנהגות במקרה של אותו key עם payload שונה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep007-idempotency.mp3" length="4004616" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep007-idempotency.mp3" length="4004616" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep007</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep007</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep007</link>
    <pubDate>Sat, 19 Sep 2026 11:23:17 +0300</pubDate>
    <itunes:duration>00:05:34</itunes:duration>
    <itunes:episode>7</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep007-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep007-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1493,14 +1493,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor. פרומפט להטמעה: הפוך את המשימה שלי ל-brief בטוח ל-Cursor Agent: תוצאה רצויה, scope, files רלוונטיים, constraints ובדיקות קבלה. המלץ אם להתחיל ב-Ask, Plan או Agent, ובנה checklist ל-review של ה-diff לפני Git. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>לא Chat עם קוד, אלא עובד עם כלים (Cursor Agent)</itunes:title>
    <itunes:summary>Agent יכול לערוך, להריץ ולבדוק - ולכן prompt טוב מגדיר scope, context ותוצאה שאפשר לעשות עליה review. מקורות: תיעוד Cursor. פרומפט להטמעה: הפוך את המשימה שלי ל-brief בטוח ל-Cursor Agent: תוצאה רצויה, scope, files רלוונטיים, constraints ובדיקות קבלה. המלץ אם להתחיל ב-Ask, Plan או Agent, ובנה checklist ל-review של ה-diff לפני Git. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep006-cursor-agent.mp3" length="4024991" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep006-cursor-agent.mp3" length="4024991" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep006</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep006</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep006</link>
    <pubDate>Sat, 19 Sep 2026 10:23:02 +0300</pubDate>
    <itunes:duration>00:05:35</itunes:duration>
    <itunes:episode>6</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep006-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep006-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1508,14 +1508,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני. פרומפט להטמעה: ראיין אותי על פקודות, conventions, מבנה הפרויקט ומלכודות שחוזרות, ואז הצע CLAUDE.md קצר ומדויק. הפרד בין context קבוע, הוראה למשימה הנוכחית, וכלל שדורש enforcement טכני ולא רק טקסט. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>ההבדל בין Prompt טוב לזיכרון של פרויקט (CLAUDE.md)</itunes:title>
    <itunes:summary>Prompt מסביר מה לעשות עכשיו; CLAUDE.md מסביר איך עובדים כאן - אבל הוא context, לא guardrail טכני. פרומפט להטמעה: ראיין אותי על פקודות, conventions, מבנה הפרויקט ומלכודות שחוזרות, ואז הצע CLAUDE.md קצר ומדויק. הפרד בין context קבוע, הוראה למשימה הנוכחית, וכלל שדורש enforcement טכני ולא רק טקסט. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep005-claude-md.mp3" length="4086118" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep005-claude-md.mp3" length="4086118" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep005</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep005</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep005</link>
    <pubDate>Sat, 19 Sep 2026 09:24:24 +0300</pubDate>
    <itunes:duration>00:05:40</itunes:duration>
    <itunes:episode>5</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep005-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep005-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1523,14 +1523,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת. פרומפט להטמעה: מפה את ה-flow הבא כשיחה בין client ל-server: מי שולח request, לאיזה endpoint, איזה data עובר, ומה חוזר ב-response. הוסף את מצבי הכשל העיקריים ואיך נאבחן כל אחד בלי לנחש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>השיחה שמפעילה כמעט כל מוצר דיגיטלי (Client ו-Server)</itunes:title>
    <itunes:summary>אפליקציה היא סדרת שיחות של request ו-response, ו-system design מתחיל בשאלה מה קורה כשהשיחה נכשלת. פרומפט להטמעה: מפה את ה-flow הבא כשיחה בין client ל-server: מי שולח request, לאיזה endpoint, איזה data עובר, ומה חוזר ב-response. הוסף את מצבי הכשל העיקריים ואיך נאבחן כל אחד בלי לנחש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep004-client-server.mp3" length="3882676" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep004-client-server.mp3" length="3882676" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep004</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep004</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep004</link>
    <pubDate>Sat, 19 Sep 2026 08:23:34 +0300</pubDate>
    <itunes:duration>00:05:24</itunes:duration>
    <itunes:episode>4</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep004-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep004-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1538,14 +1538,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs. פרומפט להטמעה: בדוק איתי את git status וה-diff, וחלק את השינויים לקבוצות קטנות עם כוונה אחת בכל commit. הצע בדיוק אילו files לעשות להם stage וניסוח commit message שמתאר מה השתנה ולמה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>למה שומרים שינוי בשני צעדים (Git Staging)</itunes:title>
    <itunes:summary>לפני ששומרים ב-Git יש תחנה באמצע - Staging. למה שני צעדים ולא אחד, ואיך זה מציל אותך מ-commit מבולגן. מקורות: git-scm.com, GitHub Docs. פרומפט להטמעה: בדוק איתי את git status וה-diff, וחלק את השינויים לקבוצות קטנות עם כוונה אחת בכל commit. הצע בדיוק אילו files לעשות להם stage וניסוח commit message שמתאר מה השתנה ולמה. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep003-git-staging.mp3" length="3656978" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep003-git-staging.mp3" length="3656978" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep003</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep003</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep003</link>
    <pubDate>Sat, 19 Sep 2026 00:08:24 +0300</pubDate>
    <itunes:duration>00:05:05</itunes:duration>
    <itunes:episode>3</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep003-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep003-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1553,14 +1553,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd. פרומפט להטמעה: עזור לי למפות את מבנה התיקיות של הפרויקט ולהסביר אילו paths הם absolute ואילו relative מנקודת העבודה הנוכחית. לפני כל פעולה בקבצים, בקש ממני לאמת pwd ו-ls והזהר אם ה-scope רחב מהנדרש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>למה Path הוא כתובת, לא קוד מסתורי</itunes:title>
    <itunes:summary>נתיב של קובץ הוא לא קסם, הוא כתובת. אחד הדברים הקטנים שפותחים את הדלת לטרמינל. מקורות: תיעוד POSIX של pwd/cd. פרומפט להטמעה: עזור לי למפות את מבנה התיקיות של הפרויקט ולהסביר אילו paths הם absolute ואילו relative מנקודת העבודה הנוכחית. לפני כל פעולה בקבצים, בקש ממני לאמת pwd ו-ls והזהר אם ה-scope רחב מהנדרש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep002-paths.mp3" length="3629080" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep002-paths.mp3" length="3629080" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep002</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep002</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep002</link>
    <pubDate>Fri, 18 Sep 2026 22:23:59 +0300</pubDate>
    <itunes:duration>00:05:02</itunes:duration>
    <itunes:episode>2</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep002-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep002-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
   <item>
@@ -1568,14 +1568,14 @@ Definition of done: כל ארבעת הסעיפים קיימים, לא שונה �
    <description>השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1. פרומפט להטמעה: מפה את הפעולות שהסוכן שלי יכול לבצע וסווג כל אחת לפי מחיר הטעות, קושי הביטול והיקף ההשפעה. הצע לכל פעולה רמת אוטונומיה, נקודת אישור ומנגנון rollback שמקטינים את הנזק האפשרי. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
    <itunes:title>תקציב הפיכות: איך מחליטים מה מותר לסוכן AI לעשות לבד</itunes:title>
    <itunes:summary>השאלה שמשפרת כמעט כל מוצר עם סוכן AI: אם הסוכן טועה עכשיו, כמה קשה להחזיר את העולם למצב הקודם? מקורות: מכתבי בעלי המניות של אמזון 2015-2016 ו-NIST AI 600-1. פרומפט להטמעה: מפה את הפעולות שהסוכן שלי יכול לבצע וסווג כל אחת לפי מחיר הטעות, קושי הביטול והיקף ההשפעה. הצע לכל פעולה רמת אוטונומיה, נקודת אישור ומנגנון rollback שמקטינים את הנזק האפשרי. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
-   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep001-reversibility-budget.mp3" length="3711836" type="audio/mpeg"/>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep001-reversibility-budget.mp3" length="3711836" type="audio/mpeg"/>
    <guid isPermaLink="false">musagim-ep001</guid>
-   <link>https://avigdor-instinct.github.io/musagim/#ep001</link>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep001</link>
    <pubDate>Fri, 18 Sep 2026 21:25:02 +0300</pubDate>
    <itunes:duration>00:05:09</itunes:duration>
    <itunes:episode>1</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
-   <itunes:image href="https://avigdor-instinct.github.io/musagim/episodes/ep001-cover.jpg"/>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/episodes/ep001-cover.jpg"/>
    <itunes:explicit>no</itunes:explicit>
   </item>
  </channel>

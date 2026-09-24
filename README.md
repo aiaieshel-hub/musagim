@@ -2,8 +2,8 @@
 
 Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
 
-- Feed: https://avigdor-instinct.github.io/musagim/feed.xml
-- Home: https://avigdor-instinct.github.io/musagim/
+- Feed: https://aiaieshel-hub.github.io/musagim/feed.xml
+- Home: https://aiaieshel-hub.github.io/musagim/
 
 ## Publishing a new episode (daily)
 
