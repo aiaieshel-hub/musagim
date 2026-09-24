@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>ספר ההוראות שאף אחד לא קורא (Reading Documentation)</title>
+   <description>קריאת תיעוד: ארבע השכבות, כלל הזהב של הדוגמה מול העיון, ולמה דורשים מהסוכן ציטוט עם גרסה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: קח ספרייה שאתה משתמש בה בפרויקט שלי, צטט את התיעוד הרשמי על פונקציה אחת, כולל גרסה.
+גבולות: ציטוט אמיתי מהתיעוד, לא זיכרון.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הציטוט + הקישור + הסבר ההבדל בין הדוגמה לעיון.
+Definition of done: הציטוט תואם את התיעוד הרשמי בגרסה הנוכחית.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>ספר ההוראות שאף אחד לא קורא (Reading Documentation)</itunes:title>
+   <itunes:summary>קריאת תיעוד: ארבע השכבות, כלל הזהב של הדוגמה מול העיון, ולמה דורשים מהסוכן ציטוט עם גרסה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: קח ספרייה שאתה משתמש בה בפרויקט שלי, צטט את התיעוד הרשמי על פונקציה אחת, כולל גרסה.
+גבולות: ציטוט אמיתי מהתיעוד, לא זיכרון.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הציטוט + הקישור + הסבר ההבדל בין הדוגמה לעיון.
+Definition of done: הציטוט תואם את התיעוד הרשמי בגרסה הנוכחית.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep056-reading-docs.mp3" length="1878667" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep056</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep056</link>
+   <pubDate>Thu, 24 Sep 2026 14:51:41 +0300</pubDate>
+   <itunes:duration>00:02:36</itunes:duration>
+   <itunes:episode>56</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לכבות את האורות ולהדליק אחד אחד (Debugging with Print)</title>
    <description>דיבוג עם print ו-assert: פנסים במקום ניחושים, ואיך למצוא את הנקודה הראשונה שסטתה מהציפייה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
