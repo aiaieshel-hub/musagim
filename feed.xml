@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>אצלי זה עובד (Environment)</title>
+   <description>סביבות: למה &#x27;אצלי זה עובד&#x27; קורה, מה מרכיב סביבה, ואיך שאלה אחת פותרת תשעים אחוז מהמקרים. משימה מעשית: כתוב עם הסוכן מסמך סביבה לפרויקט שלך. מקורות: Wikipedia - Deployment environment; Wikipedia - Environment variable. פרומפט להטמעה: תפקיד והקשר: אתה אחראי סביבות בפרויקט שלי.
+קלטים: פרטי סביבת הפיתוח וסביבת ההרצה שלי.
+מטרה: כתוב מסמך סביבה מלא: מערכת הפעלה, גרסאות, משתנים, תלויות.
+גבולות: בלי להתקין או לשנות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ ENVIRONMENT.md מסודר.
+Definition of done: המסמך מכיל את כל ארבע הקטגוריות עם נתונים אמיתיים.
+גבולות סמכות: מותר ליצור את קובץ המסמך בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>אצלי זה עובד (Environment)</itunes:title>
+   <itunes:summary>סביבות: למה &#x27;אצלי זה עובד&#x27; קורה, מה מרכיב סביבה, ואיך שאלה אחת פותרת תשעים אחוז מהמקרים. משימה מעשית: כתוב עם הסוכן מסמך סביבה לפרויקט שלך. מקורות: Wikipedia - Deployment environment; Wikipedia - Environment variable. פרומפט להטמעה: תפקיד והקשר: אתה אחראי סביבות בפרויקט שלי.
+קלטים: פרטי סביבת הפיתוח וסביבת ההרצה שלי.
+מטרה: כתוב מסמך סביבה מלא: מערכת הפעלה, גרסאות, משתנים, תלויות.
+גבולות: בלי להתקין או לשנות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ ENVIRONMENT.md מסודר.
+Definition of done: המסמך מכיל את כל ארבע הקטגוריות עם נתונים אמיתיים.
+גבולות סמכות: מותר ליצור את קובץ המסמך בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep039-environment.mp3" length="2092766" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep039</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep039</link>
+   <pubDate>Thu, 24 Sep 2026 14:01:18 +0300</pubDate>
+   <itunes:duration>00:02:54</itunes:duration>
+   <itunes:episode>39</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>למה אי אפשר לפתוח הכול בפנקס רשימות (Text vs Binary)</title>
    <description>טקסט מול בינארי: למה קוד הוא טקסט ולמה זה הופך אותו לניתן להשוואה, חיפוש ובקרת גרסאות. משימה מעשית: בקש מהסוכן השוואת diff של שני קבצים והבן כל שורה. מקורות: Wikipedia - Text file; Wikipedia - Binary file. פרומפט להטמעה: תפקיד והקשר: אתה מדריך לקריאת diff.
 קלטים: שני קבצי טקסט בפרויקט שלי.
