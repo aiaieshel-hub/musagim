@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>המטבח הפתוח של כל העולם (Open Source)</title>
+   <description>קוד פתוח: למה אנשים כותבים קוד במתנה, איך גיטהאב עובד, ומה שני הדברים שחובה לבדוק לפני שמכניסים ספרייה למוצר (רישיון וחיות). משימה מעשית: בחר ספרייה שהסוכן משתמש בה ובדוק את הרישיון שלה. מקורות: Wikipedia - Open-source software; opensource.org - What is open source. פרומפט להטמעה: תפקיד והקשר: אתה יועץ קוד פתוח לפרויקט שלי.
+קלטים: רשימת הספריות שהפרויקט שלי משתמש בהן.
+מטרה: בדוק את הרישיון והחיות של שלוש הספריות המרכזיות, וסמן סיכונים.
+גבולות: בלי להסיר או להוסיף ספריות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: ספרייה, רישיון, עדכון אחרון, משתמשים, סיכון.
+Definition of done: כל שורה מבוססת על מקור ציבורי אמיתי.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>המטבח הפתוח של כל העולם (Open Source)</itunes:title>
+   <itunes:summary>קוד פתוח: למה אנשים כותבים קוד במתנה, איך גיטהאב עובד, ומה שני הדברים שחובה לבדוק לפני שמכניסים ספרייה למוצר (רישיון וחיות). משימה מעשית: בחר ספרייה שהסוכן משתמש בה ובדוק את הרישיון שלה. מקורות: Wikipedia - Open-source software; opensource.org - What is open source. פרומפט להטמעה: תפקיד והקשר: אתה יועץ קוד פתוח לפרויקט שלי.
+קלטים: רשימת הספריות שהפרויקט שלי משתמש בהן.
+מטרה: בדוק את הרישיון והחיות של שלוש הספריות המרכזיות, וסמן סיכונים.
+גבולות: בלי להסיר או להוסיף ספריות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: ספרייה, רישיון, עדכון אחרון, משתמשים, סיכון.
+Definition of done: כל שורה מבוססת על מקור ציבורי אמיתי.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep031-open-source.mp3" length="2208436" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep031</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep031</link>
+   <pubDate>Thu, 24 Sep 2026 13:36:42 +0300</pubDate>
+   <itunes:duration>00:03:04</itunes:duration>
+   <itunes:episode>31</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>למה אנשים עדיין מקלידים במקום ללחוץ (Terminal)</title>
    <description>למה הטרמינל שורד חמישים שנה: דיוק, חזרתיות, שרשור. ולמה הסוכן שלך חי בו. משימה מעשית: פתח את הטרמינל, הרץ שלוש פקודות בסיסיות, וכתוב מה למדת. מקורות: Wikipedia - Command-line interface; Wikipedia - Unix shell. פרומפט להטמעה: תפקיד והקשר: אתה מורה לטרמינל למתחילים מוחלטים.
 קלטים: המערכת שלי וטרמינל פתוח.
