@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>איך מכניסים פיל למזוודה (Compression)</title>
+   <description>דחיסה: בלי אובדן מול עם אובדן, מתי כל אחת, ולמה קובץ אופיס הוא בעצם זיפ. משימה מעשית: כווץ תיקייה, פתח אותה, וודא שהכול חזר בדיוק. מקורות: Wikipedia - Data compression; Wikipedia - Lossless compression. פרומפט להטמעה: תפקיד והקשר: אתה מומחה קבצים.
+קלטים: תיקייה קטנה שאציין עם קבצי טקסט ותמונה.
+מטרה: כווץ בלי אובדן, פתח, והוכח שהכול זהה. הסבר מתי היית בוחר דחיסה עם אובדן.
+גבולות: עבודה על עותק בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מכווץ + אימות זהות + הסבר.
+Definition of done: אימות hash מראה זהות מלאה.
+גבולות סמכות: עותקים בלבד, מקורות לא נוגעים. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>איך מכניסים פיל למזוודה (Compression)</itunes:title>
+   <itunes:summary>דחיסה: בלי אובדן מול עם אובדן, מתי כל אחת, ולמה קובץ אופיס הוא בעצם זיפ. משימה מעשית: כווץ תיקייה, פתח אותה, וודא שהכול חזר בדיוק. מקורות: Wikipedia - Data compression; Wikipedia - Lossless compression. פרומפט להטמעה: תפקיד והקשר: אתה מומחה קבצים.
+קלטים: תיקייה קטנה שאציין עם קבצי טקסט ותמונה.
+מטרה: כווץ בלי אובדן, פתח, והוכח שהכול זהה. הסבר מתי היית בוחר דחיסה עם אובדן.
+גבולות: עבודה על עותק בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מכווץ + אימות זהות + הסבר.
+Definition of done: אימות hash מראה זהות מלאה.
+גבולות סמכות: עותקים בלבד, מקורות לא נוגעים. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep037-compression.mp3" length="2129756" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep037</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep037</link>
+   <pubDate>Thu, 24 Sep 2026 13:55:53 +0300</pubDate>
+   <itunes:duration>00:02:57</itunes:duration>
+   <itunes:episode>37</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>למה העברית מתפוצצת (Encoding)</title>
    <description>קידוד תווים: למה עברית מתפוצצת, מה זה UTF-8, ואיך משפט אחד בתדריך חוסך ג&#x27;יבריש. משימה מעשית: מצא קובץ עם ג&#x27;יבריש או בקש מהסוכן לייצר דוגמה, ותקן את הקידוד. מקורות: Wikipedia - UTF-8; Wikipedia - ASCII. פרומפט להטמעה: תפקיד והקשר: אתה מומחה קידוד.
 קלטים: קובץ טקסט עם בעיית קידוד מהפרויקט שלי.
