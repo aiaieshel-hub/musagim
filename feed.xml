@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הפתק על דלת המחסן (gitignore)</title>
+   <description>גיט איגנור: שלוש הקטגוריות שלא נכנסות לגיט, ולמה סיסמה שנכנסה לגיט היא חירום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי קובץ gitignore לפרויקט הניסוי ובדוק מה עוד צריך להיות שם.
+גבולות: המלצות מבוססות על סריקת הפרויקט.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ + רשימת המלצות + הדגמה שגיט לא רואה את הקבצים.
+Definition of done: git status מוכיח שהקבצים המיועדים מושמטים.
+גבולות סמכות: מותר לכתוב את gitignore בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הפתק על דלת המחסן (gitignore)</itunes:title>
+   <itunes:summary>גיט איגנור: שלוש הקטגוריות שלא נכנסות לגיט, ולמה סיסמה שנכנסה לגיט היא חירום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי קובץ gitignore לפרויקט הניסוי ובדוק מה עוד צריך להיות שם.
+גבולות: המלצות מבוססות על סריקת הפרויקט.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ + רשימת המלצות + הדגמה שגיט לא רואה את הקבצים.
+Definition of done: git status מוכיח שהקבצים המיועדים מושמטים.
+גבולות סמכות: מותר לכתוב את gitignore בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep059-gitignore.mp3" length="1982111" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep059</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep059</link>
+   <pubDate>Thu, 24 Sep 2026 14:58:34 +0300</pubDate>
+   <itunes:duration>00:02:45</itunes:duration>
+   <itunes:episode>59</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>מכונת הזמן של המתכנת (Stash, Reset, Checkout)</title>
    <description>סטאש, צ&#x27;קאאוט וריסט: מכונת הזמן של גיט, ולמה אחרי reset קשה כמעט שום דבר לא אבוד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
