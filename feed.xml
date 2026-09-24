@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>לשבור בעיה לחתיכות (Decomposition)</title>
+   <description>פירוק בעיה לחתיכות: ארבע השאלות שהופכות &#x27;בוא נבנה אפליקציה&#x27; לרשימת משימות ברורות, ולמה זו מיומנות העל של בונה עם סוכנים. משימה מעשית: קח רעיון אמיתי שלך ופרק אותו עם הסוכן למשימות בדיקות. מקורות: Wikipedia - Decomposition (computer science). פרומפט להטמעה: תפקיד והקשר: אתה שותף לפירוק בעיות.
+קלטים: רעיון למוצר או פיצ&#x27;ר שאכתוב במשפט אחד.
+מטרה: פרק את הרעיון למשימות קטנות וברורות, עם סדר תלות וקריטריון בדיקה לכל אחת.
+גבולות: בלי כתיבת קוד בשלב זה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: רשימת משימות ממוספרת: כל אחת ניתנת לסיום בישיבה אחת עם קריטריון &#x27;איך יודעים שסיימתי&#x27;.
+Definition of done: כל משימה קטנה, ברורה, ובעלת קריטריון בדיקה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לשבור בעיה לחתיכות (Decomposition)</itunes:title>
+   <itunes:summary>פירוק בעיה לחתיכות: ארבע השאלות שהופכות &#x27;בוא נבנה אפליקציה&#x27; לרשימת משימות ברורות, ולמה זו מיומנות העל של בונה עם סוכנים. משימה מעשית: קח רעיון אמיתי שלך ופרק אותו עם הסוכן למשימות בדיקות. מקורות: Wikipedia - Decomposition (computer science). פרומפט להטמעה: תפקיד והקשר: אתה שותף לפירוק בעיות.
+קלטים: רעיון למוצר או פיצ&#x27;ר שאכתוב במשפט אחד.
+מטרה: פרק את הרעיון למשימות קטנות וברורות, עם סדר תלות וקריטריון בדיקה לכל אחת.
+גבולות: בלי כתיבת קוד בשלב זה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: רשימת משימות ממוספרת: כל אחת ניתנת לסיום בישיבה אחת עם קריטריון &#x27;איך יודעים שסיימתי&#x27;.
+Definition of done: כל משימה קטנה, ברורה, ובעלת קריטריון בדיקה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep034-decomposition.mp3" length="2028818" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep034</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep034</link>
+   <pubDate>Thu, 24 Sep 2026 13:47:09 +0300</pubDate>
+   <itunes:duration>00:02:49</itunes:duration>
+   <itunes:episode>34</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>שפה אחת לכל התיעוד (Markdown)</title>
    <description>מארקדאון בשש דקות: ששה סימנים שמכסים תשעים אחוז מהתיעוד בעולם, ולמה היא שפת התדריכים לסוכן. משימה מעשית: כתוב את יומן הלמידה שלך במארקדאון. מקורות: Markdown Guide - Getting Started; Wikipedia - Markdown. פרומפט להטמעה: תפקיד והקשר: אתה עורך תיעוד.
 קלטים: קובץ טקסט פשוט שאכתוב עם נקודות וכותרות.
