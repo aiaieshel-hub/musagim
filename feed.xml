@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>ללכת לאיבוד בכוונה (Navigating the File System)</title>
+   <description>ניווט במערכת קבצים: איפה אני, מה יש כאן, בוא נלך לשם. שלוש פקודות ושתי הרגלים מקצועיים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: למד אותי ניווט: pwd, ls, cd, ו-find למציאת קובץ לפי שם. חמש דקות בטרמינל שלי.
+גבולות: רק ניווט וקריאה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד ההרצות שלי + הסבר כל פלט.
+Definition of done: מצאתי קובץ לפי שם בלי עזרה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>ללכת לאיבוד בכוונה (Navigating the File System)</itunes:title>
+   <itunes:summary>ניווט במערכת קבצים: איפה אני, מה יש כאן, בוא נלך לשם. שלוש פקודות ושתי הרגלים מקצועיים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: למד אותי ניווט: pwd, ls, cd, ו-find למציאת קובץ לפי שם. חמש דקות בטרמינל שלי.
+גבולות: רק ניווט וקריאה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד ההרצות שלי + הסבר כל פלט.
+Definition of done: מצאתי קובץ לפי שם בלי עזרה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep060-linux-nav.mp3" length="1967378" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep060</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep060</link>
+   <pubDate>Thu, 24 Sep 2026 14:59:37 +0300</pubDate>
+   <itunes:duration>00:02:43</itunes:duration>
+   <itunes:episode>60</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הפתק על דלת המחסן (gitignore)</title>
    <description>גיט איגנור: שלוש הקטגוריות שלא נכנסות לגיט, ולמה סיסמה שנכנסה לגיט היא חירום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
