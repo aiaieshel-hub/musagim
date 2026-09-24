@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>השילוש הקדוש של הלוגים (grep, sed, awk)</title>
+   <description>גרפ, סד ואוק: השילוש הקדוש. מוצא, מחליף, מחשב - שלוש תחנות שקוראות כל לוג. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: ענה איתי על שלוש שאלות על לוג אמיתי: כמה שגיאות, עשר הכתובות הפעילות, זמן תגובה ממוצע לפי סטטוס.
+גבולות: לוג ניסוי; שרשרת אחת לכל שאלה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש שרשראות + התשובות + הסבר כל תחנה.
+Definition of done: שלוש התשובות נכונות ומשוחזרות מהלוג.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>השילוש הקדוש של הלוגים (grep, sed, awk)</itunes:title>
+   <itunes:summary>גרפ, סד ואוק: השילוש הקדוש. מוצא, מחליף, מחשב - שלוש תחנות שקוראות כל לוג. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: ענה איתי על שלוש שאלות על לוג אמיתי: כמה שגיאות, עשר הכתובות הפעילות, זמן תגובה ממוצע לפי סטטוס.
+גבולות: לוג ניסוי; שרשרת אחת לכל שאלה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש שרשראות + התשובות + הסבר כל תחנה.
+Definition of done: שלוש התשובות נכונות ומשוחזרות מהלוג.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep064-grep-sed-awk.mp3" length="1926627" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep064</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep064</link>
+   <pubDate>Thu, 24 Sep 2026 15:09:49 +0300</pubDate>
+   <itunes:duration>00:02:40</itunes:duration>
+   <itunes:episode>64</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>חמשת התווים שפותחים כל לוג (RegEx)</title>
    <description>רג&#x27;קס: חמשת התווים שפותחים כל לוג. צורה במקום מילה, ואיך מבקשים ביטוי מהסוכן עם דוגמאות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
