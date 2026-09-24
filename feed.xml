@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>החנות שאף אחד לא רואה (Package Managers)</title>
+   <description>מנהלי חבילות: החנות הנסתרת של עולם התוכנה, שתי השאלות לפני התקנה, ולמה נועלים גרסאות. משימה מעשית: בדוק עם הסוכן את שלוש החבילות הכי קריטיות בפרויקט. מקורות: Wikipedia - Package manager; pypi.org. פרומפט להטמעה: תפקיד והקשר: אתה מבקר תלויות.
+קלטים: קובץ התלויות של הפרויקט שלי.
+מטרה: דרג את שלוש החבילות הקריטיות: חיות, רישיון, פופולריות, והאם הגרסה נעולה.
+גבולות: בלי התקנות או עדכונים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלת דירוג + המלצה אחת לכל חבילה.
+Definition of done: כל נתון מבוסס על מקור ציבורי אמיתי.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>החנות שאף אחד לא רואה (Package Managers)</itunes:title>
+   <itunes:summary>מנהלי חבילות: החנות הנסתרת של עולם התוכנה, שתי השאלות לפני התקנה, ולמה נועלים גרסאות. משימה מעשית: בדוק עם הסוכן את שלוש החבילות הכי קריטיות בפרויקט. מקורות: Wikipedia - Package manager; pypi.org. פרומפט להטמעה: תפקיד והקשר: אתה מבקר תלויות.
+קלטים: קובץ התלויות של הפרויקט שלי.
+מטרה: דרג את שלוש החבילות הקריטיות: חיות, רישיון, פופולריות, והאם הגרסה נעולה.
+גבולות: בלי התקנות או עדכונים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלת דירוג + המלצה אחת לכל חבילה.
+Definition of done: כל נתון מבוסס על מקור ציבורי אמיתי.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep040-package-managers.mp3" length="1996218" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep040</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep040</link>
+   <pubDate>Thu, 24 Sep 2026 14:11:52 +0300</pubDate>
+   <itunes:duration>00:02:46</itunes:duration>
+   <itunes:episode>40</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>התוכנית היא המתכון, התהליך הוא הבישול (Process)</title>
    <description>תהליך מול תוכנית: המתכון מול הבישול. למה &#x27;התהליך מת&#x27; לא אומר שהתוכנה נמחקה, ומה זה PID. משימה מעשית: מצא עם הסוכן את כל התהליכים של הפרויקט שלך. מקורות: Wikipedia - Process (computing). פרומפט להטמעה: תפקיד והקשר: אתה מנתח תהליכים.
 קלטים: רשימת התהליכים הרצים שקשורים לפרויקט שלי.
