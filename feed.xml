@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>מה הסוכן באמת עושה כשהוא חושב (How an LLM Works)</title>
+   <description>איך LLM עובד ברמת רעיון: טוקנים, חלון קשר, הזיות, קריאת כלים, הודעת מערכת. שלוש השאלות שמסבירות תשעים אחוז מהתנהגות הסוכן. משימה מעשית: בדוק מה בחלון של הסוכן שלך ואילו כלים יש לו. מקורות: Wikipedia - Large language model; OpenAI - Prompt engineering guide. פרומפט להטמעה: תפקיד והקשר: אתה מסביר מודלי שפה.
+קלטים: הגדרות הסוכן שלי: הודעת מערכת ורשימת כלים.
+מטרה: הסבר במילים פשוטות מה הסוכן שלי רואה, מה הוא יכול לעשות, ואיפה הוא עלול לטעות.
+גבולות: בלי לשנות הגדרות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש תשובות: חלון, כלים, הנחיות + שלוש נקודות כשל אפשריות.
+Definition of done: כל נקודת כשל מקושרת למושג מהפרק.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>מה הסוכן באמת עושה כשהוא חושב (How an LLM Works)</itunes:title>
+   <itunes:summary>איך LLM עובד ברמת רעיון: טוקנים, חלון קשר, הזיות, קריאת כלים, הודעת מערכת. שלוש השאלות שמסבירות תשעים אחוז מהתנהגות הסוכן. משימה מעשית: בדוק מה בחלון של הסוכן שלך ואילו כלים יש לו. מקורות: Wikipedia - Large language model; OpenAI - Prompt engineering guide. פרומפט להטמעה: תפקיד והקשר: אתה מסביר מודלי שפה.
+קלטים: הגדרות הסוכן שלי: הודעת מערכת ורשימת כלים.
+מטרה: הסבר במילים פשוטות מה הסוכן שלי רואה, מה הוא יכול לעשות, ואיפה הוא עלול לטעות.
+גבולות: בלי לשנות הגדרות.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: שלוש תשובות: חלון, כלים, הנחיות + שלוש נקודות כשל אפשריות.
+Definition of done: כל נקודת כשל מקושרת למושג מהפרק.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep045-how-llm-works.mp3" length="2401220" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep045</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep045</link>
+   <pubDate>Thu, 24 Sep 2026 14:19:12 +0300</pubDate>
+   <itunes:duration>00:03:20</itunes:duration>
+   <itunes:episode>45</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לשאול את הנתונים שאלה טובה (Data Literacy)</title>
    <description>אוריינות דאטה: ארבע השאלות (טיפוסי, פיזור, חריג, מתאם) ולמה ממוצע משקר. משימה מעשית: תן לסוכן קובץ נתונים אמיתי שלך ובקש תשובות לארבע השאלות. מקורות: Wikipedia - Median; Wikipedia - Correlation. פרומפט להטמעה: תפקיד והקשר: אתה אנליסט נתונים.
 קלטים: קובץ נתונים אמיתי שאציין (CSV).
