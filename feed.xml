@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הטקסט האדום הוא חבר שלכם (Reading Errors)</title>
+   <description>קריאת שגיאות: שלוש השכבות (מיקוד, סיבה, שרשרת), סדר הקריאה ההפוך, ושיטת ארבעת הצעדים. משימה מעשית: קח שגיאה אמיתית מהפרויקט ועבור על ארבעת הצעדים. מקורות: Wikipedia - Stack trace; MDN - Debugging. פרומפט להטמעה: תפקיד והקשר: אתה שותף לדיבוג.
+קלטים: הודעת שגיאה אמיתית מהפרויקט שלי.
+מטרה: קרא אותה בשלוש שכבות, תרגם למשפט פשוט, זהה את השינוי האחרון שגרם לה, והצע תיקון.
+גבולות: בלי לשנות קוד בלי אישור.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: מיקוד, תרגום, סיבה משוערת, תיקון מוצע.
+Definition of done: כל ארבעת החלקים קיימים והתיקון מבוסס על ההודעה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הטקסט האדום הוא חבר שלכם (Reading Errors)</itunes:title>
+   <itunes:summary>קריאת שגיאות: שלוש השכבות (מיקוד, סיבה, שרשרת), סדר הקריאה ההפוך, ושיטת ארבעת הצעדים. משימה מעשית: קח שגיאה אמיתית מהפרויקט ועבור על ארבעת הצעדים. מקורות: Wikipedia - Stack trace; MDN - Debugging. פרומפט להטמעה: תפקיד והקשר: אתה שותף לדיבוג.
+קלטים: הודעת שגיאה אמיתית מהפרויקט שלי.
+מטרה: קרא אותה בשלוש שכבות, תרגם למשפט פשוט, זהה את השינוי האחרון שגרם לה, והצע תיקון.
+גבולות: בלי לשנות קוד בלי אישור.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: מיקוד, תרגום, סיבה משוערת, תיקון מוצע.
+Definition of done: כל ארבעת החלקים קיימים והתיקון מבוסס על ההודעה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep046-reading-errors.mp3" length="2066748" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep046</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep046</link>
+   <pubDate>Thu, 24 Sep 2026 14:23:52 +0300</pubDate>
+   <itunes:duration>00:02:52</itunes:duration>
+   <itunes:episode>46</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>מה הסוכן באמת עושה כשהוא חושב (How an LLM Works)</title>
    <description>איך LLM עובד ברמת רעיון: טוקנים, חלון קשר, הזיות, קריאת כלים, הודעת מערכת. שלוש השאלות שמסבירות תשעים אחוז מהתנהגות הסוכן. משימה מעשית: בדוק מה בחלון של הסוכן שלך ואילו כלים יש לו. מקורות: Wikipedia - Large language model; OpenAI - Prompt engineering guide. פרומפט להטמעה: תפקיד והקשר: אתה מסביר מודלי שפה.
 קלטים: הגדרות הסוכן שלי: הודעת מערכת ורשימת כלים.
