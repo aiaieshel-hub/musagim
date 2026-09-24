@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>לפתוח, לקרוא, לכתוב, לסגור (Reading and Writing Files)</title>
+   <description>קריאה וכתיבה לקבצים: ארבע הפעולות וכלל הזהב - לא כותבים על המקור. ניקוי דאטה כדוגמת על. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: נקה איתי קובץ CSV: קרא, זרוק שורות ריקות, כתוב לקובץ חדש, אל תיגע במקור.
+גבולות: המקור נשאר בלי שינוי, תמיד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מנוקה + אימות שהמקור זהה + הסבר כלל הזהב.
+Definition of done: המקור זהה ב-hash, הקובץ החדש נקי משורות ריקות.
+גבולות סמכות: מותר לקרוא את המקור ולכתוב קובץ חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לפתוח, לקרוא, לכתוב, לסגור (Reading and Writing Files)</itunes:title>
+   <itunes:summary>קריאה וכתיבה לקבצים: ארבע הפעולות וכלל הזהב - לא כותבים על המקור. ניקוי דאטה כדוגמת על. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: נקה איתי קובץ CSV: קרא, זרוק שורות ריקות, כתוב לקובץ חדש, אל תיגע במקור.
+גבולות: המקור נשאר בלי שינוי, תמיד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מנוקה + אימות שהמקור זהה + הסבר כלל הזהב.
+Definition of done: המקור זהה ב-hash, הקובץ החדש נקי משורות ריקות.
+גבולות סמכות: מותר לקרוא את המקור ולכתוב קובץ חדש בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep051-files.mp3" length="1856097" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep051</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep051</link>
+   <pubDate>Thu, 24 Sep 2026 14:35:48 +0300</pubDate>
+   <itunes:duration>00:02:34</itunes:duration>
+   <itunes:episode>51</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>שורת הכסאות והתוויות (Lists and Dictionaries)</title>
    <description>רשימות ומילונים: שורת כסאות ממוספרת מול קופסא עם תוויות. מתי כל אחד, ולמה הספירה מתחילה מאפס. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
