@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>התוכנית היא המתכון, התהליך הוא הבישול (Process)</title>
+   <description>תהליך מול תוכנית: המתכון מול הבישול. למה &#x27;התהליך מת&#x27; לא אומר שהתוכנה נמחקה, ומה זה PID. משימה מעשית: מצא עם הסוכן את כל התהליכים של הפרויקט שלך. מקורות: Wikipedia - Process (computing). פרומפט להטמעה: תפקיד והקשר: אתה מנתח תהליכים.
+קלטים: רשימת התהליכים הרצים שקשורים לפרויקט שלי.
+מטרה: הסבר איזה תהליך עושה מה, כמה זיכרון הוא תופס, ומה קורה אם הוא מת.
+גבולות: בלי לעצור תהליכים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: PID, תפקיד, זיכרון, סיכון אם מת.
+Definition of done: כל תהליך ברשימה מזוהה ומוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>התוכנית היא המתכון, התהליך הוא הבישול (Process)</itunes:title>
+   <itunes:summary>תהליך מול תוכנית: המתכון מול הבישול. למה &#x27;התהליך מת&#x27; לא אומר שהתוכנה נמחקה, ומה זה PID. משימה מעשית: מצא עם הסוכן את כל התהליכים של הפרויקט שלך. מקורות: Wikipedia - Process (computing). פרומפט להטמעה: תפקיד והקשר: אתה מנתח תהליכים.
+קלטים: רשימת התהליכים הרצים שקשורים לפרויקט שלי.
+מטרה: הסבר איזה תהליך עושה מה, כמה זיכרון הוא תופס, ומה קורה אם הוא מת.
+גבולות: בלי לעצור תהליכים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: PID, תפקיד, זיכרון, סיכון אם מת.
+Definition of done: כל תהליך ברשימה מזוהה ומוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep041-process.mp3" length="2103111" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep041</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep041</link>
+   <pubDate>Thu, 24 Sep 2026 14:08:33 +0300</pubDate>
+   <itunes:duration>00:02:55</itunes:duration>
+   <itunes:episode>41</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>אצלי זה עובד (Environment)</title>
    <description>סביבות: למה &#x27;אצלי זה עובד&#x27; קורה, מה מרכיב סביבה, ואיך שאלה אחת פותרת תשעים אחוז מהמקרים. משימה מעשית: כתוב עם הסוכן מסמך סביבה לפרויקט שלך. מקורות: Wikipedia - Deployment environment; Wikipedia - Environment variable. פרומפט להטמעה: תפקיד והקשר: אתה אחראי סביבות בפרויקט שלי.
 קלטים: פרטי סביבת הפיתוח וסביבת ההרצה שלי.
