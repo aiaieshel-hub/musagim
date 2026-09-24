@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>מספר הדלת הנכון (Ports)</title>
+   <description>פורטים: מספר הדלת של כל שירות. למה שני שירותים לא יושבים על אותה דלת, ומה אומר localhost:3000. משימה מעשית: גלה אילו פורטים פתוחים על המחשב שלך ומי מאזין עליהם. מקורות: Wikipedia - Port (computer networking). פרומפט להטמעה: תפקיד והקשר: אתה מנתח שירותים מקומיים.
+קלטים: רשימת הפורטים הפתוחים במחשב שלי.
+מטרה: הסבר איזה שירות מאזין על כל פורט, האם הוא צריך להיות שם, והאם הוא חשוף.
+גבולות: בלי לסגור או לשנות דבר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: פורט, שירות, נחוץ?, חשוף?.
+Definition of done: כל פורט ברשימה מוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>מספר הדלת הנכון (Ports)</itunes:title>
+   <itunes:summary>פורטים: מספר הדלת של כל שירות. למה שני שירותים לא יושבים על אותה דלת, ומה אומר localhost:3000. משימה מעשית: גלה אילו פורטים פתוחים על המחשב שלך ומי מאזין עליהם. מקורות: Wikipedia - Port (computer networking). פרומפט להטמעה: תפקיד והקשר: אתה מנתח שירותים מקומיים.
+קלטים: רשימת הפורטים הפתוחים במחשב שלי.
+מטרה: הסבר איזה שירות מאזין על כל פורט, האם הוא צריך להיות שם, והאם הוא חשוף.
+גבולות: בלי לסגור או לשנות דבר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: פורט, שירות, נחוץ?, חשוף?.
+Definition of done: כל פורט ברשימה מוסבר.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep042-ports.mp3" length="2052015" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep042</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep042</link>
+   <pubDate>Thu, 24 Sep 2026 14:12:12 +0300</pubDate>
+   <itunes:duration>00:02:50</itunes:duration>
+   <itunes:episode>42</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>החנות שאף אחד לא רואה (Package Managers)</title>
    <description>מנהלי חבילות: החנות הנסתרת של עולם התוכנה, שתי השאלות לפני התקנה, ולמה נועלים גרסאות. משימה מעשית: בדוק עם הסוכן את שלוש החבילות הכי קריטיות בפרויקט. מקורות: Wikipedia - Package manager; pypi.org. פרומפט להטמעה: תפקיד והקשר: אתה מבקר תלויות.
 קלטים: קובץ התלויות של הפרויקט שלי.
