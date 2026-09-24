@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>המכונה הקטנה עם הפתק (Functions)</title>
+   <description>פונקציות: המכונה הקטנה עם הקלט והפלט. לא לחזור על עצמך, שמות כהבטחה, ומה זה scope. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פונקציה שמקבלת רשימת מספרים ומחזירה גדול, קטן וממוצע, בלי ספריות.
+גבולות: בלי statistics; רשימת הבדיקה שלי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הפונקציה + הרצה על הרשימה שלי + תשובה לשלוש שאלות: קלט, פלט, מה מוסתר.
+Definition of done: הפונקציה עובדת על הרשימה שלי ועונה על שלוש השאלות.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>המכונה הקטנה עם הפתק (Functions)</itunes:title>
+   <itunes:summary>פונקציות: המכונה הקטנה עם הקלט והפלט. לא לחזור על עצמך, שמות כהבטחה, ומה זה scope. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פונקציה שמקבלת רשימת מספרים ומחזירה גדול, קטן וממוצע, בלי ספריות.
+גבולות: בלי statistics; רשימת הבדיקה שלי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הפונקציה + הרצה על הרשימה שלי + תשובה לשלוש שאלות: קלט, פלט, מה מוסתר.
+Definition of done: הפונקציה עובדת על הרשימה שלי ועונה על שלוש השאלות.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep049-functions.mp3" length="1919731" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep049</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep049</link>
+   <pubDate>Thu, 24 Sep 2026 14:29:49 +0300</pubDate>
+   <itunes:duration>00:02:39</itunes:duration>
+   <itunes:episode>49</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הקופסאות עם המדבקות (Variables and Types)</title>
    <description>משתנים וטיפוסים: קופסאות עם שם, למה 1 ו-&#x27;1&#x27; הם לא אותו דבר, ואיך קוראים שגיאת סוגים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
