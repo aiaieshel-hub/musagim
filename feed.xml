@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>לדבר עם שרת בלי דפדפן (curl)</title>
+   <description>קרל: הטלפון הישיר לשרת. שליפה, שליחה, כותרות, מצב מילולי - וחצי אבחון בפקודה אחת. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הדגם לי curl: שלוף נתון ציבורי, שלח נתונים, הוסף כותרת, והרץ verbose.
+גבולות: שירותים ציבוריים או שרת הניסוי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: חמש פקודות + פלט + הסבר מה רואים בכל אחת.
+Definition of done: כל החמש רצו והפלט הובן.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לדבר עם שרת בלי דפדפן (curl)</itunes:title>
+   <itunes:summary>קרל: הטלפון הישיר לשרת. שליפה, שליחה, כותרות, מצב מילולי - וחצי אבחון בפקודה אחת. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הדגם לי curl: שלוף נתון ציבורי, שלח נתונים, הוסף כותרת, והרץ verbose.
+גבולות: שירותים ציבוריים או שרת הניסוי.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: חמש פקודות + פלט + הסבר מה רואים בכל אחת.
+Definition of done: כל החמש רצו והפלט הובן.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep069-curl.mp3" length="1760489" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep069</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep069</link>
+   <pubDate>Thu, 24 Sep 2026 15:25:59 +0300</pubDate>
+   <itunes:duration>00:02:26</itunes:duration>
+   <itunes:episode>69</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הפתקים שהתוכנה קוראת בפתיחה (Environment Variables)</title>
    <description>משתני סביבה: לוח המודעות של התוכנה. PATH בידיים, ולמה הגדרות שם אבל סודות לא. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
