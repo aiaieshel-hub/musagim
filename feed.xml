@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>למה העברית מתפוצצת (Encoding)</title>
+   <description>קידוד תווים: למה עברית מתפוצצת, מה זה UTF-8, ואיך משפט אחד בתדריך חוסך ג&#x27;יבריש. משימה מעשית: מצא קובץ עם ג&#x27;יבריש או בקש מהסוכן לייצר דוגמה, ותקן את הקידוד. מקורות: Wikipedia - UTF-8; Wikipedia - ASCII. פרומפט להטמעה: תפקיד והקשר: אתה מומחה קידוד.
+קלטים: קובץ טקסט עם בעיית קידוד מהפרויקט שלי.
+מטרה: זהה באיזה קידוד הקובץ נכתב, תקן ל-UTF-8, והסבר איך מנעת את זה בעתיד.
+גבולות: גיבוי לפני תיקון; בלי לגעת בקבצים אחרים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מתוקן + הסבר בשלוש שורות + משפט לתדריך עתידי.
+Definition of done: העברית בקובץ המתוקן קריאה, קיים גיבוי.
+גבולות סמכות: מותר לתקן את הקובץ שצוין בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>למה העברית מתפוצצת (Encoding)</itunes:title>
+   <itunes:summary>קידוד תווים: למה עברית מתפוצצת, מה זה UTF-8, ואיך משפט אחד בתדריך חוסך ג&#x27;יבריש. משימה מעשית: מצא קובץ עם ג&#x27;יבריש או בקש מהסוכן לייצר דוגמה, ותקן את הקידוד. מקורות: Wikipedia - UTF-8; Wikipedia - ASCII. פרומפט להטמעה: תפקיד והקשר: אתה מומחה קידוד.
+קלטים: קובץ טקסט עם בעיית קידוד מהפרויקט שלי.
+מטרה: זהה באיזה קידוד הקובץ נכתב, תקן ל-UTF-8, והסבר איך מנעת את זה בעתיד.
+גבולות: גיבוי לפני תיקון; בלי לגעת בקבצים אחרים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: קובץ מתוקן + הסבר בשלוש שורות + משפט לתדריך עתידי.
+Definition of done: העברית בקובץ המתוקן קריאה, קיים גיבוי.
+גבולות סמכות: מותר לתקן את הקובץ שצוין בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep036-encoding.mp3" length="2314389" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep036</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep036</link>
+   <pubDate>Thu, 24 Sep 2026 13:54:34 +0300</pubDate>
+   <itunes:duration>00:03:12</itunes:duration>
+   <itunes:episode>36</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הסיומת שמספרת הכול (File Extensions)</title>
    <description>סיומות קבצים: שלוש אותיות שמספרות באיזו שפה הקובץ כתוב. שלוש המשפחות (טקסט טהור, מסמכים עשירים, בינארי) ולמה לציין פורמט כשמבקשים מהסוכן לשמור. משימה מעשית: מיין תיקייה אחת במחשב לפי שלוש המשפחות. מקורות: Wikipedia - Filename extension. פרומפט להטמעה: תפקיד והקשר: אתה מארגן קבצים.
 קלטים: רשימת קבצים מתיקייה שאציין.
