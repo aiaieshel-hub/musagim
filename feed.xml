@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>שלוש מאות מילישניות אחרי שאתה לוחץ Enter (What Happens on the Web)</title>
+   <description>המסע של שלוש מאות מילישניות אחרי לחיצה על Enter: חמש תחנות מ-DNS לציור העמוד, ואיך המפה הזו אומרת איפה לחפש כשאתר איטי. משימה מעשית: מדוד עם הסוכן כמה זמן לוקח לאתר שלך להיטען ואיזו תחנה הכי איטית. מקורות: MDN - How the Web works; Wikipedia - Hypertext Transfer Protocol. פרומפט להטמעה: תפקיד והקשר: אתה מאבחן מהירות אתרים.
+קלטים: כתובת האתר שלי וכלי מדידת זמני טעינה.
+מטרה: מדוד את זמן הטעינה, פצל אותו לתחנות המסע, וזהה את צוואר הבקבוק.
+גבולות: מדידה בלבד, בלי שינוי באתר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלת תחנות עם זמנים + הסבר + המלצה אחת.
+Definition of done: הזמנים ממדידה אמיתית, לא הערכה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>שלוש מאות מילישניות אחרי שאתה לוחץ Enter (What Happens on the Web)</itunes:title>
+   <itunes:summary>המסע של שלוש מאות מילישניות אחרי לחיצה על Enter: חמש תחנות מ-DNS לציור העמוד, ואיך המפה הזו אומרת איפה לחפש כשאתר איטי. משימה מעשית: מדוד עם הסוכן כמה זמן לוקח לאתר שלך להיטען ואיזו תחנה הכי איטית. מקורות: MDN - How the Web works; Wikipedia - Hypertext Transfer Protocol. פרומפט להטמעה: תפקיד והקשר: אתה מאבחן מהירות אתרים.
+קלטים: כתובת האתר שלי וכלי מדידת זמני טעינה.
+מטרה: מדוד את זמן הטעינה, פצל אותו לתחנות המסע, וזהה את צוואר הבקבוק.
+גבולות: מדידה בלבד, בלי שינוי באתר.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלת תחנות עם זמנים + הסבר + המלצה אחת.
+Definition of done: הזמנים ממדידה אמיתית, לא הערכה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep032-web-journey.mp3" length="2270817" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep032</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep032</link>
+   <pubDate>Thu, 24 Sep 2026 13:42:49 +0300</pubDate>
+   <itunes:duration>00:03:09</itunes:duration>
+   <itunes:episode>32</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>המטבח הפתוח של כל העולם (Open Source)</title>
    <description>קוד פתוח: למה אנשים כותבים קוד במתנה, איך גיטהאב עובד, ומה שני הדברים שחובה לבדוק לפני שמכניסים ספרייה למוצר (רישיון וחיות). משימה מעשית: בחר ספרייה שהסוכן משתמש בה ובדוק את הרישיון שלה. מקורות: Wikipedia - Open-source software; opensource.org - What is open source. פרומפט להטמעה: תפקיד והקשר: אתה יועץ קוד פתוח לפרויקט שלי.
 קלטים: רשימת הספריות שהפרויקט שלי משתמש בהן.
