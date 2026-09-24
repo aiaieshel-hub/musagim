@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>מי רשאי לגעת במה (Permissions)</title>
+   <description>הרשאות: קריאה, כתיבה, הרצה, כפול בעלים, קבוצה, כולם. ולמה sudo מדליק נורה צהובה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הדגם לי הרשאות: קובץ לקריאה בלבד, ניסיון כתיבה, סקריפט בלי הרשאת הרצה, ותיקון.
+גבולות: תיקיית ניסוי בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד הניסויים + הסבר rwx + כלל ה-sudo.
+Definition of done: שתי הדחיות נצפו והובנו, התיקון עבד.
+גבולות סמכות: תיקיית הניסוי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>מי רשאי לגעת במה (Permissions)</itunes:title>
+   <itunes:summary>הרשאות: קריאה, כתיבה, הרצה, כפול בעלים, קבוצה, כולם. ולמה sudo מדליק נורה צהובה. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: הדגם לי הרשאות: קובץ לקריאה בלבד, ניסיון כתיבה, סקריפט בלי הרשאת הרצה, ותיקון.
+גבולות: תיקיית ניסוי בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד הניסויים + הסבר rwx + כלל ה-sudo.
+Definition of done: שתי הדחיות נצפו והובנו, התיקון עבד.
+גבולות סמכות: תיקיית הניסוי בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep061-permissions.mp3" length="2120978" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep061</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep061</link>
+   <pubDate>Thu, 24 Sep 2026 15:03:32 +0300</pubDate>
+   <itunes:duration>00:02:56</itunes:duration>
+   <itunes:episode>61</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>ללכת לאיבוד בכוונה (Navigating the File System)</title>
    <description>ניווט במערכת קבצים: איפה אני, מה יש כאן, בוא נלך לשם. שלוש פקודות ושתי הרגלים מקצועיים. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
