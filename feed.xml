@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>למצוא את כולם ולטפל בכולם (find and xargs)</title>
+   <description>פיינד ואקס-ארגס: למצוא את כולם ולטפל בכולם. ונהלי הבטיחות: רשימה לפני ביצוע, תמיד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: מצא איתי קבצים לפי תנאים (סוג, גודל, זמן), שמור רשימה, ובצע פעולה בטוחה. כתוב, בלי להריץ, את פקודת המחיקה.
+גבולות: בלי מחיקה אמיתית בשום שלב.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הרשימה + הפעולה הבטוחה + פקודת המחיקה הכתובה בלבד.
+Definition of done: הרשימה נכתבה ונבדקה לפני כל פעולה.
+גבולות סמכות: אסור למחוק דבר; רשימה לפני ביצוע. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>למצוא את כולם ולטפל בכולם (find and xargs)</itunes:title>
+   <itunes:summary>פיינד ואקס-ארגס: למצוא את כולם ולטפל בכולם. ונהלי הבטיחות: רשימה לפני ביצוע, תמיד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: מצא איתי קבצים לפי תנאים (סוג, גודל, זמן), שמור רשימה, ובצע פעולה בטוחה. כתוב, בלי להריץ, את פקודת המחיקה.
+גבולות: בלי מחיקה אמיתית בשום שלב.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הרשימה + הפעולה הבטוחה + פקודת המחיקה הכתובה בלבד.
+Definition of done: הרשימה נכתבה ונבדקה לפני כל פעולה.
+גבולות סמכות: אסור למחוק דבר; רשימה לפני ביצוע. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep065-find-xargs.mp3" length="2101857" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep065</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep065</link>
+   <pubDate>Thu, 24 Sep 2026 15:15:44 +0300</pubDate>
+   <itunes:duration>00:02:55</itunes:duration>
+   <itunes:episode>65</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>השילוש הקדוש של הלוגים (grep, sed, awk)</title>
    <description>גרפ, סד ואוק: השילוש הקדוש. מוצא, מחליף, מחשב - שלוש תחנות שקוראות כל לוג. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
