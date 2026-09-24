@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://aiaieshel-hub.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://aiaieshel-hub.github.io/musagim/</link></image>
   <item>
+   <title>התפריט המוסכם של האינטרנט (REST)</title>
+   <description>רסט: התפריט המוסכם. משאבים, ארבע פעולות, וקודי סטטוס - הספרה הראשונה אומרת מי אשם. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: תן לי תפריט REST של שירות אמיתי, ובצע שליפה, יצירה, ושגיאת 404 בכוונה עם curl.
+גבולות: שרת ניסוי או שירות ציבורי פתוח.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: התפריט + שלוש ההרצות + הסבר קודי הסטטוס שנצפו.
+Definition of done: כל קוד סטטוס זוהה והוסבר, כולל מי אחראי לתקלה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>התפריט המוסכם של האינטרנט (REST)</itunes:title>
+   <itunes:summary>רסט: התפריט המוסכם. משאבים, ארבע פעולות, וקודי סטטוס - הספרה הראשונה אומרת מי אשם. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: תן לי תפריט REST של שירות אמיתי, ובצע שליפה, יצירה, ושגיאת 404 בכוונה עם curl.
+גבולות: שרת ניסוי או שירות ציבורי פתוח.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: התפריט + שלוש ההרצות + הסבר קודי הסטטוס שנצפו.
+Definition of done: כל קוד סטטוס זוהה והוסבר, כולל מי אחראי לתקלה.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://aiaieshel-hub.github.io/musagim/episodes/ep070-rest.mp3" length="1877726" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep070</guid>
+   <link>https://aiaieshel-hub.github.io/musagim/#ep070</link>
+   <pubDate>Thu, 24 Sep 2026 15:31:04 +0300</pubDate>
+   <itunes:duration>00:02:36</itunes:duration>
+   <itunes:episode>70</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://aiaieshel-hub.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>השירות שקם אחרי הפסקת חשמל (systemd)</title>
    <description>שירותים: איך האתר קם אחרי הפעלה מחדש. ארבע ההבטחות של systemd ויוניט בארבע שורות. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
