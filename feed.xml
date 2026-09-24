@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>מכונת הזמן של המתכנת (Stash, Reset, Checkout)</title>
+   <description>סטאש, צ&#x27;קאאוט וריסט: מכונת הזמן של גיט, ולמה אחרי reset קשה כמעט שום דבר לא אבוד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי פרויקט ניסוי, שלוש נקודות צילום, reset קשה בכוונה, ושחזור דרך reflog.
+גבולות: פרויקט ניסוי בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד: מה נעלם, איך reflog החזיר, מה למדתי.
+Definition of done: הקבצים שוחזרו דרך reflog בהצלחה.
+גבולות סמכות: רק בפרויקט הניסוי; אסור reset בפרויקט אמיתי. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>מכונת הזמן של המתכנת (Stash, Reset, Checkout)</itunes:title>
+   <itunes:summary>סטאש, צ&#x27;קאאוט וריסט: מכונת הזמן של גיט, ולמה אחרי reset קשה כמעט שום דבר לא אבוד. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: בנה איתי פרויקט ניסוי, שלוש נקודות צילום, reset קשה בכוונה, ושחזור דרך reflog.
+גבולות: פרויקט ניסוי בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: תיעוד: מה נעלם, איך reflog החזיר, מה למדתי.
+Definition of done: הקבצים שוחזרו דרך reflog בהצלחה.
+גבולות סמכות: רק בפרויקט הניסוי; אסור reset בפרויקט אמיתי. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep058-stash-reset.mp3" length="2091826" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep058</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep058</link>
+   <pubDate>Thu, 24 Sep 2026 14:56:29 +0300</pubDate>
+   <itunes:duration>00:02:54</itunes:duration>
+   <itunes:episode>58</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הענן של הקוד (Remote, Push, Pull, Clone)</title>
    <description>רימוט: פוש, פול, קלון. הכספת המשותפת של הקוד, ולמה דוחפים כל יום. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
