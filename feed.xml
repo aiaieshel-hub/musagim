@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>לשאול את הנתונים שאלה טובה (Data Literacy)</title>
+   <description>אוריינות דאטה: ארבע השאלות (טיפוסי, פיזור, חריג, מתאם) ולמה ממוצע משקר. משימה מעשית: תן לסוכן קובץ נתונים אמיתי שלך ובקש תשובות לארבע השאלות. מקורות: Wikipedia - Median; Wikipedia - Correlation. פרומפט להטמעה: תפקיד והקשר: אתה אנליסט נתונים.
+קלטים: קובץ נתונים אמיתי שאציין (CSV).
+מטרה: ענה על ארבע השאלות: טיפוסי (ממוצע וחציון), פיזור, חריגים, מתאמים. הראה איך חישבת.
+גבולות: קריאה בלבד; בלי לנקות את הקובץ בלי אישור.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ארבע תשובות ממוספרות + פקודות החישוב.
+Definition of done: כל מספר ניתן לשחזור מהקובץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>לשאול את הנתונים שאלה טובה (Data Literacy)</itunes:title>
+   <itunes:summary>אוריינות דאטה: ארבע השאלות (טיפוסי, פיזור, חריג, מתאם) ולמה ממוצע משקר. משימה מעשית: תן לסוכן קובץ נתונים אמיתי שלך ובקש תשובות לארבע השאלות. מקורות: Wikipedia - Median; Wikipedia - Correlation. פרומפט להטמעה: תפקיד והקשר: אתה אנליסט נתונים.
+קלטים: קובץ נתונים אמיתי שאציין (CSV).
+מטרה: ענה על ארבע השאלות: טיפוסי (ממוצע וחציון), פיזור, חריגים, מתאמים. הראה איך חישבת.
+גבולות: קריאה בלבד; בלי לנקות את הקובץ בלי אישור.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: ארבע תשובות ממוספרות + פקודות החישוב.
+Definition of done: כל מספר ניתן לשחזור מהקובץ.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep044-data-literacy.mp3" length="2242918" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep044</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep044</link>
+   <pubDate>Thu, 24 Sep 2026 14:14:35 +0300</pubDate>
+   <itunes:duration>00:03:06</itunes:duration>
+   <itunes:episode>44</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הדלפן בכניסה לבניין (Firewall)</title>
    <description>חומת אש: רשימת כללים שברירת המחדל שלה סגור. הסיפור שחוזר של בסיס נתונים פתוח, והשאלה לשאול בכל חשיפה. משימה מעשית: בקש מהסוכן להציג את כללי חומת האש של השרת שלך ועבור עליהם. מקורות: Wikipedia - Firewall (computing). פרומפט להטמעה: תפקיד והקשר: אתה מבקר אבטחה בסיסי.
 קלטים: רשימת כללי חומת האש של השרת שלי.
