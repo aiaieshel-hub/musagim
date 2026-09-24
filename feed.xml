@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>השומר בשער והמכונה שחוזרת (Conditions and Loops)</title>
+   <description>תנאים ולולאות: השומר בשער והמכונה שחוזרת. שני המהלכים שמרכיבים כל תוכנית, ומשחק פיזבאז כתרגיל. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פיזבאז מאחד עד עשרים, שורה אחר שורה, והסבר כל שורה.
+גבולות: בלי העתקה מוכנה; הסבר לכל שורה חובה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקוד + הסבר לכל שורה + הרצה מוצלחת.
+Definition of done: התוכנית מדפיסה פיז על כפולות שלוש ובאז על כפולות חמש.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>השומר בשער והמכונה שחוזרת (Conditions and Loops)</itunes:title>
+   <itunes:summary>תנאים ולולאות: השומר בשער והמכונה שחוזרת. שני המהלכים שמרכיבים כל תוכנית, ומשחק פיזבאז כתרגיל. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: כתוב איתי פיזבאז מאחד עד עשרים, שורה אחר שורה, והסבר כל שורה.
+גבולות: בלי העתקה מוכנה; הסבר לכל שורה חובה.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקוד + הסבר לכל שורה + הרצה מוצלחת.
+Definition of done: התוכנית מדפיסה פיז על כפולות שלוש ובאז על כפולות חמש.
+גבולות סמכות: מותר לכתוב קובץ התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep048-conditions-loops.mp3" length="2001547" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep048</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep048</link>
+   <pubDate>Thu, 24 Sep 2026 14:30:41 +0300</pubDate>
+   <itunes:duration>00:02:46</itunes:duration>
+   <itunes:episode>48</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>המכונה הקטנה עם הפתק (Functions)</title>
    <description>פונקציות: המכונה הקטנה עם הקלט והפלט. לא לחזור על עצמך, שמות כהבטחה, ומה זה scope. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
