@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>המעטפה שכל העולם מסכים עליה (JSON)</title>
+   <description>ג&#x27;ייסון: המעטפה שכל העולם מסכים עליה. סוגריים מסולסלים ומרובעים, ואיך לקרוא כל ג&#x27;ייסון. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: צור איתי קובץ ג&#x27;ייסון של שלושה מוצרים, חשב סכום כולל, ואז שבור בכוונה והרץ שוב.
+גבולות: חמש שורות קוד בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ + החישוב + הדגמת שגיאת ג&#x27;ייסון + הסברה.
+Definition of done: הסכום נכון, השגיאה זוהתה והוסברה.
+גבולות סמכות: מותר לכתוב קבצי התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>המעטפה שכל העולם מסכים עליה (JSON)</itunes:title>
+   <itunes:summary>ג&#x27;ייסון: המעטפה שכל העולם מסכים עליה. סוגריים מסולסלים ומרובעים, ואיך לקרוא כל ג&#x27;ייסון. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
+קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
+מטרה: צור איתי קובץ ג&#x27;ייסון של שלושה מוצרים, חשב סכום כולל, ואז שבור בכוונה והרץ שוב.
+גבולות: חמש שורות קוד בלבד.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: הקובץ + החישוב + הדגמת שגיאת ג&#x27;ייסון + הסברה.
+Definition of done: הסכום נכון, השגיאה זוהתה והוסברה.
+גבולות סמכות: מותר לכתוב קבצי התרגיל בלבד. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep053-json.mp3" length="2259218" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep053</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep053</link>
+   <pubDate>Thu, 24 Sep 2026 14:43:56 +0300</pubDate>
+   <itunes:duration>00:03:08</itunes:duration>
+   <itunes:episode>53</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>הכפתורים על הכלי (CLI Arguments and Flags)</title>
    <description>דגלים בשורת הפקודה: הכפתורים של הכלי, השילוש input-output-verbose, ולמה help טוב הוא סימן היכר. מקורות: . פרומפט להטמעה: תפקיד והקשר: אתה שותף ללמידה מעשית בפרויקט שלי.
 קלטים: התרגיל מהפרק על הנושא, בפרויקט שלי.
