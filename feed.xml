@@ -16,6 +16,35 @@
   <itunes:type>episodic</itunes:type>
   <image><url>https://avigdor-instinct.github.io/musagim/cover.jpg</url><title>בלשון סוכנים</title><link>https://avigdor-instinct.github.io/musagim/</link></image>
   <item>
+   <title>הסיומת שמספרת הכול (File Extensions)</title>
+   <description>סיומות קבצים: שלוש אותיות שמספרות באיזו שפה הקובץ כתוב. שלוש המשפחות (טקסט טהור, מסמכים עשירים, בינארי) ולמה לציין פורמט כשמבקשים מהסוכן לשמור. משימה מעשית: מיין תיקייה אחת במחשב לפי שלוש המשפחות. מקורות: Wikipedia - Filename extension. פרומפט להטמעה: תפקיד והקשר: אתה מארגן קבצים.
+קלטים: רשימת קבצים מתיקייה שאציין.
+מטרה: מיין את הקבצים לשלוש משפחות פורמט והסבר מה אפשר לעשות עם כל משפחה.
+גבולות: בלי להזיז או לשנות קבצים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: קובץ, סיומת, משפחה, שימוש.
+Definition of done: כל קובץ ברשימה מסווג, בלי יוצא מן הכלל.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</description>
+   <itunes:title>הסיומת שמספרת הכול (File Extensions)</itunes:title>
+   <itunes:summary>סיומות קבצים: שלוש אותיות שמספרות באיזו שפה הקובץ כתוב. שלוש המשפחות (טקסט טהור, מסמכים עשירים, בינארי) ולמה לציין פורמט כשמבקשים מהסוכן לשמור. משימה מעשית: מיין תיקייה אחת במחשב לפי שלוש המשפחות. מקורות: Wikipedia - Filename extension. פרומפט להטמעה: תפקיד והקשר: אתה מארגן קבצים.
+קלטים: רשימת קבצים מתיקייה שאציין.
+מטרה: מיין את הקבצים לשלוש משפחות פורמט והסבר מה אפשר לעשות עם כל משפחה.
+גבולות: בלי להזיז או לשנות קבצים.
+חוק השאלות: שאל עד שלוש שאלות הבהרה לפני תחילת העבודה.
+פורמט החזר: טבלה: קובץ, סיומת, משפחה, שימוש.
+Definition of done: כל קובץ ברשימה מסווג, בלי יוצא מן הכלל.
+גבולות סמכות: קריאה בלבד. כל כתיבה או שינוי דורשים אישור מפורש. הפרק מופק ומוגש באמצעות בינה מלאכותית וקול סינתטי.</itunes:summary>
+   <enclosure url="https://avigdor-instinct.github.io/musagim/episodes/ep035-extensions.mp3" length="2159849" type="audio/mpeg"/>
+   <guid isPermaLink="false">musagim-ep035</guid>
+   <link>https://avigdor-instinct.github.io/musagim/#ep035</link>
+   <pubDate>Thu, 24 Sep 2026 13:52:42 +0300</pubDate>
+   <itunes:duration>00:02:59</itunes:duration>
+   <itunes:episode>35</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://avigdor-instinct.github.io/musagim/cover.jpg"/>
+   <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
    <title>לשבור בעיה לחתיכות (Decomposition)</title>
    <description>פירוק בעיה לחתיכות: ארבע השאלות שהופכות &#x27;בוא נבנה אפליקציה&#x27; לרשימת משימות ברורות, ולמה זו מיומנות העל של בונה עם סוכנים. משימה מעשית: קח רעיון אמיתי שלך ופרק אותו עם הסוכן למשימות בדיקות. מקורות: Wikipedia - Decomposition (computer science). פרומפט להטמעה: תפקיד והקשר: אתה שותף לפירוק בעיות.
 קלטים: רעיון למוצר או פיצ&#x27;ר שאכתוב במשפט אחד.
